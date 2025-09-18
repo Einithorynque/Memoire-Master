@@ -11,13 +11,15 @@
             "id": "b3e2e0840b96660a",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "split-diff-view",
               "state": {
-                "file": "Notions/Récapitulatifs/Récapitulatifs Notions.base",
-                "viewName": "Table"
+                "aFile": "Mémoire Général/Mémoire/.obsidian/plugins/obsidian-git/data.json",
+                "bFile": "Mémoire Général/Mémoire/.obsidian/plugins/obsidian-git/data.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-table",
-              "title": "Récapitulatifs Notions"
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           },
           {
@@ -48,8 +50,7 @@
               "title": "Compte Rendu de Stage"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,47 +236,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "016b95d951264ac9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "55e5d24ba3634661",
-        "type": "window",
-        "children": [
-          {
-            "id": "e9ab060a1e28cf0b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1f1d7f98e3c0e448",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://publish.obsidian.md/git-doc/Authentication",
-                    "title": "Authentication - Git Documentation - Obsidian Publish",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Authentication - Git Documentation - Obsidian Publish"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 123,
-        "y": 257,
-        "width": 1025,
-        "height": 801,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "306e0b2d66bb1461",
+  "active": "b3e2e0840b96660a",
   "lastOpenFiles": [
+    "Notions/Récapitulatifs/Récapitulatifs Notions.base",
     "Ecrits/Compte Rendu de Stage.md",
     "Lectures/Retours/Algorithmes vs Interactions, la revanche de l'intelligence artificielle dans le design.md",
     "Lectures/Théorie du Design numérique/A faire.md",
@@ -304,7 +267,6 @@
     "Lectures/A lire/A lire.md",
     "Mon Mémoire.md",
     "Résumé du sujet.md",
-    "Notions/Récapitulatifs/Récapitulatifs Notions.base",
     "Notions/Récapitulatifs",
     "Objets/Catégories Objets",
     "Suivis/Récapitulatif Suivis.base",
