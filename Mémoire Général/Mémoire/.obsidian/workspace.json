@@ -184,12 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Ecrits/Compte Rendu de Stage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Plan de Compte Rendu de Stage"
             }
           },
           {
@@ -197,18 +198,29 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Ecrits/Compte Rendu de Stage.md"
+              },
               "icon": "lucide-info",
-              "title": "Propriétés du fichier"
+              "title": "Propriétés du fichier pour Compte Rendu de Stage"
+            }
+          },
+          {
+            "id": "4e64904323567e41",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 322.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,7 +274,7 @@
       }
     ]
   },
-  "active": "1f1d7f98e3c0e448",
+  "active": "306e0b2d66bb1461",
   "lastOpenFiles": [
     "Ecrits/Compte Rendu de Stage.md",
     "Lectures/Retours/Algorithmes vs Interactions, la revanche de l'intelligence artificielle dans le design.md",
