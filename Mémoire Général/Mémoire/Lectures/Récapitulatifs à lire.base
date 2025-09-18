@@ -1,6 +1,6 @@
 views:
   - type: table
-    name: Table
+    name: Textes
     filters:
       and:
         - file.inFolder("Lectures/A lire")
@@ -18,3 +18,5 @@ views:
         direction: ASC
     columnSize:
       note.Sources: 122
+  - type: table
+    name: Textes

@@ -6,6 +6,9 @@ Sources:
   - "[[From Cornucopian Design Patterns to Digital Infrastructure Growth - How Design Choices Lead to Environmental Impacts]]"
 Objets:
   - "[[Applications]]"
+Avis:
+  - Très intéressant
+Résumé: Les développeurs·euses, dans leur processus pour répondre à des problèmes, cadrent ces problèmes. Ce cadre se retrouve quand on analyse quels mécanismes sont utilisés pour encourager des fonctionnalités, à quelles personnes, et dans quel contexte.
 ---
 
 ## Postulat 

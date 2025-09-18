@@ -5,6 +5,11 @@ Sources:
   - "[[ The walkthrough method, An approach to the study of apps]]"
   - "[[From Cornucopian Design Patterns to Digital Infrastructure Growth - How Design Choices Lead to Environmental Impacts]]"
 Objets:
+  - "[[Applications]]"
+  - "[[Sites Web]]"
+Avis:
+  - Plutôt intéressant
+Résumé: "A lire : réaliser des parcours exhaustifs et noter toutes les fonctionnalités, le faire avec plusieurs types de comptes."
 ---
 
 

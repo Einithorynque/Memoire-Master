@@ -1,6 +1,4 @@
 
-
-
 - Un compte-rendu d’une page environ sur votre avancée ce semestre. Vous pouvez par exemple décrire comment votre stage vous a permis de repenser ou de progresser sur un aspect de votre recherche, les analyses que vous auriez pu faire, les éléments de corpus collectés, etc.
 
 

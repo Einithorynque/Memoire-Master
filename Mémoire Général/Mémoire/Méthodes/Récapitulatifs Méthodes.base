@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Méthodes")
+    order:
+      - file.name
+      - Avis
+      - Objets
+      - Résumé
+      - Sources
+    sort:
+      - property: Avis
+        direction: DESC
+    columnSize:
+      note.Objets: 180
+      note.Résumé: 375

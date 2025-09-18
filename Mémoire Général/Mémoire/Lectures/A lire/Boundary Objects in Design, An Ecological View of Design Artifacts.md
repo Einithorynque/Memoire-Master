@@ -1,12 +1,12 @@
 ---
 Type:
-  - "[[LECTURE]]"
-Themes: 
-Sources: 
-Auteurs·ices: 
-Complétion: 
+  - LECTURE
+Themes:
+Sources:
+Auteurs·ices:
+Complétion:
 Avis:
   - Très intéressant
-Eco-Conceptions: 
+Eco-Conceptions:
 Eco-Interactions:
 ---

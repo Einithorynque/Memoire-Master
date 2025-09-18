@@ -1,6 +1,6 @@
 views:
   - type: table
-    name: Table
+    name: Textes
     filters:
       and:
         - file.inFolder("Lectures/Retours")

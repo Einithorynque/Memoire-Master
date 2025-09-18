@@ -1,0 +1,20 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - or:
+            - file.inFolder("Lectures/Retours")
+        - or:
+            - file.inFolder("Objets")
+    order:
+      - file.name
+      - Sources
+      - Type
+      - Objets
+      - Résumé
+      - Themes
+      - Auteurs·ices
+    sort:
+      - property: Type
+        direction: ASC
