@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "106f578d7b2379cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d612b68646aa6e86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9de5ae9f06837096",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
+          },
+          {
+            "id": "74a863d80a2aca86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memoire/Mémoire/Notions/Fonctionnalités.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fonctionnalités"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79ee9ce0bd47d5b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6839a2b581d90d40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d14f4d9a2827f546",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "db1e25c75e56e461",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "285fb9823f9806ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8179fcedc89d5b5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4280e2671154e7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00539eb0dd577c75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
+            }
+          },
+          {
+            "id": "a11580c157bfe9f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "84dcec90796d56e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "06e0fd762865b897",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "d14f4d9a2827f546",
+  "lastOpenFiles": [
+    "Memoire/Mémoire/Suivis/Suivi 16.09.md",
+    "Memoire/Mémoire/Templates/Template Suivis.md",
+    "Memoire/Mémoire/Suivis/Récapitulatif des suivis.base",
+    "Memoire/Mémoire/Suivis/Encadrant·es/Margaux Crinon.md",
+    "[[Récapitulatif.md",
+    "Memoire/Mémoire/Mon Mémoire.md",
+    "Memoire/Mémoire/Lecture/Auteurs·ices/Susan R. Fussell.md",
+    "Memoire/Mémoire/Lecture/Auteurs·ices/Rena Bivens.md",
+    "Memoire/Mémoire/Lecture/Auteurs·ices/Daniel Schien.md",
+    "Memoire/Mémoire/Lecture/Auteurs·ices/Alizée Roux.md",
+    "Memoire/Mémoire/Lecture/Auteurs·ices/Alan Borning.md",
+    "Memoire/Mémoire/Suivis/Encadrant·es",
+    "Memoire/Mémoire/Lecture/Retours/The interface as discourse, The production of norms through web design.md",
+    "Memoire/Mémoire/Lecture/Retours/Feature Analysis, A Method for Analyzing the Role of Ideology in App Design.md",
+    "Memoire/Mémoire/Ecrits/MethodologieRecherche/Exercice analyse visuelle.md",
+    "Memoire/Mémoire/Suivis/Récapitulatif des suivis.md",
+    "Memoire/Mémoire/Suivis/Récapitu.md",
+    "Memoire/Mémoire/Méthodes/Feature Analysis.md",
+    "Test BDD.base",
+    "Memoire/Mémoire/Suivis",
+    "Memoire/Mémoire/Scale-Up Mechanisms.md",
+    "Memoire/Mémoire/Individual hardware renewal and obsolescence.md",
+    "Memoire/Mémoire/Conceptual Patterns.md",
+    "Memoire/Mémoire/To do list.md",
+    "Memoire/Mémoire/Sujet.md",
+    "Memoire/img/Pasted image 20250416145614.png",
+    "Memoire/img/Pasted image 20250416142243.png",
+    "Memoire/img/Pasted image 20250108213900.png",
+    "Memoire/img",
+    "Memoire/img/Mots clés.md",
+    "Memoire/Mémoire/Notions/Fonctionnalités.md",
+    "Memoire/Mémoire/Lecture/A lire/Sustainable Interaction Design - Invention & Disposal, Renewal & Reuse.md",
+    "Memoire/Projet de fin d'études",
+    "Untitled.md",
+    "Memoire/Mémoire/Lecture/Retours/Sustainable HCI, IHM Durable/Au-delà des clichés sur l'éco-conception.md",
+    "Memoire/img/image 2.png",
+    "Memoire/img/image.webp",
+    "Memoire/img/image.png",
+    "Memoire/img/Pasted image 20250101164916.png",
+    "Memoire/img/Pasted image 20250107135557.png",
+    "Memoire/img/Pasted image 20250107142238.png",
+    "Memoire/img/Pasted image 20250108174502.png"
+  ]
+}

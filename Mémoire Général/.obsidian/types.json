@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Citations": "text",
+    "Auteurs": "multitext",
+    "Résumé": "multitext",
+    "Type d'éco-conception": "multitext",
+    "Themes": "multitext",
+    "Sources": "multitext",
+    "Auteurs·ices": "multitext",
+    "Objets": "multitext"
+  }
+}

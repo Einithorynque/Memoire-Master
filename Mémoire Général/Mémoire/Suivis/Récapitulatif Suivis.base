@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Suivis")
+        - Type == ["SUIVI"]
+    order:
+      - file.name
+      - Encadrant·es
+      - Date de création
+      - Résumé
+    sort:
+      - property: Type
+        direction: ASC
+    columnSize:
+      note.Date de création: 174

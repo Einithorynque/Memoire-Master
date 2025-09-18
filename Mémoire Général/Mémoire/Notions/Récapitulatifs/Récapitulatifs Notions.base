@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Notions")
+        - Type == ["NOTION"]
+    order:
+      - file.name
+      - Themes
+      - Objets
+      - Sources
+      - Auteurs·ices

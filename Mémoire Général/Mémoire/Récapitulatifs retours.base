@@ -1,0 +1,38 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Lectures/Retours")
+    order:
+      - file.name
+      - Complétion
+      - Avis
+      - Themes
+      - Objets
+      - Sources
+      - Type
+      - Eco-Interactions
+      - Eco-Conceptions
+      - Auteurs·ices
+      - Résumé
+    sort:
+      - property: Complétion
+        direction: DESC
+      - property: Eco-Interactions
+        direction: DESC
+      - property: Objets
+        direction: ASC
+      - property: Avis
+        direction: ASC
+      - property: Themes
+        direction: DESC
+    columnSize:
+      note.Complétion: 52
+      note.Themes: 143
+      note.Objets: 100
+      note.Sources: 93
+      note.Résumé: 524
+      note.Type: 90
+      note.Eco-Interactions: 149
+      note.Eco-Conceptions: 161

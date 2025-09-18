@@ -1,0 +1,17 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Eco-Conceptions": "multitext",
+    "Type": "multitext",
+    "Themes": "multitext",
+    "Auteurs·ices": "multitext",
+    "Eco-Interactions": "multitext",
+    "Avis": "multitext",
+    "Complétion": "checkbox",
+    "Sources": "multitext",
+    "Objets": "multitext",
+    "Date de création": "datetime"
+  }
+}

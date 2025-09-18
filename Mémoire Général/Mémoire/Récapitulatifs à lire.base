@@ -1,0 +1,20 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Lectures/A lire")
+    order:
+      - file.name
+      - Avis
+      - Themes
+      - Sources
+      - Auteurs·ices
+      - Type
+    sort:
+      - property: Avis
+        direction: DESC
+      - property: Type
+        direction: ASC
+    columnSize:
+      note.Sources: 122
