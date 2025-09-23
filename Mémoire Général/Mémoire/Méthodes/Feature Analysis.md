@@ -141,4 +141,3 @@ Cela permet de savoir si il y a un déterminisme technologique qui a poussé ces
 
 - Interviewer les développeurs·euses (comprendre tout le contexte de développement)
 - Interviewer les utilisateurs·ices (comprendre + le contexte d'utilisation)
-- 

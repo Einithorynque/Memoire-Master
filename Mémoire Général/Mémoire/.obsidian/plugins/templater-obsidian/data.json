@@ -37,6 +37,14 @@
     {
       "folder": "Hebdos",
       "template": "Templates/Template Hebdo.md"
+    },
+    {
+      "folder": "Parcours",
+      "template": "Templates/Template Parcours.md"
+    },
+    {
+      "folder": "Objets/Parcourus",
+      "template": "Templates/Template Objets Parcourus.md"
     }
   ],
   "enable_file_templates": false,

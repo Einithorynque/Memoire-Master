@@ -12,6 +12,9 @@
     "Complétion": "checkbox",
     "Sources": "multitext",
     "Objets": "multitext",
-    "Date de création": "datetime"
+    "Date de création": "datetime",
+    "Média": "multitext",
+    "Parcours": "multitext",
+    "Récurrence": "number"
   }
 }

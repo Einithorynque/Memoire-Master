@@ -1,6 +1,7 @@
 ---
 Type:
   - METHODE
-Sources: 
+Sources:
 Objets:
+aliases:
 ---
