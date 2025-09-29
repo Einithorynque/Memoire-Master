@@ -2,26 +2,40 @@
 Date de création: 2025-09-16T08:00:00
 Encadrant·es:
   - "[[Margaux Crinon]]"
-Résumé:
-Complétion: false
+Résumé: |-
+  Discussion sur les parcours : Nicolas Nova est à lire. Il faut que j'identifier les biais dans mon regard. Je peux m'intéresser à une micro phénoménologie : comment certains éléments affecte l'expérience, test utilisateur.
+  Idées outils : Excel : permet xml > visualisation, NotaAI : retranscription
+Complétion: true
 Type:
   - SUIVI
 ---
+## Objectif pour le 23/09
 
-Ecrire le déroulé de ce que de mon walktrought
+Ecrire le déroulé de ce que pourrait être mon walktrought
+- Colonne ce que je veux faire et regarder (protocole idéalisé)
+- Colonne de ce que j'ai trouvé, ne savais pas qui m'a intéressé (protocole découvert)
+- Est ce que je fais des entretiens qualitatifs ?
 
-colonne ce que je veux cehcker (protocole idéalisé)
-colonne de ce que je ne savais pas ce qui m'intéressait (protocole découvert)
+## Comment parcourir
 
-xl : permet d'export xls pour après aler plus loins en visualisation 
+> [!tip] Excel pour collecter les fonctionnalités
+> excel : permet d'export xls pour après aler plus loins en visualisation 
 
-Nicolas Nova : exploration pplus libre, observation, ethnographe, promener.
+### Nicolas Nova, position du regard
 
-Je ne suis pas un visiteur lambda, mon regard et situé => identifier la particulariter de mon parcours, noter mes biais de lecture. Est ce que je suis à côté de quelqu'un que je vais observer. 
-micro phenoménologique : comment certaines expérience numérique affecte l'expérience. il dit quoi. Le faire en enregistrant  => avoir les éléments de langage. Moi je suis plus attentif. Notta. https://www.notta.ai/fr. Repérer des éléments de langages. 
+Nicolas Nova : exploration plus libre, observation, ethnographe, se promener.
 
-Essayer de designer deux protocole : 
+**Je ne suis pas un visiteur lambda, mon regard et situé** 
+- Identifier la particularité de mon parcours, noter mes biais de lecture. 
 
-walktrought que je vais faire, qu'est ce que je pense regarder
-qu'est ce que j'ai trouver finalement
-est ce que je fais des entretiens qualitatifs. 
+### Regard des autres : test utilisateurs ?
+
+Est ce que je suis à côté de quelqu'un que je vais observer ?
+
+**Micro phénoménologie** : comment certaines expériences numériques affectent l'expérience.
+Est ce que je fais des entretiens qualitatifs ?
+Si oui, s'intéresser à ce que dit la personne à coté de moi. Le faire en enregistrant : permet d'avoir les **éléments de langage**. Être plus attentif. Repérer des **éléments de langages.** 
+
+> [!TIP] AI retrenscription
+> Notta. https://www.notta.ai/fr. 
+

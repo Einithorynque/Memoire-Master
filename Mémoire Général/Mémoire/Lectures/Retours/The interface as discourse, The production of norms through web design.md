@@ -16,8 +16,10 @@ Date de création: ""
 Complétion: false
 Avis:
   - Très intéressant
-Eco-Conceptions: 
+Eco-Conceptions:
 Eco-Interactions:
+aliases:
+  - "Stanfill, Mel. 2015. « The Interface as Discourse: The Production of Norms through Web Design ». New Media & Society 17 (7): 1059‑74. https://doi.org/10.1177/1461444814520873."
 ---
 
 Stanfill, Mel définit dans cet article de recherche la [[Discursive Interface Analysis]]. 

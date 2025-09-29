@@ -1,5 +1,5 @@
 ---
-Description: Consulter une liste d'articles d'actualités pouvant être composés de **texte**, **vidéos**, **citations** et **liens**. Ces articles sont **partageable** sur 5 réseaux sociaux et sont liés à des **thématiques** et des **personnes** de la page Communauté.
+Description: Consulter une liste d'articles d'actualités pouvant être composés de **texte**, **vidéos**, **citations** et **liens**. Ces articles sont liés à des **thématiques** et des **personnes** de la page Communauté.
 Médias:
   - "[[actualites-liste-lesecologistes.jpg]]"
   - "[[actualites-accueil-lesecologistes.jpg]]"
@@ -18,12 +18,8 @@ Date de création: 2025-09-22T17:12:00
 ---
 Le site propose de consulter une liste d'articles d'actualités pouvant être composés de **texte**, **vidéos**, **citations** et **liens**. 
 
-Ces articles sont **partageable** sur 5 réseaux sociaux (dans l'ordre) :
-- [[Facebook]]
-- [[X]]
-- [[Telegram]]
-- [[Bluesky]]
-- [[Whatsapp]]
+![[Partager une actualité]]
+
 
 Ils sont liés à des **thématiques** et des **personnes** de la page Communauté. 
 

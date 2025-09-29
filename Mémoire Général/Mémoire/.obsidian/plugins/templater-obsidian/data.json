@@ -45,6 +45,14 @@
     {
       "folder": "Objets/Parcourus",
       "template": "Templates/Template Objets Parcourus.md"
+    },
+    {
+      "folder": "Objets/Exemples",
+      "template": "Templates/Template Objets Parcourus.md"
+    },
+    {
+      "folder": "",
+      "template": ""
     }
   ],
   "enable_file_templates": false,

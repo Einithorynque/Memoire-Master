@@ -52,7 +52,7 @@ Etudient la place du design dans les hn
 instrumental, rhétorique, critique
 
 
-### Humanities computing
+#### Humanities computing
 
 Numérique comme un outil, logique d'expérience basé sur un acte administratif :
 Taitement de fonds d'archive, cartographie
@@ -61,7 +61,7 @@ Les méthodes informatique sont des sur disciplines qui vont modifier la percept
 
 CMS : donner un esthétique aux données, permet pas une interprétation car très limitée
 
-### Design comme rhétorique formelle
+#### Design comme rhétorique formelle
 
 Le numérique permet d'aller beaucoup plus loin, étudier des corpus inédits
 (web 2.0)
@@ -69,7 +69,7 @@ Le design vient en amont avec les chercheurs pour co construire un discours scie
 On passe de design comm embellissement à design comme pratique de recherche. 
 Design : déformer pour interpréter. 
 
-### Comprendre et déconstruire les systèmes numériques, vers numériques 3.0 ?
+#### Comprendre et déconstruire les systèmes numériques, vers numériques 3.0 ?
 
 Déconstruire : critique face aux environnements numériques tournés vers le produits
 Ils vont impacter les données. 
@@ -83,10 +83,76 @@ Web :
 
 Design comme outil de compréhension et subversion de l'outil numérique.
 
-### Déformer les modèles
+#### Déformer les modèles
 
 Il faudrait qu'on passe d'outil numérique à méthode numérique.
 On en est qu'au design phase 1.
 
 Transposer les caractéristiques humaines de l'ambiguité et de la subjectivité au numérique. 
 
+## Chapitre 2
+
+Comment envisager la recherche en design comme un ensemble de savoirs modélisable.
+
+Qu'est ce  que le modèle : Qu'est ce que chose qui se substitue au réel que l'on ne peut pas visualiser.
+
+Le design demande de la pratique, pas que de la théorie
+
+Le design permet des avis = est ce que c'est de la science
+
+3 typologie de recherche en design (1970)
+- Recherche sur le design : sur un objet de design
+- Recherche avec le design : on analyse le contexte qui amène à un objet
+- Recherche en design qui interroge les pratiques pour arriver à cet objet
+
+Complément de lecture :  
+Ressemblance avec ce modèle de la recherche en design :  
+- Recherche sur le design : s’intéresse au designer qui design quelque chose  
+- Recherche par le design :  se servir du design comme un outil d’expérimentation pour un autre domaine scientifique  
+- Recherche pour le design : éprouver les méthodes de design
+
+
+Innovation : 
+- a un aspect critique (le design est politique)
+- prend des formes diverses
+
+#### Le design est indiscipliné
+
+La science : on doit pouvoir reproduire les démonstrations = modèle
+Ce qui n'est pas possible ne design. 
+
+Recherche en design = une interrogation des pratique. Mais instabilité de ces nouvelles connaissances basées sur la pratique. Se doit de se détacher des autres champs scientifique. 
+
+Différentes méthodologie mais doivent rester souple, pour pouvoir pratiquer le design. Le design se veut comme un moteur d'innovation : production de nouvelle chose. Souplesse des méthodologie est propre à la recherche en design.
+
+## Chapitre 3, L'injonction à la créativité et à l'innovation
+
+src : https://cfeditions.com/public/
+src : https://chatonsky.net/category/academique/
+
+Pars du contexte des velib. Nos espaces privées sont alors mis au service de technologie / d'entreprise. A la place d'être utilisé pour nous. 
+
+Design de service : est ce que ce n'est pas déjà notre du au départ le service => servitude 
+
+On appel beaucoup de chose design. Comment peut on le séparer du service. 
+
+Espace centralité. Toujours même interface; même fonctionnalité. Guidelines de apple. Pas de retour critique.
+
+Exemple de youtube.
+
+L'art se détache de tout mais se soumet à l'esprit du capitalisme
+création (artistique)
+créativité (consommatoire)
+
+Quand on veut augmenter nos compétences créatives, on ne fait que se soumettre à l'avance au système actuel. Obsolescence programmé.
+
+Le design doit être associé à l'ingéniosité, la créativité.
+
+#### Logiciel
+
+Logiciels influent notre créativité : programmé.
+Adobe : injonction à la créativité, ligne de production. 
+
+C'est le moment où l'outil n'est plus la propriété de l'artisant qu'il devient ouvrier. 
+
+Magner un logiciel, c'est magner une certaine vision du monde, de l'art.

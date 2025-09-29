@@ -10,7 +10,7 @@ Je ne pense pas m'intéresser à :
 	Qu'est ce qui permet de choisir une action ? Qu'est ce qui indique l'action ?
 	**Exemple** : texte d'un bouton
 - Affordance sensitive :
-	Comment les actions sont présentées ?
+	Comment les actions sont présentées ?  
 	**Exemple** : mise en page des informations, hiérarchie, couleurs
 [[Discursive Interface Analysis]]
 

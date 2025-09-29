@@ -6,11 +6,12 @@ Médias:
   - "[[accueil-carte-lesecologistes.jpg]]"
   - "[[carte-deplacement-carte.lesecologistes.mp4]]"
   - "[[carte-hors-france-carte.lesecologistes.mp4]]"
+  - "[[carte-mouvement-lesecologistes.jpg]]"
 Objet d'étude:
   - "[[Les Écologistes - Carte]]"
   - "[[Les Écologistes]]"
 Parcours:
   - Accueil
-Récurrence: 1
+Récurrence: 2
 Date de création: 2025-09-22T19:04:00
 ---
