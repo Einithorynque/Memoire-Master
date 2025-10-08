@@ -6,6 +6,7 @@ Themes:
   - "[[Culture]]"
   - "[[Technologies]]"
   - "[[Applications]]"
+  - "[[Les Affordances]]"
 Sources:
   - Zotero
 Auteurs·ices:

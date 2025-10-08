@@ -17,6 +17,7 @@
     "Parcours": "multitext",
     "Récurrence": "number",
     "Scrolls": "number",
-    "Cliques": "number"
+    "Cliques": "number",
+    "Réponse au problème": "checkbox"
   }
 }

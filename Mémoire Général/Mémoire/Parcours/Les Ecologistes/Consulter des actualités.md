@@ -1,4 +1,6 @@
 ---
+Type:
+  - PARCOURS
 Description: Consulter une liste d'articles d'actualités pouvant être composés de **texte**, **vidéos**, **citations** et **liens**. Ces articles sont liés à des **thématiques** et des **personnes** de la page Communauté.
 Médias:
   - "[[actualites-liste-lesecologistes.jpg]]"
@@ -15,6 +17,7 @@ Parcours:
   - Communauté
 Récurrence: 3
 Date de création: 2025-09-22T17:12:00
+Réponse au problème: true
 ---
 Le site propose de consulter une liste d'articles d'actualités pouvant être composés de **texte**, **vidéos**, **citations** et **liens**. 
 

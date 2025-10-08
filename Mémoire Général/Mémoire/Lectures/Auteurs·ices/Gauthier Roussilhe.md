@@ -1,2 +1,2 @@
 
-Gauthier Roussilhe écrit : [[La question écologique dans le champs du design numérique]] alors qu'il est **doctorant** au **Royal Melbourne Institute of Technology** et au **Centre de Recherche en Design** à Paris.
+Gauthier Roussilhe écrit : [[La question écologique dans le champ du design numérique]] alors qu'il est **doctorant** au **Royal Melbourne Institute of Technology** et au **Centre de Recherche en Design** à Paris.

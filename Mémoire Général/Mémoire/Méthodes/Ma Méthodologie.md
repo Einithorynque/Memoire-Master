@@ -35,3 +35,27 @@ Les fonctions d'une application que les utilisateurs·ices exécutent, incluant 
 - Inscrire les fonctionnalités dans des parcours
 - Naviguer en navigation privée
 - Noter la date d'étude
+- Regarder en mobile
+
+**Pour les sites**
+- Noter les développeur·euses 
+- Note le studio
+- Noter la, les technologies
+
+--- 
+
+## Trie par problématique
+
+Oui non problématique
+
+est ce que j'identifie les choses spécifique, pas redondante. 
+
+Peut être adapter ma méthode pour essayer d'avoir une analyse comparative. 
+
+à quel point par choix de fonctionnalité / composant d'interface / comment est ce qu'ils arrive à
+rapport différent avec le long terme.
+
+---
+
+## Analyse des données
+

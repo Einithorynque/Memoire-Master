@@ -9,6 +9,9 @@ Parcours:
   - Accueil
 Récurrence: 2
 Date de création: 2025-09-21T18:42:00
+Type:
+  - PARCOURS
+Réponse au problème: true
 ---
 Un bouton "PASSER À L'ACTION" ouvre un lien dans une nouvelle fenêtre vers un autre site : https://actions.lesecologistes.fr/. 
 

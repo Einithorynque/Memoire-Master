@@ -9,8 +9,10 @@ Auteurs·ices:
 Sources:
   - "[[Sustainable Interaction Design - Invention & Disposal, Renewal & Reuse]]"
   - "[[Environmental Sustainability and Interaction]]"
-Eco-Conceptions: 
+Eco-Conceptions:
 Eco-Interactions:
+aliases:
+  - Sustainable Interaction Design
 ---
 ## Sources
 
@@ -19,7 +21,7 @@ Ce sous-champ de l'IHM (Interaction Homme-Machine) est apparu en 2007, sous l'im
 - **« [[Environmental Sustainability and Interaction]] » (Mankoff et al., 2007)**
 
 Pour constater l’avancée de ce champ et les sujets y étant abordés ces dix dernières années, je me suis appuyé sur deux articles faisant des synthèses des études menées dans cette discipline :
-- [[Mapping the Landscape of Sustainable HCI]] (DiSalvo, Sengers, et Brynjarsdóttir, 2010)**
+- [[Mapping the Landscape of Sustainable HCI]] (DiSalvo, Sengers, et Brynjarsdóttir, 2010)
 - **« Expanding the Concept of Sustainable Interaction Design: A Systematic Review » (Besana et al., 2024)**
 
 Le premier de ces deux articles considère d’ailleurs le Design d'Interaction Durable comme un sous-genre du **Sustainable Human-Computer Interaction** (Interaction Homme-Machine Durable), aux côtés d'autres domaines tels que l'étude des **Persuasive Technologies** (Technologies persuasives) et de l'**Ambient Awareness** (prise de conscience par l'environnement).

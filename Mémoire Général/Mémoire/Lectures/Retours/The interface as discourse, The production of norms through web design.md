@@ -4,7 +4,7 @@ Type:
 Themes:
   - "[[Human Computer Interaction]]"
   - "[[Technologies]]"
-  - "[[Affordance]]"
+  - "[[Les Affordances]]"
 Objets:
   - "[[Sites Web]]"
 Sources:

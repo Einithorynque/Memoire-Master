@@ -1,14 +1,13 @@
 ---
 Type:
-  - LECTURE
+  - NOTION
 Themes:
-Sources:
 Objets:
 Auteurs·ices:
-Date de création:
-Complétion: false
-Avis:
+Sources:
 Eco-Conceptions:
 Eco-Interactions:
+aliases:
 Résumé:
 ---
+

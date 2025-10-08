@@ -3,5 +3,5 @@ views:
     name: Table
     filters:
       and:
-        - file.inFolder("Hebdo")
+        - file.inFolder("Hebdos")
         - Type == ["HEBDO"]

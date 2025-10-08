@@ -1,4 +1,6 @@
 ---
+Type:
+  - PARCOURS
 Description:
 Médias:
 Objet d'étude:
@@ -7,4 +9,5 @@ Récurrence:
 Scrolls:
 Cliques:
 Date de création:
+Réponse au problème: false
 ---

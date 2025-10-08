@@ -11,13 +11,17 @@
 				- Où est ce qu'on en est en therme de méthodo
 		- A quoi ça ressemble la recherche
 
-- Pour **mardi 30/09**
+- Pour **mardi 07/10**
 	- [ ] Passer mon premier walkthrough https://lesecologistes.fr/ jusqu'au bout
 		- [ ] ==Faire jusqu'au bout la Feature Analysis sur l'accueil => catégoriser et classer==
 		- [ ] En faire un sur https://www.totalenergies.fr/ pour comparer
 
 	- [ ] Clarifier mon walktrough
 		- [ ] Noter mes biais de lecture. (J'ai un regard d'UI/UX designer)
+		- [ ] Noter mes consignes
+		- [ ] Quel est mon problème
+		- [ ] Qu'est ce que j'analyse (sortir de Feature la page)
+			- [ ] Lire How artifacts affords
 	
 	- [ ] Définir de mes objets
 		- Chercher dans la section actus sur Google pour voir les associations qui reviennent le plus.
@@ -37,10 +41,16 @@
 
 
 - [ ] Est ce que je fais des entretiens qualitatifs ?
+
+- [ ] Définir la notion d'empreinte carbone lié au réchauffement climatique. 
+
 - 🚨 Pour la **fin du semestre** 🚨
 	- [ ] Plan détaillé
 	- [ ] Partie rédigé de notre mémoire
 	- [ ] Prototypes de PFE / carnet d'idées
+
+
+## Rendus 
 
 - Rendu d’une première version complète le **5 mars 2026**
 	Retours de la première version la semaine du 19 mars 2026

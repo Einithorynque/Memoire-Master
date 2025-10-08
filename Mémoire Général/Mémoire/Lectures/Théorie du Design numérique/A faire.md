@@ -10,7 +10,7 @@
 - Question de recherche ou objectif. (peut-être à reconstruire)
 - Méthodologie, arriver à déconstruire la manière dont les gens sont arrivés à leur conclusion.
 
-### Coeur de l'articles
+### Coeur de l'article
 - Hypothèses / arguments clés, avec :
 	- exemples/objets 
 		- extérieur ou intérieur de l'article

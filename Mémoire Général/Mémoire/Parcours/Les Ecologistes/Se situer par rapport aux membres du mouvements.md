@@ -14,4 +14,7 @@ Parcours:
   - Accueil
 Récurrence: 2
 Date de création: 2025-09-22T19:04:00
+Type:
+  - PARCOURS
+Réponse au problème: true
 ---

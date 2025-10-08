@@ -4,11 +4,13 @@ Type:
 Themes:
   - "[[Les Affordances]]"
 Sources:
-  - Zotero
+Objets:
 Auteurs·ices:
+  - "[[James J. Gibson|J. J. Gibson]]"
+Date de création:
 Complétion: false
 Avis:
-  - Très intéressant
 Eco-Conceptions:
 Eco-Interactions:
+Résumé:
 ---

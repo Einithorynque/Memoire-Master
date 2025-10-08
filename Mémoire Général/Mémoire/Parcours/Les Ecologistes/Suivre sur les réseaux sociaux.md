@@ -9,6 +9,9 @@ Parcours:
   - Communauté
 Récurrence:
 Date de création:
+Type:
+  - PARCOURS
+Réponse au problème: false
 ---
 - [[Facebook]]
 - [[X]]

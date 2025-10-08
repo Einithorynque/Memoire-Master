@@ -156,3 +156,40 @@ Adobe : injonction à la créativité, ligne de production.
 C'est le moment où l'outil n'est plus la propriété de l'artisant qu'il devient ouvrier. 
 
 Magner un logiciel, c'est magner une certaine vision du monde, de l'art.
+
+## Chapitre 5
+
+Fait une différence entre Dispositif et Appareil
+
+### Dispositif
+
+**Dispositif** : contrôle des gens, discret, invisible
+
+Chez Agemben on parle de **Dispositif Technique** où l'on devient des spectre
+Giorgio Agemben : Qu'est ce qu'un dispositif ? 
+
+**Nouveau prolétariat** : les ouvriers pendant le Fordism ont perdu leur compréhension technique de ce qu'il faisaient, des maillions du chaine de production. Maintenant tout le monde est dépossédé de son agentivité par les dispositifs, le numérique. On vit désormais de micro-tâche.
+
+**Misère symbolique** : se substituer de l'expérience des choses.
+
+### Appareil
+
+**Appareil** : donne du contrôle > instrument, tableau
+Ils nous donnent des ressourcent, il faut rentrer dedans.
+
+### Comment refaire des appareils ?
+
+C'est en enlevent le contrôle qu'on permet l'individualité
+
+#### Bien commun
+Ouverture des ressources : terrestre et connaissances.
+
+### Réglage
+
+Permet d'intervenir sur ce qu'on forme. Résultat imprévisible. 
+Réglage d'un appareil photo.
+Qu'est ce que l'on met par défaut. 
+
+Reprendre en main
+
+https://praticable.fr/studio/philosophie

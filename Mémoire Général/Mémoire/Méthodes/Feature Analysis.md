@@ -47,11 +47,15 @@ Les deux premières étapes se basent sur les méthode de [[Content Analysis]]
 (faire attention sur lesquels sont fait la recherche)
 - stocker ces objets dans un tableau 
 
+>For our study, we began with a list of apps from the US Department of Health and Human Services’ 2011 “Apps Against Abuse” initiative and developed a list of search terms from their descriptions. We used those terms to search the app store, and eventually developed a longer list of keywords (ultimately 13 in total) by examining the titles and descriptions for apps from our evergrowing list.
+
 >Consider including: app name, developer, app store category, app store description, cost, in-app purchases, operating system, release and update dates, and ideally, all of the app store images.
 
 >We used Excel spreadsheets to create our database and **do not recommend** this approach because it becomes onerous to recategorize and organize the data. Content analysis software packages such as NVivo, Quirkos, or open source options such as Taguette, CATMA, or AQUAD would be useful for calculating frequencies and relationships between classification systems in the following phases. 
 
-> Gerlitz and coauthors (2019) also suggest that researchers should carefully consider app titles because developers are strongly encouraged by app store guidelines to write “accurate and focused titles and descriptions to cover what the app is about” (p. 6). 
+
+> [!tip] Trouver mes keywords dans les h1/h2 etc, metadata et title des sites
+> > Gerlitz and coauthors (2019) also suggest that researchers should carefully consider app titles because developers are strongly encouraged by app store guidelines to write “accurate and focused titles and descriptions to cover what the app is about” (p. 6). 
 
 
 ### 2. Identifier et classer les fonctionnalités 
@@ -96,10 +100,9 @@ Commencer sur un objet au hasard, et étendre ensuite sur tous les objets en fai
 
 Reprendre les fonctionnalités classées dans l'étape 2 et les copier dans de nouveaux classements, comparables entre eux.
 
-Cette étape repose sur les notions derrière l'[[Affordance]]. Ainsi ces classifications doivent faire ressortir *comment* les objets appellent à une action contre le problème, à quels *sujets*, et dans quel *contexte*.
+Cette étape repose sur les notions derrière l'[[Les Affordances]]. Ainsi ces classifications doivent faire ressortir *comment* les objets appellent à une action contre le problème, à quels *sujets*, et dans quel *contexte*.
 
 Pour comprendre la problématique étudié, ce qu'elle demande réellement et comparer cela aux réponses proposées dans ce **contexte**, il est nécessaire d'amener dans l'analyse la littérature spécialisée. 
-
 #### Etapes :
 
 1. Séparer les fonctionnalités répondant à la problématique de celle qui ne le font pas. ( surtout si le [[Technical Walkthrough]] a été utilisé).
