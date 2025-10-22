@@ -10,7 +10,7 @@ Auteurs·ices:
   - "[[James J. Gibson|J. J. Gibson]]"
   - "[[Donald A. Norman|Don Norman]]"
   - "[[Jenny L. Davis]]"
-  - "[[Nolwenn Maudet]]"
+  - "[[Lectures/Auteurs·ices/Nolwenn Maudet]]"
   - "[[Emeline Brulé]]"
   - "[[Rena Bivens]]"
   - "[[Amy A. Hasinoff]]"
@@ -29,7 +29,7 @@ aliases:
   - les invites
   - invite
   - Invite
-Résumé: « Les affordances sont la manière dont les objets façonnent l'action de sujets socialement situés »
+Résumé: Les affordances sont la manière dont les objets façonnent l'action de sujets socialement situés
 ---
 ## Définitions
 

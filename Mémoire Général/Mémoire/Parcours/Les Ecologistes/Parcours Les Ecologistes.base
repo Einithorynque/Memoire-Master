@@ -1,0 +1,45 @@
+views:
+  - type: table
+    name: Description
+    filters:
+      and:
+        - file.inFolder("Parcours/Les Ecologistes")
+        - Type == ["PARCOURS"]
+    order:
+      - file.name
+      - Parcours
+      - Récurrence
+      - Description
+      - Réponse au problème
+    sort:
+      - property: Réponse au problème
+        direction: DESC
+    columnSize:
+      note.Description: 383
+  - type: table
+    name: Accueil-affordances
+    filters:
+      and:
+        - file.inFolder("Parcours/Les Ecologistes")
+        - Type == ["PARCOURS"]
+        - Parcours.contains("Accueil")
+        - note["Réponse au problème"] == true
+    order:
+      - file.name
+      - Complétion
+      - Écrans
+      - Scrolls
+      - Récurrence
+      - Description
+    sort:
+      - property: Récurrence
+        direction: DESC
+      - property: Écrans
+        direction: DESC
+      - property: Scrolls
+        direction: ASC
+      - property: Complétion
+        direction: ASC
+    rowHeight: medium
+    columnSize:
+      note.Complétion: 48

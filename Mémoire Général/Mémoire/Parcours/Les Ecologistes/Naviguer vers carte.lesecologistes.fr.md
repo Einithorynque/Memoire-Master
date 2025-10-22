@@ -12,7 +12,13 @@ Date de création: 2025-09-21T18:41:00
 Type:
   - PARCOURS
 Réponse au problème: true
+Mécanisme Affordance:
+  - "[[Obliger|Demand]]"
+Intensité Affordance:
+Scrolls: 4
+Écrans:
+  - "1"
 ---
 Un bouton "DONNER" est mis en avant dans le haut de page. Au clic il ouvre une nouvelle fenêtre vers un autre autre site : https://soutenir.eelv.fr/donner-pour-lecologie/. 
 
-Ce site redirige pourtant vers [lesecologistes.fr](https://lesecologistes.fr/,) révélant que les deux sites veulent être perçus comme une unité. 
+Ce site redirige pourtant vers [lesecologistes.fr](https://lesecologistes.fr/,) révélant que les deux sites veulent être perçus comme une unité.  

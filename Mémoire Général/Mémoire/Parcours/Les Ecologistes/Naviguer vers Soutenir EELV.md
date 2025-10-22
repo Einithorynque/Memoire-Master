@@ -12,6 +12,10 @@ Date de création: 2025-09-21T18:41:00
 Type:
   - PARCOURS
 Réponse au problème: true
+Mécanisme Affordance: "[[Obliger|Demand]]"
+Scrolls: 0
+Écrans:
+  - "0.2"
 ---
 Un bouton "DONNER" est mis en avant dans le haut de page. Au clic il ouvre une nouvelle fenêtre vers un autre autre site : https://soutenir.eelv.fr/donner-pour-lecologie/. 
 

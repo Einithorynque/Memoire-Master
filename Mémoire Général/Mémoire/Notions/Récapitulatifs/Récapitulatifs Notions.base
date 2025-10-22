@@ -2,13 +2,28 @@ views:
   - type: table
     name: Table
     filters:
-      and:
-        - file.inFolder("Notions")
+      or:
         - Type == ["NOTION"]
+        - file.inFolder("Notions")
+        - file.inFolder("Objets/Catégories Objets")
     order:
       - file.name
       - Themes
       - Objets
+      - Résumé
       - Sources
       - Auteurs·ices
-      - Type
+    sort:
+      - property: Résumé
+        direction: ASC
+      - property: Sources
+        direction: ASC
+      - property: Auteurs·ices
+        direction: ASC
+    rowHeight: tall
+    columnSize:
+      note.Themes: 151
+      note.Objets: 136
+      note.Résumé: 447
+      note.Sources: 296
+      note.Auteurs·ices: 130

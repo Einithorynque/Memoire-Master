@@ -1,5 +1,19 @@
+---
+Type:
+  - NOTION
+Themes:
+  - Publication
+  - "[[Technologies]]"
+Objets:
+  - "[[Téléphone]]"
+Auteurs·ices:
+Sources:
+  - "[[Feature Analysis, A Method for Analyzing the Role of Ideology in App Design]]"
+aliases:
+Résumé: Les applications sont des "operational media", des médias fonctionnels. Ce sont des applications, des objets pour appliquer, des objets pour faire. Il faut les étudier sous l'angle de leur pratique donc, plus que sous celui de leur contenu. Leur aspect mobile et omniprésent peut les distinguer des logiciel.
+---
 
-## Définition de ce qu'est une Application révélant les raisons des difficultés pour les analyser :
+## Définition révélant les raisons des difficultés pour les analyser :
 Décrit dans [[Feature Analysis, A Method for Analyzing the Role of Ideology in App Design]] :
 ### Résumé :
 Les applications sont :
@@ -42,3 +56,14 @@ Ce qui les rend importantes pour collecter un grand nombre d'informations sur le
 
 > [!important] Fruggr
 > https://app.fruggr.io/
+
+
+## Publier des applications
+
+### Publier en dehors de store
+
+Une application peut être publiée en dehors de l'Apple ou du Google store, il suffit de télécharger un fichier .apk : 
+- via un lien de téléchargement
+- via des stores alternatifs, possiblement open source : [F-droid](https://f-droid.org/fr/), l'[App Lounge](https://murena.com/fr/comment-installer-des-applications-sans-google/) de Murena.
+
+Les stores ont pour avantage d'automatiser la mise à jour des applications, là où sinon il faudrait à chaque fois télécharger à nouveau leur fichiers. Cependant cette contrainte peut amener à repenser le cicle de vie des applications.

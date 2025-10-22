@@ -51,8 +51,12 @@
       "template": "Templates/Template Objets Parcourus.md"
     },
     {
-      "folder": "",
-      "template": ""
+      "folder": "Objets/Catégories Objets",
+      "template": "Templates/Template Notions.md"
+    },
+    {
+      "folder": "Lectures/Théorie du Design numérique",
+      "template": "Templates/Template Lecture.md"
     }
   ],
   "enable_file_templates": false,

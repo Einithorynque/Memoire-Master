@@ -17,6 +17,7 @@ aliases:
   - mécanismes de l'affordance
   - mécanisme de l'affordance
   - Mécanisme de l'Affordance
+Résumé: Manières dont les artéfacts affordent qui se forment en interaction avec les capacités perceptives, la dextérité et la légitimité culturelle et institutionnelle.
 ---
 
 ## Framework de [[How Artifacts Afford]]

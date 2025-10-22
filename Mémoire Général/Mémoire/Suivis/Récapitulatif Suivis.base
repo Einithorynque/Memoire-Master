@@ -11,6 +11,8 @@ views:
       - Date de création
       - Résumé
     sort:
+      - property: Date de création
+        direction: DESC
       - property: Type
         direction: ASC
     columnSize:

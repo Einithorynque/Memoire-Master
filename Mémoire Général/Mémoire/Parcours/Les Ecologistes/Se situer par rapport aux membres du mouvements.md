@@ -11,7 +11,7 @@ Objet d'étude:
   - "[[Les Écologistes - Carte]]"
   - "[[Les Écologistes]]"
 Parcours:
-  - Accueil
+  - Carte
 Récurrence: 2
 Date de création: 2025-09-22T19:04:00
 Type:

@@ -17,13 +17,13 @@ aliases:
   - oblige
   - Demand
   - demand
-Résumé: Quand une technologie oblige, qu’un type d’action est inévitable et d’autres sont presque impossibles.
+Résumé: Quand une technologie oblige, elle fait qu’un type d’action est inévitable et d’autres sont presque impossibles.
 ---
 
 ## [[Mécanismes de l'Affordance]]
 
 > [!IMPORTANT] Definition
-> Quand une technologie oblige, qu’un type d’action est inévitable et d’autres sont presque impossibles.
+> Quand une technologie oblige, elle fait qu’un type d’action est inévitable et d’autres sont presque impossibles.
 
 Un ordre peut se présenter sous la forme d'incitations physiques, sociales et/ou symboliques.
 

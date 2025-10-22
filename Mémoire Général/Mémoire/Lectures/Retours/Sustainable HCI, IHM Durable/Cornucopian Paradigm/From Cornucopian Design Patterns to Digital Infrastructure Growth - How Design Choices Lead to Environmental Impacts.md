@@ -8,11 +8,11 @@ Themes:
 Sources:
   - Zotero
 Auteurs·ices:
-  - "[[Nolwenn Maudet]]"
+  - "[[Lectures/Auteurs·ices/Nolwenn Maudet]]"
   - "[[Anaelle Beignon]]"
 Complétion: false
-Avis: 
-Eco-Conceptions: 
+Avis:
+Eco-Conceptions:
 Eco-Interactions:
 ---
 

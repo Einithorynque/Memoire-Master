@@ -1,21 +1,13 @@
 ## 📯To do list
 
-- 🚨 Pour **jeudi 25/09** 🚨
-	- [x] Présenter notre mémoire / notre avancé (10 min) [[Résumé du sujet]]
-		- Une grosse intro
-			- Constat problématique (pourquoi sujet nous tient à coeur)
-				- L'écologie est un sujet qui me touche mais en même temps je m'en sens loin  / l'impression d'avoir une connaissance un peu flou sur ce sujet
-			- Lecture état de l'art
-			- C'est quoi la suite pour nous (objectifs)
-				- Qu'est ce qu'il faudrait lire
-				- Où est ce qu'on en est en therme de méthodo
-		- A quoi ça ressemble la recherche
-
-- Pour **mardi 07/10**
+- Urgent
 	- [ ] Passer mon premier walkthrough https://lesecologistes.fr/ jusqu'au bout
+		- [x] Recenser et décrire les applications
 		- [ ] ==Faire jusqu'au bout la Feature Analysis sur l'accueil => catégoriser et classer==
-		- [ ] En faire un sur https://www.totalenergies.fr/ pour comparer
-
+	- [ ] En faire un sur https://www.totalenergies.fr/ pour comparer
+	
+	- [ ] Regarder la vidéo de Thomas
+	
 	- [ ] Clarifier mon walktrough
 		- [ ] Noter mes biais de lecture. (J'ai un regard d'UI/UX designer)
 		- [ ] Noter mes consignes
@@ -31,18 +23,20 @@
 	- [ ] Définir l'écologie
 		- [ ] Définir intuitivement ce que c'est être écologiste
 			- discipline universitaire
-			- ==proposition politique==
+			- ==proposition politique== (https://youtu.be/cRcbn8hh9Mg)
 			- mode de vie d'écorélé de la politique
+			- [ ] Définir la notion d'empreinte carbone lié au réchauffement climatique. 
 		- [ ] Faire un tableau de ce que j'entends comme écologiste ou pas.
 
 
-- **Pour mardi 07/10**
+- Moins urgent
+	- [ ] Trouver des textes qui montre que l'écologie doit sortir du capitalisme
+	- [ ] Pouvoir parler du positionnement de Bluesky et Mastodon vis à vis du capitalisme
 	- [ ] Définir qu'est ce que c'est l'écologie dans champs du design (déjà fais)
+	- [ ] Est ce que je fais des entretiens qualitatifs ?
 
-
-- [ ] Est ce que je fais des entretiens qualitatifs ?
-
-- [ ] Définir la notion d'empreinte carbone lié au réchauffement climatique. 
+Rendu cronique radio 
+- écrire trois chroniques en lire une à l'oral
 
 - 🚨 Pour la **fin du semestre** 🚨
 	- [ ] Plan détaillé

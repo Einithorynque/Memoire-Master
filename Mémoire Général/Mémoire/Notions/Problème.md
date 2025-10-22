@@ -8,6 +8,7 @@ Sources:
 Eco-Conceptions:
 Eco-Interactions:
 aliases:
+  - problème
 Résumé:
 ---
 

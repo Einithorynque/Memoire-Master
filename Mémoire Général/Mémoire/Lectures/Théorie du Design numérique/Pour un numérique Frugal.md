@@ -1,4 +1,10 @@
-
+---
+Auteurs·ices:
+  - "[[Nolwenn Maudet]]"
+Themes:
+Résumé:
+Type:
+---
 
 Nouveau rapport de l'ADEM.
 
@@ -50,4 +56,45 @@ L'**intensité d'usage** est le phénomène qui permet d'expliquer comment la cr
 - dépendance aux terminaux et aux plateformes
 - normalisation de l'intensification (normalisation des attentes envers nos proches et envers les plateformes : les nouveautés deviennent des codes)
 
-Notre design créer un chemin d'obsollessence, quand on a plein de petits problèmes qui s'acccumulent. Privilégier les faibles qualités de calcules
+Notre design créer un chemin d'obsollessence, quand on a plein de petits problèmes qui s'acccumulent. Privilégier les faibles qualités de calcules.
+
+
+## Transformer les imaginaires pour refaçonner les attentes
+
+=> question du stockage et du cloud
+Quasi disparition de la question du stockage.
+Si on remonte dans l'histoire le stockage a longtemps été une question très importante.
+La question ménage était très importante ( Article Macworld 1984 nettoyer votre bureau numérique)
+
+Chaque app sur le tel a sa propre manière de traiter les contenus.
+
+
+### Permacomputing
+
+Permacomputing Wiki
+Revenir à l'idée de la permaculture dont on récupère les principes.
+
+
+## Réintégrer les limites et les fragilités
+
+Dans les anciens manuels : prévention.
+Low Tech Magazine
+
+> [!IMPORTANT] Solar Protocol
+> Projet solar protocol : Selon l'heure on doit choisir sur quel serveur on va télécharger le site. 
+> Agentivité à de l'environnement dans l'écosystème numérique
+
+Comment partager les terminaux numériques. 
+
+Représenter un patine, l'esthétique de la ruine 
+
+Décentraliser le web des monopoles du géant de la tech. Exemple du **Fediverse**
+
+
+### Réintroduire les limite
+
+Night Night
+
+https://designingfriction.com/
+
+## Moins numériser

@@ -18,6 +18,9 @@
     "Récurrence": "number",
     "Scrolls": "number",
     "Cliques": "number",
-    "Réponse au problème": "checkbox"
+    "Réponse au problème": "checkbox",
+    "Mécanisme Affordance": "multitext",
+    "Intensité Affordance": "multitext",
+    "Écrans": "multitext"
   }
 }

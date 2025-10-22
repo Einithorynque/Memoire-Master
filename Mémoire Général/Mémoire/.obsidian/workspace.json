@@ -4,25 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "b16a51bc3f80ce3e",
+        "id": "26638ac36ee3ae58",
         "type": "tabs",
         "children": [
           {
-            "id": "ef5b45f414f7e2c8",
+            "id": "94119028c68d1098",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/A lire/How Artifacts Afford.md",
+                "file": "Objets/Réseaux Sociaux/Mobilizon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How Artifacts Afford"
+              "title": "Mobilizon"
             }
           },
           {
-            "id": "d9af6cbd0a96394a",
+            "id": "cfa98308d6353024",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Retours/Du rectangle aux polygones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Du rectangle aux polygones"
+            }
+          },
+          {
+            "id": "10aa9874c7c0c3c8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Parcours/Les Ecologistes/Medias/accueil-lesecologistes.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "accueil-lesecologistes"
+            }
+          },
+          {
+            "id": "490dd86876e421b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,51 +60,9 @@
               "icon": "lucide-file",
               "title": "Mécanismes de l'Affordance"
             }
-          },
-          {
-            "id": "b10e48da78356de0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notions/Demander.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Demander"
-            }
-          },
-          {
-            "id": "cd1483a2eeada5fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Retours/concepts du design d'interaction, les affordances.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "concepts du design d'interaction, les affordances"
-            }
-          },
-          {
-            "id": "06f18ddaf26454c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Théorie du Design numérique/Pour un numérique Frugal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pour un numérique Frugal"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,56 +246,57 @@
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "06f18ddaf26454c6",
+  "active": "cfa98308d6353024",
   "lastOpenFiles": [
-    "Lectures/Théorie du Design numérique/L'image qui vous veut du bien.md",
-    "Lectures/Retours/concepts du design d'interaction, les affordances.md",
-    "Notions/Mécanismes de l'Affordance.md",
-    "Notions/Permettre.md",
-    "Notions/Refuser.md",
-    "Notions/Décourager.md",
-    "Notions/Encourager.md",
-    "Notions/Objets.md",
-    "Notions/Sujets.md",
-    "Notions/Demander.md",
-    "Notions/Obliger.md",
-    "Sujet.md",
-    "Objets/Sujets.md",
-    "Lectures/A lire/How Artifacts Afford.md",
-    "[Mécanismes de l'Affordance.md",
-    "Notions/Les Affordances.md",
-    "Lectures/Auteurs·ices/Emeline Brulé.md",
-    "Lectures/A lire/Theorizing Affordances, From Request to Refuse.md",
-    "Lectures/Retours/Feature Analysis, A Method for Analyzing the Role of Ideology in App Design.md",
+    "Lectures/Auteurs·ices/Jean Michel Géridan.md",
+    "Lectures/Retours/Du rectangle aux polygones.md",
+    "Objets/Catégories Objets/Fédivers.md",
+    "Objets/Réseaux Sociaux/Mobilizon.md",
+    "Objets/Réseaux Sociaux/PeerTube.md",
+    "Objets/Réseaux Sociaux/Pixelfeld.md",
+    "Objets/Réseaux Sociaux/Mastodon.md",
+    "Parcours/Les Ecologistes/Affordance Les Ecologistes Accueil.base",
+    "Objets/Catégories Objets/Réseaux sociaux alternatifs.md",
+    "Objets/Catégories Objets/Big Tech.md",
+    "Notions/Coûts de sortie.md",
+    "Objets/Catégories Objets/Réseaux sociaux.md",
     "Parcours/Les Ecologistes/Télécharger l'application Ecolo!.md",
-    "Parcours/Les Ecologistes/Réparcouratif Les Ecologistes.base",
-    "Parcours/Les Ecologistes/Naviguer sur le site.md",
-    "Templates/Template Notions.md",
-    "Templates/Template Objets Parcourus.md",
-    "Templates/Template Parcours.md",
-    "Templates/Template Methodes.md",
-    "Templates/Template Hebdo.md",
-    "Parcours/Les Ecologistes/Medias/naviguer-site-footer-lesecologistes.jpg",
-    "Hebdos/Récapitulatif hebdos.base",
-    "Suivis/Récapitulatif Suivis.base",
-    "Parcours/Les Ecologistes/Medias/carte-contact-region-locaux-carte.lesecologistes.mp4",
-    "État de l'art.base",
-    "Lectures/Récapitulatifs retours.base",
-    "Lectures/Récapitulatifs à lire.base",
-    "Ecrits/Presentation Memoire S3/medias/Mockup-Trame_tmp31615",
-    "Ecrits/Presentation Memoire S3/medias/Mockup.jpg",
-    "Ecrits/Presentation Memoire S3/medias/Mockup-Trame_tmp18127",
-    "Ecrits/Presentation Memoire S3/medias/Mockup-Trame.png",
-    "Ecrits/Presentation Memoire S3/Mockup_tmp10797",
-    "Ecrits/Presentation Memoire S3/Mockup.jpg",
-    "Ecrits/Presentation Memoire S3/medias/reseauactionclimat.org.jpg",
-    "Parcours/Les Ecologistes/Medias/accueil-rs-lesecologistes.jpg",
-    "Parcours/Les Ecologistes/Medias/carte-mouvement-lesecologistes.jpg",
-    "Parcours/Les Ecologistes/Medias/accueil-carte-lesecologistes.jpg",
+    "Lectures/A lire/Le rapt d'internet.md",
+    "Objets/Catégories Objets/Applications de Messagerie.md",
+    "Objets/Catégories Objets/Écosystème.md",
+    "Objets/Réseaux Sociaux/Bluesky.md",
+    "Objets/Catégories Objets/Fédivers",
+    "Parcours/Les Ecologistes/Naviguer vers Écolo! (web).md",
+    "Notions/Mécanismes de l'Affordance.md",
+    "Parcours/Les Ecologistes/Suivre sur les réseaux sociaux.md",
     "Parcours/Les Ecologistes/Medias/accueil-lesecologistes.jpg",
-    "Parcours/Les Ecologistes/Medias/actualites-accueil-lesecologistes.jpg"
+    "Parcours/Les Ecologistes/Medias/accueil-rs-lesecologistes.jpg",
+    "Parcours/Les Ecologistes/Medias/actualites-accueil-lesecologistes.jpg",
+    "Parcours/Les Ecologistes/Medias/carte-hover-carte.lesecologistes.jpg",
+    "Parcours/Les Ecologistes/Medias/carte-mouvement-lesecologistes.jpg",
+    "Parcours/Les Ecologistes/Medias/communaute-personnes-lesecologistes.jpg",
+    "Parcours/Les Ecologistes/Medias/naviguer-site-footer-lesecologistes.jpg",
+    "Parcours/Les Ecologistes/Medias/naviguer-site-page-lesecologistes.mp4",
+    "Parcours/Ecolo! (web)/Medias/carte18-actions.lesecologistes.fr.jpg",
+    "Parcours/Ecolo! (web)/Medias/carte18-aide-actions.lesecologistes.mp4",
+    "Parcours/Ecolo! (web)/Medias/carte18-carte.cgt.fr.jpg",
+    "Parcours/Ecolo! (web)/Medias/carte18-options-visualisations-actions.lesecologistes.mp4",
+    "Parcours/Ecolo! (web)/Medias/carte18-ouverture-bug-actions.lesecologistes.mp4",
+    "Parcours/Ecolo! (web)/Medias/carte18-partager-actions.lesecologistes.fr.jpg",
+    "Parcours/Ecolo! (web)/Medias/carte18-manifestation-actions.lesecologistes.mp4",
+    "Parcours/Ecolo! (web)/Medias/carte18-filtre-bug-actions.lesecologistes.mp4",
+    "Suivis/Récapitulatif Suivis.base",
+    "Suivis/Suivi 06.10.md",
+    "Parcours/Les Ecologistes/Parcours Les Ecologistes.base",
+    "Méthodes/Ma Méthodologie.md",
+    "Lectures/Retours/La question écologique dans le champ du design numérique.md",
+    "Lectures/Retours/Design et Humanités Numériques.md",
+    "Lectures/Théorie du Design numérique/A Contextual Approach to Privacy in Interoperable Messaging.md",
+    "Lectures/Retours/Feature Analysis, A Method for Analyzing the Role of Ideology in App Design.md",
+    "Lectures/Retours/Capture Numérique.md"
   ]
 }

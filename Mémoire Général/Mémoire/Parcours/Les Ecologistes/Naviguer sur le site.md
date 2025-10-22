@@ -12,6 +12,8 @@ Parcours: Accueil
 Récurrence:
 Date de création: 2025-09-21T18:05:00
 Réponse au problème: false
+Écrans:
+  - "0.2"
 ---
 Sur la page d'accueil du site, plusieurs boutons sont visibles, et sont des liens vers d'autres de ses pages. En cliquant sur ces boutons le site charge la page que le bouton cible, je navigue vers celle-ci.
 

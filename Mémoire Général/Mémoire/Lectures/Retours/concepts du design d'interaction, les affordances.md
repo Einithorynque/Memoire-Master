@@ -3,12 +3,13 @@ Type:
   - LECTURE
 Themes:
   - "[[Les Affordances]]"
+  - "[[Mécanismes de l'Affordance]]"
 Sources:
   - https://carnet.nolwennmaudet.com/home/concepts-du-design-d-interaction-les-affordances
 Objets:
   - "[[Technologies]]"
 Auteurs·ices:
-  - "[[Nolwenn Maudet]]"
+  - "[[Lectures/Auteurs·ices/Nolwenn Maudet]]"
   - "[[Emeline Brulé]]"
 Date de création: 2021-10-13T09:00:00
 Complétion: true

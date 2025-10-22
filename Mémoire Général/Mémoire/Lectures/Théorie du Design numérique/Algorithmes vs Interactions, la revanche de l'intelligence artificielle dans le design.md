@@ -6,7 +6,7 @@ Sources:
   - Nature
 Objets:
 Auteurs·ices:
-  - "[[Nolwenn Maudet]]"
+  - "[[Lectures/Auteurs·ices/Nolwenn Maudet]]"
 Date de création:
 Complétion: false
 Avis:
