@@ -18,7 +18,7 @@
       "query": "path:Lectures/Retours  ",
       "color": {
         "a": 1,
-        "rgb": 65416
+        "rgb": 16762880
       }
     },
     {
@@ -32,13 +32,13 @@
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.5,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.18492723492724,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
   "centerStrength": 0,
   "repelStrength": 9.41787941787942,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.13311979078505262,
+  "scale": 0.08754058061502343,
   "close": false
 }

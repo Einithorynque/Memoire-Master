@@ -13,12 +13,14 @@ Type:
   - PARCOURS
 Réponse au problème: true
 Mécanisme Affordance:
-  - "[[Obliger|Demand]]"
+  - "[[Demander]]"
+  - "[[Permettre]]"
 Scrolls: 0
 Écrans:
   - "2"
 aliases:
   - naviguer vers Écolo! (web)
+Complétion: true
 ---
 ### Description
 

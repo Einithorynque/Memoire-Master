@@ -18,3 +18,5 @@ Type:
   - PARCOURS
 Réponse au problème: true
 ---
+// Redirige vers des sites locaux //
+https://alsace.lesecologistes.fr/posts

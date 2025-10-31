@@ -19,7 +19,8 @@ Récurrence: 3
 Date de création: 2025-09-22T17:12:00
 Réponse au problème: true
 Mécanisme Affordance:
-  - "[[Obliger|Demand]]"
+  - "[[Demander]]"
+  - "[[Encourager]]"
 Scrolls: 1
 Écrans:
   - "2"
