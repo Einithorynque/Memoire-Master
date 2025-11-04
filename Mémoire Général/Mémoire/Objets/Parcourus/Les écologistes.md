@@ -1,4 +1,6 @@
 ---
+Type:
+  - OBJETS
 Objets:
   - "[[Sites Web]]"
 Sources:
@@ -7,6 +9,6 @@ Parcours:
 aliases:
   - https://lesecologistes.fr/
   - lesecologistes.fr
-  - les Écologistes
+  - les écologistes
 Date de création: 2025-09-21T18:48:00
 ---

@@ -21,6 +21,8 @@
     "Réponse au problème": "checkbox",
     "Mécanisme Affordance": "multitext",
     "Intensité Affordance": "multitext",
-    "Écrans": "multitext"
+    "Écrans": "multitext",
+    "lien": "multitext",
+    "Créateur·ices": "multitext"
   }
 }

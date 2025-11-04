@@ -43,12 +43,8 @@
       "template": "Templates/Template Parcours.md"
     },
     {
-      "folder": "Objets/Parcourus",
-      "template": "Templates/Template Objets Parcourus.md"
-    },
-    {
-      "folder": "Objets/Exemples",
-      "template": "Templates/Template Objets Parcourus.md"
+      "folder": "Objets",
+      "template": "Templates/Template Objets.md"
     },
     {
       "folder": "Objets/Catégories Objets",
