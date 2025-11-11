@@ -9,7 +9,7 @@ Médias:
   - "[[carte-mouvement-lesecologistes.jpg]]"
 Objet d'étude:
   - "[[Les Écologistes - Carte]]"
-  - "[[Les Écologistes]]"
+  - "[[Les écologistes]]"
 Parcours:
   - Carte
 Récurrence: 2

@@ -10,6 +10,8 @@
     "Themes": "multitext",
     "Sources": "multitext",
     "Auteurs·ices": "multitext",
-    "Objets": "multitext"
+    "Objets": "multitext",
+    "Parution": "multitext",
+    "Date de parution": "multitext"
   }
 }

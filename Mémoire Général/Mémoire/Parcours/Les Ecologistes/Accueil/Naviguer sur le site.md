@@ -7,7 +7,7 @@ Médias:
   - "[[naviguer-site-footer-lesecologistes.png]]"
   - "[[naviguer-site-header-lesecologistes.mp4]]"
 Objet d'étude:
-  - "[[Les Écologistes]]"
+  - "[[Les écologistes]]"
 Parcours: Accueil
 Récurrence:
 Date de création: 2025-09-21T18:05:00

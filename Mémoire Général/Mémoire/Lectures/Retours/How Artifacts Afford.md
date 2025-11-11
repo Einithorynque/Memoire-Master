@@ -8,7 +8,7 @@ Sources:
   - Zotero
 Auteurs·ices:
   - "[[Jenny L. Davis]]"
-Complétion:
+Complétion: true
 Avis:
   - Très intéressant
 Eco-Conceptions:

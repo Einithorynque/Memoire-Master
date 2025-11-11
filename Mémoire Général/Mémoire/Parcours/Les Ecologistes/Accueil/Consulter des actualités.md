@@ -10,7 +10,7 @@ Médias:
   - "[[actualites-exemple-video-pdf-lesecologistes.jpg]]"
   - "[[communaute-personnes-lesecologistes.jpg]]"
 Objet d'étude:
-  - "[[Les Écologistes]]"
+  - "[[Les écologistes]]"
 Parcours:
   - Accueil
   - Actualités 

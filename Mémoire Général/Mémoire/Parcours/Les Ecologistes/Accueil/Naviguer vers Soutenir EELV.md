@@ -3,7 +3,7 @@ Description: 'Un bouton "Donner" ouvre un lien dans une nouvelle fenêtre vers u
 Médias:
   - "[[naviguer-hors-site-donner-lesecologistes.mp4]]"
 Objet d'étude:
-  - "[[Les Écologistes]]"
+  - "[[Les écologistes]]"
   - "[[Les Écologistes - Soutenir EELV]]"
 Parcours:
   - Accueil

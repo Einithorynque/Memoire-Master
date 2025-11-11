@@ -27,6 +27,7 @@ Une augmentation de +1,5 °C  aurait des impactes en cascade
 - Perte en efficacité des [[Puits de carbone|puits de carbone]]
 - Perte des [[Écosystème|écosystème]]
 - Perte en biodiversité
+	- Perte des ressources alimentaires
 #### 2100
 ##### Meilleurs scénario
 - +2,7 °C

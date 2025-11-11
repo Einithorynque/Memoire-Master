@@ -6,7 +6,7 @@ Médias:
   - "[[accueil-lesecologistes.jpg]]"
   - "[[naviguer-hors-site-donner-lesecologistes.mp4]]"
 Objet d'étude:
-  - "[[Les Écologistes]]"
+  - "[[Les écologistes]]"
 Parcours:
   - Accueil
   - Rejoindre

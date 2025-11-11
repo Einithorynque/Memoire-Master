@@ -13,4 +13,6 @@ Avis:
 Eco-Conceptions:
 Eco-Interactions:
 Résumé:
+Date de publication:
+  - "1979"
 ---

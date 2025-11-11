@@ -4,7 +4,7 @@ Médias:
   - "[[naviguer-site-footer-lesecologistes.jpg]]"
   - "[[carte-contact-region-locaux-carte.lesecologistes.mp4]]"
 Objet d'étude:
-  - "[[Les Écologistes]]"
+  - "[[Les écologistes]]"
   - "[[Les Écologistes - Carte]]"
   - "[[Écolo! (web)]]"
 Parcours:
@@ -28,7 +28,7 @@ Le site redirige vers l'[AppleStore](https://apps.apple.com/us/app/%C3%A9colo/id
 
 Ces boutons [[Demander|demandent]] de **télécharger** l'application. Puisque qu'ils sont situés à **chaque** fin de page ils [[Encourager|encouragent]] ce téléchargement comme étant la continuité de la navigation du site. Il est transitoire et en voici la conclusion. La récurrence de cet encouragement amplifie celle ci. 
 
-En **redirigeant** vers ces plateformes, [[Les Écologistes]] [[Obliger|oblige]] de passer par des plateforme des GAFAM pour télécharger l'application.
+En **redirigeant** vers ces plateformes, [[Les écologistes]] [[Obliger|oblige]] de passer par des plateforme des GAFAM pour télécharger l'application.
 
 Ce compromis peut être questionné à l'onne de la problématique auquel tente de répondre le site : empêcher le réchauffement climatique. En obligeant de passer par leur plateforme, les géants technologiques ==sont légitimés comme unique porte à la technologique.== Ce n'est, d'abord, pas vrai puisque pour télécharger des applications [[Applications#Publier en dehors de store|des alternatives]], souvent open source, existent. Or ces exemples montrent qu'il est possible de concevoir des applications autrement, en dehors d'un modèle de production de la technologie capitaliste dont le monopole des stores est l'effigie. Modèle capitaliste qui est beaucoup critiquer comme étant un des maux à la racine du problème écologique.
 

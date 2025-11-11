@@ -17,18 +17,17 @@ views:
       - Auteurs·ices
       - Résumé
     sort:
+      - property: Avis
+        direction: DESC
       - property: Complétion
         direction: DESC
       - property: Eco-Interactions
         direction: DESC
       - property: Objets
         direction: ASC
-      - property: Avis
-        direction: ASC
-      - property: Themes
-        direction: DESC
     columnSize:
       note.Complétion: 52
+      note.Avis: 144
       note.Themes: 477
       note.Objets: 100
       note.Sources: 93
@@ -36,3 +35,4 @@ views:
       note.Eco-Interactions: 149
       note.Eco-Conceptions: 161
       note.Résumé: 524
+    rowHeight: medium

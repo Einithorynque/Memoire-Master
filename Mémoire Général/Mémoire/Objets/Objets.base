@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - Type == ["OBJETS"]
+        - file.inFolder("Objets")
+    order:
+      - file.name
+      - Description
+      - Objets
+      - Themes
+      - Avis
+    sort:
+      - property: Avis
+        direction: DESC
+    columnSize:
+      note.Description: 336

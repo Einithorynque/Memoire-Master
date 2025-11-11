@@ -13,7 +13,7 @@
 		- [ ] Noter mes consignes
 		- [ ] Quel est mon problème
 		- [ ] Qu'est ce que j'analyse (sortir de Feature la page)
-			- [ ] Lire How artifacts affords
+			- [x] Lire How artifacts affords
 	
 	- [ ] Définir de mes objets
 		- Chercher dans la section actus sur Google pour voir les associations qui reviennent le plus.
@@ -31,6 +31,7 @@
 
 - Moins urgent
 	- [ ] Trouver des textes qui montre que l'écologie doit sortir du capitalisme
+	- [ ] Ettofer la notion de passage avec Huygues
 	- [ ] Pouvoir parler du positionnement de Bluesky et Mastodon vis à vis du capitalisme
 	- [ ] Définir qu'est ce que c'est l'écologie dans champs du design (déjà fais)
 	- [ ] Est ce que je fais des entretiens qualitatifs ?

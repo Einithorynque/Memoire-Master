@@ -13,7 +13,7 @@ Objets:
 Auteurs·ices:
   - "[[Gauthier Roussilhe]]"
 Date de création:
-Complétion: false
+Complétion: true
 Avis:
   - Plutôt intéressant
 Eco-Conceptions:

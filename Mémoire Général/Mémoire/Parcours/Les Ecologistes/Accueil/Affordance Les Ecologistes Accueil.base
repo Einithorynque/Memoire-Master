@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.inFolder("Parcours/Les Ecologistes")
+        - file.inFolder("Mémoire/Parcours/Les Ecologistes")
         - Type == ["PARCOURS"]
         - Parcours.contains("Accueil")
         - note["Réponse au problème"] == true
@@ -12,9 +12,11 @@ views:
       - Écrans
       - Scrolls
       - Récurrence
+      - Mécanisme Affordance
       - Complétion
       - Réponse au problème
       - Description
+      - Intensité Affordance
     sort:
       - property: Récurrence
         direction: DESC

@@ -3,7 +3,7 @@ Description: Les articles des actualités sont **partageable** sur 5 réseaux so
 Médias:
   - "[[actualites-exemple-liens-lesecologistes.jpg]]"
 Objet d'étude:
-  - "[[Les Écologistes]]"
+  - "[[Les écologistes]]"
 Parcours:
   - Actualités 
 Récurrence: 1

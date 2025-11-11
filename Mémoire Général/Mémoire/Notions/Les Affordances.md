@@ -29,7 +29,8 @@ aliases:
   - les invites
   - invite
   - Invite
-Résumé: Les affordances sont la manière dont les objets façonnent l'action de sujets socialement situés
+Résumé:
+  - Les affordances sont la manière dont les objets façonnent l'action de sujets socialement situés
 ---
 ## Définitions
 

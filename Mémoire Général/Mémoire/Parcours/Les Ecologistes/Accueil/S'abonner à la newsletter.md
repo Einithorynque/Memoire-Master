@@ -5,7 +5,7 @@ Description:
 Médias:
   - "[[accueil-rs-lesecologistes.jpg]]"
 Objet d'étude:
-  - "[[Les Écologistes]]"
+  - "[[Les écologistes]]"
 Parcours:
   - Accueil
 Récurrence: 1

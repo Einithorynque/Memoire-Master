@@ -3,7 +3,7 @@ Description: 'Un bouton "Donner" ouvre un lien dans une nouvelle fenêtre vers u
 Médias:
   - "[[naviguer-hors-site-passer-action-lesecologistes.mp4]]"
 Objet d'étude:
-  - "[[Les Écologistes]]"
+  - "[[Les écologistes]]"
   - "[[Écolo! (web)|Écolo!]]"
 Parcours:
   - Accueil
@@ -35,6 +35,6 @@ Puisque j'ouvre le site [[Écolo! (web)|Écolo!]] quelques jours après le 18/09
 
 La première occurrence de cette fonctionnalité, sous forme de bouton, [[Demander|demande]] de naviguer vers [[Écolo! (web)|Écolo!]]. Moins mise en avant que le bouton pour [[Rejoindre les écologistes]], elle est hiérarchiquement le quatrième call to action de la page. Dans ce contexte, naviguer vers le site [[Écolo! (web)|Écolo!]] est une demande avec un faible degré de sollicitation. 
 
-Pourtant, la plateforme [[Écolo! (web)|Écolo!]] est présentée comme une manière de continuer le combat politique écologique en autonomie. Cette relégation montre un choix dans la réponse au [[Problème|problème]] écologique que privilégie [[Les Écologistes|les Écologistes]]. Pour y répondre [[Les Écologistes|les Écologistes]] nous sollicite d'abord pour consolider l'action du parti établi, ensuite et avec moindre mesure pour encourager à l'action politique de tout à chacun. 
+Pourtant, la plateforme [[Écolo! (web)|Écolo!]] est présentée comme une manière de continuer le combat politique écologique en autonomie. Cette relégation montre un choix dans la réponse au [[Problème|problème]] écologique que privilégie [[Les écologistes|les Écologistes]]. Pour y répondre [[Les écologistes|les Écologistes]] nous sollicite d'abord pour consolider l'action du parti établi, ensuite et avec moindre mesure pour encourager à l'action politique de tout à chacun. 
 
 La seconde section où est présente la fonctionnalité de [[Naviguer vers Écolo! (web)|naviguer vers Écolo! (web)]], sa forme de lien implique une faible sollicitation, le site [[Permettre|permet]] donc surtout d'y naviguer. Encore une fois, ce lien n'est que le troisième et dernier mis en avant dans l'écran Il est à nouveau placé après la fonctionnalité de [[Rejoindre les écologistes]], mais aussi d'un lien vers la page Découvrir. Cette hiérarchie appuie le choix d'action politique contre le problème appuyé par les écologistes.  

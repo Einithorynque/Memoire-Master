@@ -11,7 +11,7 @@
 
 ## Constat problématique
 
-Il y a un an, je me connecte successivement au site du partie politique [[Les Écologistes]] puis à celui de l'entreprise [[TotalEnergies]], le grand écart. Pourtant ce que je vois me heurte : leur écrans d'accueil me semblent très similaires. 
+Il y a un an, je me connecte successivement au site du partie politique [[Les écologistes]] puis à celui de l'entreprise [[TotalEnergies]], le grand écart. Pourtant ce que je vois me heurte : leur écrans d'accueil me semblent très similaires. 
 
 Dans le détail, les deux accueils ne sont pas strictement identique. Surement car [[TotalEnergies|www.totalenergies.fr]] vise plus à me vendre des offres, il sollicite mon regard par des liens, des avis supplémentaires. Reste que leur structure globale est très similaire. Sur les deux sites je retrouve le même haut de page : un logo, des liens, et deux boutons, dont un mis en avant, se succèdent de gauche à droite. Sur les deux sites l'essentiel de l'écran est occupé par une section en deux partie, une image à gauche, un texte puis deux boutons à droite.
 

@@ -8,87 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c015e9c24e3959a9",
+            "id": "1362e4fd6e34a4a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecrits/Chronique Radio/Chronique sur un objet de mon corpus.md",
+                "file": "Lectures/Retours/L’esthétique de l’engagement écologique. L’impensé des politiques environnementales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chronique sur un objet de mon corpus"
+              "title": "L’esthétique de l’engagement écologique. L’impensé des politiques environnementales"
             }
           },
           {
-            "id": "695a4ed52f4b4932",
+            "id": "8fb6f2ad22a8e295",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notions/Problème.md",
+                "file": "Notions/Écologie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Problème"
-            }
-          },
-          {
-            "id": "e9be84675c852f7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mon Mémoire.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mon Mémoire"
-            }
-          },
-          {
-            "id": "b3e7a217fe2a9077",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Retours/La question écologique dans le champ du design numérique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "La question écologique dans le champ du design numérique"
-            }
-          },
-          {
-            "id": "6d992b1a03f843d7",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://mediationsemiotiques.com/albi-2021",
-                "title": "albi-nîmes 2021 - Médiations Sémiotiques",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "albi-nîmes 2021 - Médiations Sémiotiques"
-            }
-          },
-          {
-            "id": "303126924ab23983",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://mediationsemiotiques.com/roussilhe",
-                "title": "ROUSSILHE - Médiations Sémiotiques",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "ROUSSILHE - Médiations Sémiotiques"
+              "title": "Écologie"
             }
           }
         ]
@@ -164,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Méthodes/Feature Analysis.md",
+                "file": "Lectures/Retours/L’esthétique de l’engagement écologique. L’impensé des politiques environnementales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Feature Analysis"
+              "title": "Rétrolien pour L’esthétique de l’engagement écologique. L’impensé des politiques environnementales"
             }
           },
           {
@@ -257,8 +201,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -279,50 +222,50 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c015e9c24e3959a9",
+  "active": "1362e4fd6e34a4a0",
   "lastOpenFiles": [
-    "Mon Mémoire.md",
-    "Ecrits/Chronique Radio/Chronique sur un objet de mon corpus.md",
-    "Lectures/Retours/Le baromètre du numérique - édition 2025.md",
-    "Objets/Parcourus/Les écologistes.md",
-    "Lectures/Retours/La question écologique dans le champ du design numérique.md",
-    "Notions/Problème.md",
+    "Notions/Écologie.md",
+    "Notions/Engagement Écologique.md",
+    "Lectures/A lire/Ecologie.md",
+    "Lectures/A lire/Eco-Warriors Understanding the Radical Environmental Movement.md",
+    "Lectures/A lire/L’engagement écologique au quotidien a-t-il un genre.md",
+    "Lectures/A lire/Utopie La quête de la société idéale en Occident.md",
+    "Lectures/Auteurs·ices/Rik Scarce.md",
+    "Lectures/A lire/Utopies réalisables.md",
+    "Lectures/Retours/L’esthétique de l’engagement écologique. L’impensé des politiques environnementales.md",
+    "Lectures/Auteurs·ices/Lyman Tower Sargent.md",
+    "Lectures/Auteurs·ices/Roland Schaer.md",
+    "Lectures/Auteurs·ices/Yona Friedman.md",
+    "Lectures/Utopi.md",
+    "Templates/Template Lecture.md",
+    "Lectures/Auteurs·ices/Michèle Lalanne.md",
+    "Lectures/Auteurs·ices/Nathalie Lapeyre.md",
+    "Lectures/A lire/Les formes de l'environnement manifeste pour une esthétique politique.md",
+    "Notions/Engagement.md",
+    "Notions/Esthétique.md",
+    "Lectures/Auteurs·ices/Nathalie Blanc.md",
+    "Lectures/A lire/Ce que sait la main, la culture de l’artisanat..md",
+    "Lectures/A lire/The Depth of design.md",
+    "Lectures/Auteurs·ices/Albert Borgmann.md",
+    "Lectures/Auteurs·ices/Richard Sennett.md",
+    "Lectures/Retours/Design et Humanités Numériques.md",
+    "Notions/Redirection écologique.md",
+    "Objets/Objets.base",
+    "Lectures/Récapitulatifs retours.base",
+    "Lectures/Récapitulatifs à lire.base",
     "Pasted image 20251103174808.png",
+    "État de l'art.base",
+    "Objets/Exemples/A trier",
+    "Parcours/Ecolo! (app)",
     "Ecrits/Chronique Radio",
-    "Parcours/Les Ecologistes/Accueil/Consulter des actualités.md",
-    "Objets/Exemples/Fig Studio.md",
-    "Suivis/23.10.md",
-    "Lectures/Auteurs·ices/Ophélie Coelho.md",
-    "Objets/Exemples/162 km².md",
-    "Objets/Exemples/The whale hunt.md",
-    "Objets/Exemples/Feral Atlas.md",
-    "Notions/Êtres vivants.md",
-    "Notions/Anthropocène.md",
-    "Objets/Catégories Objets/Images.md",
-    "Objets/Catégories Objets/Frise Chronologique.md",
-    "Objets/Exemples/Thinking With Moss.md",
-    "Objets/Catégories Objets/Cartes.md",
-    "Objets/Catégories Objets/Digital Garden.md",
-    "Objets/Catégories Objets/Applications de Messagerie.md",
-    "Objets/Catégories Objets/Applications.md",
-    "Notions/Big Tech.md",
-    "Notions/Illustrations.md",
-    "Objets/Catégories Objets/Logiciels.md",
-    "Notions/Écosystème.md",
     "Notions/Sans titre",
     "Parcours/Les Ecologistes/Medias/accueil-lesecologistes.jpg",
-    "Sans titre.base",
     "Parcours/Les Ecologistes/Parcours Les Ecologistes.base",
     "Parcours/Les Ecologistes/Medias/carte-deplacement-carte.lesecologistes.mp4",
-    "Parcours/Les Ecologistes/Accueil/Affordance Les Ecologistes Accueil.base",
-    "Parcours/Les Ecologistes/Accueil",
     "Parcours/Les Ecologistes/Medias/actualites-liste-lesecologistes.jpg",
-    "Parcours/Les Ecologistes/Medias/carte-contact-region-locaux-carte.lesecologistes.mp4",
     "Parcours/Les Ecologistes/Medias/actualites-exemple-video-pdf-lesecologistes.jpg",
     "Parcours/Les Ecologistes/Medias/actualites-accueil-lesecologistes.jpg",
     "Parcours/Les Ecologistes/Medias/accueil-rs-lesecologistes.jpg",
-    "Lectures/Récapitulatifs à lire.base",
-    "Objets/Catégories Objets/Fédivers",
     "Parcours/Les Ecologistes/Medias/carte-hover-carte.lesecologistes.jpg",
     "Parcours/Les Ecologistes/Medias/carte-mouvement-lesecologistes.jpg",
     "Parcours/Les Ecologistes/Medias/communaute-personnes-lesecologistes.jpg",

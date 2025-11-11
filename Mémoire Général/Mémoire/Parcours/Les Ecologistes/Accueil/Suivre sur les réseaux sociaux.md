@@ -3,7 +3,7 @@ Description: Une liste de bouton compartimentés dans une section invitent à su
 Médias:
   - "[[accueil-rs-lesecologistes.jpg]]"
 Objet d'étude:
-  - "[[Les Écologistes]]"
+  - "[[Les écologistes]]"
 Parcours:
   - Accueil
   - Actualités 
