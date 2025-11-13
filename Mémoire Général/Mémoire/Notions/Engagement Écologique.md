@@ -8,7 +8,8 @@ Sources:
 Eco-Conceptions:
 Eco-Interactions:
 aliases:
-Résumé: « L’engagement écologique est une forme de mobilisation, un passage à l’action dû à une prise de conscience des problématiques entre humains et non-humains en modifiant ses choix de vie et de consommation (Lalanne et Lapeyre, 2009). » (Hamarat, 2019, p. 18)
+  - engagement écologique
+Résumé: « L’engagement écologique est une forme de mobilisation, un passage à l’action dû à une prise de conscience des problématiques entre humains et non-humains en modifiant ses choix de vie et de consommation (Lalanne et Lapeyre, 2009). [...]  L’engagement écologique est la volonté de défaire le binôme nature et culture entre les êtres, les êtres et les choses, le soi et le monde.» (Hamarat, 2019, p. 18)
 ---
 ## Dans [[L’esthétique de l’engagement écologique. L’impensé des politiques environnementales]]
 
@@ -16,6 +17,10 @@ Résumé: « L’engagement écologique est une forme de mobilisation, un passag
 
 > [!quote] Definition
 > « L’engagement écologique est une forme de mobilisation, un passage à l’action dû à une prise de conscience des problématiques entre humains et non-humains en modifiant ses choix de vie et de consommation (Lalanne et Lapeyre, 2009). » (Hamarat, 2019, p. 18)
+
+« L’engagement écologique est la volonté de défaire le binôme nature et culture entre les êtres, les êtres et les choses, le soi et le monde. » (Hamarat, 2019, p. 18).
+
+« L’engagement écologique est une tentative pour réinstaurer sur le plan culturel et pratique la continuité et l’unité entre les humains et les non-humains afin de construire une communauté. Il s’agit d’instaurer des rapports non oppressifs, non hiérarchiques, non exploitants, non totalitaires entre les individus, et entre les individus et les non-humains. » (Hamarat, 2019, p. 19)
 
 > [!info] Caractéristiques : dans la sphère privée, entre valeurs et gestes quotidien
 > « C’est une démarche *individuelle* ou *collective* qui se met en place en premier lieu dans la **sphère privée** à la recherche d’un équilibre *imparfait* et *contraignant* entre **valeurs** et **gestes du quotidien** » (Hamarat, 2019, p. 18)
@@ -34,3 +39,10 @@ Tiré de [[Utopies réalisables]] et [[Utopie La quête de la société idéale 
 4. la simplicité des modes de vie
 5. l’absence d’espoir ou d’objectif pour la fin du système chez les personnes qui luttent.
 Pour d’autres, si ces initiatives  se multiplient et sont adoptées par plusieurs individus et groupes à grande échelle,  elles aspirent à une transformation sociale, culturelle, industrielle et politique, passant ainsi de la sphère intime à la sphère publique ([[L’engagement écologique au quotidien a-t-il un genre]]).» (Hamarat, 2019, p. 18)
+
+### Comme réponse à la crise
+
+« La transition écologique nous incite à fonder une démocratie directe, plus délibérative que représentative. L’adaptation des sociétés à la crise environnementale suppose de réorganiser de fond en comble la vie quotidienne des populations. Or cela ne se fera pas sans les mobiliser, sans s’appuyer sur leurs savoirs et leurs savoir-faire, et sans transformer dans un même mouvement les subjectivités consuméristes. C’est donc à une nouvelle « critique de la vie quotidienne » qu’il faut parvenir; une critique élaborée collectivement. » (Keucheyan, 2017) https://www.monde-diplomatique.fr/2017/02/KEUCHEYAN/57134
+
+"L’un des producteurs de cette vie quotidienne est le design. Il partage la responsabilité d’inclure ces besoins qualitatifs dans son cahier de charges."
+

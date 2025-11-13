@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "path:Lectures/Auteurs·ices  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701269
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 9.41787941787942,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.09919829956304864,
+  "scale": 0.12987567388274623,
   "close": false
 }

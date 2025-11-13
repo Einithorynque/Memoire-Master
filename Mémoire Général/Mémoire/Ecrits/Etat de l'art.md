@@ -27,3 +27,5 @@ En IHM on a vraiment très catégoriser texte
 - discussion
 
 Là l'état de l'art est fournit et on passe du temps dessus. Peut permettre de poser un cadre théorique, ça guide la méthodologie. Ensuite ils sont souvent réutilisées dans la discussion. 
+
+Relettre la pertinance du memoir
