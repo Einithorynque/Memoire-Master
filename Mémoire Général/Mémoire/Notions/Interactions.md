@@ -5,7 +5,7 @@ Themes:
   - "[[Human Computer Interaction]]"
 Objets:
   - "[[Applications]]"
-  - "[[Sites Web]]"
+  - "[[Sites Internet]]"
 Auteurs·ices:
 Sources:
   - "[[Feature Analysis, A Method for Analyzing the Role of Ideology in App Design]]"

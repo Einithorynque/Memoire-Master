@@ -6,7 +6,7 @@ Themes:
   - "[[Technologies]]"
   - "[[Les Affordances]]"
 Objets:
-  - "[[Sites Web]]"
+  - "[[Sites Internet]]"
 Sources:
   - https://journals.sagepub.com/doi/10.1177/1461444814520873
   - Zotero
@@ -33,7 +33,7 @@ Stanfill, Mel définit dans cet article de recherche la [[Discursive Interface A
 L'article semblait apporter une méthodologie très proche de celle dont je vais avoir besoin. La base théorique de l'article m'a paru très intéressante; en me donnant des clés d'analyse du discours, notamment en citant Michel Foucault. Cependant j'ai trouvé que l'analyse réalisé pour démonter cette méthode n'était pas assez rigoureusement encadrée. Notamment dans les choix des objets étudiés qui ne suivaient pas de méthode.
 
 
-
+>« It takes the premise that how sites are built reflects assumptions about what site visitors will do, which becomes a normative claim about what Users should do when incorporated within the interface – acting to ‘configure the user’ (Hutchby, 2001: 451), at least as an ideal. » (Stanfill, 2015, p. 1062)
 ## Faire un bilan des retours 
 
 > [!Quote] Cité dans [[Feature Analysis, A Method for Analyzing the Role of Ideology in App Design]]

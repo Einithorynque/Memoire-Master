@@ -35,3 +35,5 @@ Le web si pays = 4ème pollueur
 > Qui supporte une économie luttant contre les inégalités et pour la planète
 > **6. Web résilient**
 > Les services fonctionneront uniquement dans des lieux et sur une durée pour lesquels ils répondront à un réel besoin
+
+

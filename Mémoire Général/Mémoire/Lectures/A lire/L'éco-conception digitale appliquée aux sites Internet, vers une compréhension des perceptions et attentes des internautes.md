@@ -1,16 +1,17 @@
 ---
 Type:
   - LECTURE
-Themes: 
+Themes:
+  - "[[Écoconception]]"
 Sources:
   - https://hal.science/hal-05011525v1
-Objets: 
+Objets:
 Auteurs·ices:
   - "[[Alizée Roux]]"
-Date de création: 
+Date de création:
 Complétion: false
 Avis:
   - Plutôt intéressant
-Eco-Conceptions: 
+Eco-Conceptions:
 Eco-Interactions:
 ---

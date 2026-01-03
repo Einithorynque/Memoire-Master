@@ -1,13 +1,13 @@
 ---
 Type:
   - NOTION
-Themes: 
+Themes:
 Objets:
-  - "[[Sites Web]]"
+  - "[[Sites Internet]]"
   - "[[Applications]]"
-Auteurs·ices: 
-Sources: 
-Eco-Conceptions: 
+Auteurs·ices:
+Sources:
+Eco-Conceptions:
 Eco-Interactions:
 ---
 

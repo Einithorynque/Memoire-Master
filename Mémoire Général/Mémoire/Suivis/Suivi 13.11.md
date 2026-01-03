@@ -10,6 +10,6 @@ Des éléments carnet d'idée peuvent se placer en contre modèle des objets du 
 => surtout  si je documente un vide. 
 
 Pour semaine prochaine : 
-- [ ] Plan détaillé 
 - [ ] Commencer à expérimenter avec les principes
 - [ ] Définir mon corpus 
+- [ ] Plan détaillé 

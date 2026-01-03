@@ -2,7 +2,10 @@
 Type:
   - NOTION
 Themes:
+  - "[[Engagement]]"
 Objets:
+  - "[[Applications]]"
+  - "[[Plateformes]]"
 Auteurs·ices:
 Sources:
   - "[[Le rapt d'internet]]"

@@ -1,6 +1,6 @@
 ---
 Objets:
-  - "[[Sites Web]]"
+  - "[[Sites Internet]]"
 Sources:
   - https://www.totalenergies.fr/
 Parcours:

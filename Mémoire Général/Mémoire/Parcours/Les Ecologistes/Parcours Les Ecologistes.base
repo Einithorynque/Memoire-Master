@@ -8,14 +8,22 @@ views:
     order:
       - file.name
       - Parcours
+      - Écrans
+      - Scrolls
       - Récurrence
       - Description
       - Réponse au problème
     sort:
+      - property: Écrans
+        direction: ASC
       - property: Réponse au problème
         direction: DESC
     columnSize:
+      note.Parcours: 128
+      note.Écrans: 84
       note.Description: 383
+      note.Réponse au problème: 65
+    rowHeight: medium
   - type: table
     name: Accueil-affordances
     filters:
@@ -33,14 +41,12 @@ views:
       - Description
       - Mécanisme Affordance
     sort:
-      - property: Récurrence
-        direction: DESC
-      - property: Écrans
-        direction: DESC
       - property: Scrolls
         direction: ASC
-      - property: Complétion
+      - property: Écrans
         direction: ASC
     rowHeight: medium
     columnSize:
       note.Complétion: 48
+      note.Écrans: 94
+      note.Description: 383

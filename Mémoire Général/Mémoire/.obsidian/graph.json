@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "         ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,14 +25,14 @@
       "query": "[\"type\":NOTION]",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 8229709
       }
     },
     {
       "query": "path:Lectures/Auteurs·ices  ",
       "color": {
         "a": 1,
-        "rgb": 14701269
+        "rgb": 15564174
       }
     }
   ],
@@ -46,6 +46,6 @@
   "repelStrength": 9.41787941787942,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.12987567388274623,
+  "scale": 0.10715190384838419,
   "close": false
 }

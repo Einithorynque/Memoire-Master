@@ -23,6 +23,12 @@
     "Intensité Affordance": "multitext",
     "Écrans": "multitext",
     "lien": "multitext",
-    "Créateur·ices": "multitext"
+    "Créateur·ices": "multitext",
+    "Écologie Politique": "multitext",
+    "Technologies": "multitext",
+    "Sélectionné": "checkbox",
+    "Situer": "multitext",
+    "Réseaux Sociaux": "multitext",
+    "Dispositifs info-communicationnels": "multitext"
   }
 }

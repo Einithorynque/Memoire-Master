@@ -29,7 +29,7 @@ Ce site redirige pourtant vers [lesecologistes.fr](https://lesecologistes.fr/,) 
 
 [[Naviguer vers Soutenir EELV]] prend la forme d'une [[Demander|demande]] dans le header, étant un bouton mis en avant par son style : plein et coloré (marqué).
 
-Il est dans le header et le premier écran de l'accueil, le second call to action en terme de degré de solicitation, après [[Rejoindre les écologistes]] et avant [[Naviguer vers Écolo! (web)]], montrant encore que le site privilégie de supporter et d'encarter dans le mouvement existant plutôt que d'encourager à l'action politique autonome. 
+Il est dans le header et le premier écran de l'accueil, le second call to action en terme de degré de solicitation, après [[Naviguer vers Rejoindre les écologistes]] et avant [[Naviguer vers Écolo! (web)]], montrant encore que le site privilégie de supporter et d'encarter dans le mouvement existant plutôt que d'encourager à l'action politique autonome. 
 
 
 

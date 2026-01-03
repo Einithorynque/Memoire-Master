@@ -15,8 +15,14 @@ Résumé: L’engagement est une action. Elle est à la fois envers soi, les aut
 ---
 
 
+## L'engagement aux plateformes [[Suivi 18.11]]
 
-## Chez [Hamarat, 2019](app://obsidian.md/L%E2%80%99esth%C3%A9tique%20de%20l%E2%80%99engagement%20%C3%A9cologique.%20L%E2%80%99impens%C3%A9%20des%20politiques%20environnementales), p. 17
+Margaux rappelle l'article [[From Cornucopian Design Patterns to Digital Infrastructure Growth - How Design Choices Lead to Environmental Impacts]] d'[[Anaelle Beignon]]. Anaëlle parle d'**engagement** sous l'angle de l'engagement aux plateformes, qui [[Encourager|encourage]] un cloisonnement dans celle ci à cause de leur [[Coûts de sortie]]  et renforce le [[Cornucopian Paradigm]]. 
+
+L'[[Engagement Écologique|engagement écologique]] se fait alors dans les marges de l'**engagement aux plateformes**
+## Définition philosophique : chez [Hamarat, 2019](app://obsidian.md/L%E2%80%99esth%C3%A9tique%20de%20l%E2%80%99engagement%20%C3%A9cologique.%20L%E2%80%99impens%C3%A9%20des%20politiques%20environnementales), p. 17
+
+
 
 ### L'action de l'engagement
 

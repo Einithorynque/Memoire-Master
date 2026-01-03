@@ -22,8 +22,8 @@ views:
         direction: ASC
     rowHeight: tall
     columnSize:
-      note.Themes: 151
-      note.Objets: 136
+      note.Themes: 23
+      note.Objets: -104
       note.Résumé: 447
       note.Sources: 296
       note.Auteurs·ices: 130

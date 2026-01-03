@@ -2,9 +2,9 @@
 Type:
   - OBJETS
 Objets:
-  - "[[Sites Web]]"
+  - "[[Sites Internet]]"
 Themes:
-  - "[[Web situé]]"
+  - "[[Sites Situés]]"
 Avis:
 Description: Site web qui réagit aux conditions météorologiques et astronomiques à OXFORD, England.
 aliases:

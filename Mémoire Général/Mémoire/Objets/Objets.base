@@ -16,3 +16,9 @@ views:
         direction: DESC
     columnSize:
       note.Description: 336
+  - type: table
+    name: Parcoures
+    filters:
+      and:
+        - file.inFolder("Objets/Parcoures")
+    rowHeight: medium

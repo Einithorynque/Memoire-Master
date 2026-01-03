@@ -1,0 +1,45 @@
+views:
+  - type: table
+    name: Préselection
+    filters:
+      and:
+        - file.inFolder("Objets/Cas d'Études")
+        - "!file.inFolder(\"Objets/Cas d'Études/Disparu\")"
+    groupBy:
+      property: Écologisme
+      direction: ASC
+    order:
+      - file.name
+      - Écologisme
+      - Sélectionné
+      - Dispositifs info-communicationnels
+      - Objets
+    sort:
+      - property: Écologisme
+        direction: DESC
+      - property: Dispositifs info-communicationnels
+        direction: ASC
+      - property: Écologie Politique
+        direction: DESC
+      - property: Parcours
+        direction: ASC
+    columnSize:
+      file.name: 218
+      note.Écologisme: 333
+      note.Dispositifs info-communicationnels: 549
+      note.Objets: 135
+    rowHeight: medium
+  - type: table
+    name: Sélection
+    filters:
+      and:
+        - file.inFolder("Objets/Cas d'Études")
+        - "!file.inFolder(\"Objets/Cas d'Études/Disparu\")"
+        - Sélectionné == true
+    groupBy:
+      property: Écologisme
+      direction: ASC
+    order:
+      - file.name
+      - Écologisme
+      - Dispositifs info-communicationnels

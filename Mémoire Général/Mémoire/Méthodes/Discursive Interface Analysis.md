@@ -4,7 +4,7 @@ Type:
 Sources:
   - "[[The interface as discourse, The production of norms through web design]]"
 Objets:
-  - "[[Sites Web]]"
+  - "[[Sites Internet]]"
 Avis:
   - Plutôt intéressant
 Résumé: Vise à identifier les discours et normes induites dans les sites web basée sur l'affordance.

@@ -51,8 +51,16 @@
       "template": "Templates/Template Notions.md"
     },
     {
+      "folder": "Objets/Cas d'Études",
+      "template": "Templates/Template Cas d'Étude.md"
+    },
+    {
       "folder": "Lectures/Théorie du Design numérique",
       "template": "Templates/Template Lecture.md"
+    },
+    {
+      "folder": "",
+      "template": ""
     }
   ],
   "enable_file_templates": false,

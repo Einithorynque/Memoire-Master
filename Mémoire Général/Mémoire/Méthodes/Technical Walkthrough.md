@@ -6,7 +6,7 @@ Sources:
   - "[[From Cornucopian Design Patterns to Digital Infrastructure Growth - How Design Choices Lead to Environmental Impacts]]"
 Objets:
   - "[[Applications]]"
-  - "[[Sites Web]]"
+  - "[[Sites Internet]]"
 Avis:
   - Plutôt intéressant
 Résumé: "A lire : réaliser des parcours exhaustifs et noter toutes les fonctionnalités, le faire avec plusieurs types de comptes."

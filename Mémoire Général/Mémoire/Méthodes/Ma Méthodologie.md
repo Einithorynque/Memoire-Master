@@ -1,9 +1,9 @@
 ---
 Type:
   - METHODE
-Sources: 
+Sources:
 Objets:
-  - "[[Sites Web]]"
+  - "[[Sites Internet]]"
 ---
 Je ne pense pas m'intéresser à :
 - Affordance cognitive :

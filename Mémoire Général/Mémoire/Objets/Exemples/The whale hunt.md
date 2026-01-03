@@ -5,7 +5,7 @@ Objets:
   - "[[Frise Chronologique]]"
   - "[[Navigation aléatoire]]"
   - "[[Images]]"
-  - "[[Sites Web]]"
+  - "[[Sites Internet]]"
 Themes:
   - "[[Écologie]]"
   - "[[Êtres vivants]]"
