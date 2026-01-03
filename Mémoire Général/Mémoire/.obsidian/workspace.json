@@ -95,13 +95,14 @@
             "id": "49fcd98707752c79",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Objets/Cas d'Études.base",
-                "viewName": "Sélection"
+                "file": "Objets/Cas d'Études/Préselection/Zéro Waste.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Cas d'Études"
+              "icon": "lucide-file",
+              "title": "Zéro Waste"
             }
           }
         ],
@@ -331,15 +332,15 @@
       }
     ]
   },
-  "active": "4e64904323567e41",
+  "active": "9f8c9a9f687a5e41",
   "lastOpenFiles": [
-    "Ecrits/M2/Mémoire/I. 1. Méthode.md",
+    "Objets/Cas d'Études/Préselection/LVE - La voie est libre.md",
     "Objets/Cas d'Études.base",
+    "Ecrits/M2/Mémoire/I. 1. Méthode.md",
     "Objets/Cas d'Études/Préselection/France Nature Environnement/Sentinelles de la Nature (app).md",
     "Objets/Cas d'Études/Préselection/France Nature Environnement/Sentinelles de la Nature (web).md",
     "Objets/Cas d'Études/Préselection/France Nature Environnement/France Nature Environnement.md",
     "Objets/Cas d'Études/Préselection/Les Amis de la Terre.md",
-    "Objets/Cas d'Études/LVE - La voie est libre.md",
     "Notions/Autoroute A69.md",
     "Ecrits/M2/Chronique Radio/Chronique sur un objet de mon corpus.md",
     "Objets/Cas d'Études/Préselection/Les Écologistes/Les Écologistes - Carte.md",
@@ -349,7 +350,7 @@
     "Lectures/Retours/The interface as discourse, The production of norms through web design.md",
     "Méthodes/Feature Analysis.md",
     "Objets/Cas d'Études/Disparu/Amassada.md",
-    "Objets/Cas d'Études/Zéro Waste.md",
+    "Objets/Cas d'Études/Préselection/Zéro Waste.md",
     "Objets/Cas d'Études/Disparu/Super Local.md",
     "Lectures/Auteurs·ices/Vincent Verzat.md",
     "Objets/Cas d'Études/Disparu/Le Monde d'Après.md",
