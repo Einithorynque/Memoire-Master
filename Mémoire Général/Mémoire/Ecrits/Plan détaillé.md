@@ -83,7 +83,7 @@ Dans l'état de l'art il faut **vraiment** positionner la recherche.
 > - Parties écologistes / non écologistes. [[Dictionnaire d'écologie politique]] (à lire)
 > - Numérique et communication. [[Dictionnaire d'écologie politique]] (à lire)
 
-##### a. [[Parties Politiques Écologistes]] : une structure descendante
+##### a. [[Partis Politiques Écologistes]] : une structure descendante
 
 > [!example] Objets Liés
 > - [[Sites Internet]]

@@ -11,7 +11,7 @@ Sources:
 Eco-Conceptions:
 Eco-Interactions:
 aliases:
-  - parties politiques écologistes
+  - partis politiques écologistes
 Résumé:
 ---
 

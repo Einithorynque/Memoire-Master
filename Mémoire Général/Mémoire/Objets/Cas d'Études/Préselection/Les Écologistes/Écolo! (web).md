@@ -7,7 +7,7 @@ Sources:
   - https://actions.lesecologistes.fr/
 Themes:
 Écologisme:
-  - "[[Parties Politiques Écologistes]]"
+  - "[[Partis Politiques Écologistes]]"
 Créateur·ices:
 Technologies:
 Parcours:

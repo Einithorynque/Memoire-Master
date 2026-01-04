@@ -78,34 +78,20 @@
             }
           },
           {
-            "id": "236c852097db84e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ecrits/M2/Chronique Radio/Chronique sur un objet de mon corpus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chronique sur un objet de mon corpus"
-            }
-          },
-          {
             "id": "49fcd98707752c79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Objets/Cas d'Études/Préselection/Zéro Waste.md",
-                "mode": "source",
-                "source": false
+                "file": "Objets/Cas d'Études.base",
+                "viewName": "Sélection"
               },
-              "icon": "lucide-file",
-              "title": "Zéro Waste"
+              "icon": "lucide-table",
+              "title": "Cas d'Études"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -162,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 300.5
   },
   "right": {
     "id": "76a3ce8d89bea0cc",
@@ -292,34 +278,36 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e5bd91c4e53d8cc0",
+  "active": "49fcd98707752c79",
   "lastOpenFiles": [
+    "Objets/Cas d'Études/Préselection/Bure Bure Bure.md",
     "Objets/Cas d'Études/Préselection/Zéro Waste.md",
-    "Objets/Cas d'Études/Préselection/LVE - La voie est libre.md",
     "Objets/Cas d'Études.base",
-    "Ecrits/M2/Mémoire/I. 1. Méthode.md",
-    "Objets/Cas d'Études/Préselection/France Nature Environnement/Sentinelles de la Nature (app).md",
-    "Objets/Cas d'Études/Préselection/France Nature Environnement/Sentinelles de la Nature (web).md",
-    "Objets/Cas d'Études/Préselection/France Nature Environnement/France Nature Environnement.md",
-    "Objets/Cas d'Études/Préselection/Les Amis de la Terre.md",
-    "Notions/Autoroute A69.md",
+    "Objets/Cas d'Études/Préselection/Réseau Action Climat.md",
+    "Lectures/A lire/La mouvance écologiste contemporaine à l’épreuve d’internet, analyses comparative du déploiement de discours et de stratégies de communication d’organisations écologistes.md",
+    "Objets/Catégories Objets/Écologisme/Mouvements Écologistes.md",
+    "Notions/Mouvement climat.md",
+    "Lectures/A lire/The Nature of Slacktivism, How the Social Observability of an Initial Act of Token Support Affects Subsequent Prosocial Action.md",
+    "Lectures/Auteurs·ices/Kirk Kristofferson.md",
+    "Lectures/Auteurs·ices/Katherine White.md",
+    "Lectures/Auteurs·ices/John Pelozza.md",
+    "Objets/Cas d'Études/Préselection/Sherpa.md",
+    "Objets/Cas d'Études/Préselection/Hors France/Deep Green Resistance.md",
+    "Objets/Cas d'Études/Préselection/Hors France",
     "Ecrits/M2/Chronique Radio/Chronique sur un objet de mon corpus.md",
-    "Objets/Cas d'Études/Préselection/Les Écologistes/Les Écologistes - Carte.md",
-    "Objets/Cas d'Études/Préselection/Ende Gelände.md",
+    "Objets/Cas d'Études/Préselection/L'Affaire du Siècle.md",
+    "Objets/Catégories Objets/Écologisme/Partis Politiques Écologistes.md",
+    "Objets/Cas d'Études/Préselection/Alternatiba/Alternatiba.md",
     "Ecrits/Plan détaillé.md",
     "Méthodes/Discursive Interface Analysis.md",
     "Lectures/Retours/The interface as discourse, The production of norms through web design.md",
     "Méthodes/Feature Analysis.md",
-    "Objets/Cas d'Études/Disparu/Amassada.md",
-    "Objets/Cas d'Études/Disparu/Super Local.md",
-    "Lectures/Auteurs·ices/Vincent Verzat.md",
-    "Objets/Cas d'Études/Disparu/Le Monde d'Après.md",
-    "Objets/Cas d'Études/Préselection/Bon Pote.md",
-    "Objets/Cas d'Études/Préselection/L'affaire du Siècle.md",
-    "Objets/Cas d'Études/Préselection/Le Monde d'Après.md",
-    "Objets/Réseaux Sociaux/Discord.md",
-    "Objets/Cas d'Études/Préselection/Oxfam France.md",
-    "Notions/Inégalités.md",
+    "Ecrits/M2/Mémoire/I. 1. Méthode.md",
+    "Objets/Cas d'Études/Préselection/LVE - La voie est libre.md",
+    "Objets/Cas d'Études/Préselection/France Nature Environnement/Sentinelles de la Nature (app).md",
+    "Objets/Cas d'Études/Préselection/France Nature Environnement/Sentinelles de la Nature (web).md",
+    "Objets/Cas d'Études/Préselection/France Nature Environnement/France Nature Environnement.md",
+    "Objets/Cas d'Études/Préselection/Les Amis de la Terre.md",
     "Objets/Cas d'Études/Préselection/Alternatiba",
     "Objets/Cas d'Études/Préselection/France Nature Environnement",
     "Lectures/Retours/img/dile-toustou-sites-selectionnes-TIC.jpg",
@@ -329,7 +317,6 @@
     "Objets/Objets.base",
     "Objets/Cas d'Études/Préselection",
     "Objets/Catégories Objets/Objets Numériques/Sites Internet",
-    "Objets/Catégories Objets/Objets Numériques",
     "Lectures/Retours/img/dile-toustou-sites-selectionnes.jpg",
     "Lectures/Retours/img/dile-toustou-sites-preselectionnes.jpg",
     "Ecrits/M2/Mémoire/img/Screen Anaëlle Méthodo.png",

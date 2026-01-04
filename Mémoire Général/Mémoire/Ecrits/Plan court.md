@@ -7,7 +7,7 @@
 	b. L'[[Écologie Économique]] (l'écologie de la conception) dans le design numérique est un terrain déjà exploré 
 	c. Ce mémoire portera sur une étude de l'[[Écologie Politique]] dans le design numérique
 3. Comment existe l'écologie politique en France ?
-	a. [[Parties Politiques Écologistes]] : une structure descendante
+	a. [[Partis Politiques Écologistes]] : une structure descendante
 	b. Formation momentanée et hétéroclite dans les les « mobilisations environnementales localisées »
 ### Question de recherche
 Quelle place est donnée à l'[[Écologie Politique]] dans les présences en ligne de l'engagement ?

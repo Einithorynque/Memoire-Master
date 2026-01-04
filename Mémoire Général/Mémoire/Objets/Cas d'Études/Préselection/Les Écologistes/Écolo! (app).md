@@ -6,7 +6,7 @@ Objets:
 Sources:
 Themes:
 Écologisme:
-  - "[[Parties Politiques Écologistes]]"
+  - "[[Partis Politiques Écologistes]]"
 Créateur·ices:
 Technologies:
 Parcours:

@@ -8,7 +8,7 @@ Sources:
   - https://revolutionecologiquepourlevivant.fr/
 Themes:
 Écologisme:
-  - "[[Parties Politiques Écologistes]]"
+  - "[[Partis Politiques Écologistes]]"
 Pays:
   - France
 Créateur·ices:

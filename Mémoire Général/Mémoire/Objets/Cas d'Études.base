@@ -5,6 +5,7 @@ views:
       and:
         - file.inFolder("Objets/Cas d'Études")
         - "!file.inFolder(\"Objets/Cas d'Études/Disparu\")"
+        - "!file.inFolder(\"Objets/Cas d'Études/Préselection/Hors France\")"
     groupBy:
       property: Écologisme
       direction: ASC
@@ -15,6 +16,8 @@ views:
       - Dispositifs info-communicationnels
       - Objets
     sort:
+      - property: file.name
+        direction: ASC
       - property: Écologisme
         direction: DESC
       - property: Dispositifs info-communicationnels

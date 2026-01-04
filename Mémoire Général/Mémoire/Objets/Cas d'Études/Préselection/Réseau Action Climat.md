@@ -2,18 +2,19 @@
 Type:
   - OBJETS
 Objets:
+  - "[[Sites Internet]]"
+  - "[[Réseaux sociaux]]"
 Sources:
 Dispositifs info-communicationnels:
-  - "[[Sites Internet]]"
   - "[[Facebook]]"
-  - "[[Mastodon]]"
-  - "[[X]]"
+  - "[[Instagram]]"
+  - "[[LinkedIn]]"
   - "[[Bluesky]]"
+  - "[[Sites Internet]]"
 Themes:
 Écologisme:
   - "[[Organisations Associatives]]"
 Pays:
-  - France
 Créateur·ices:
 Technologies:
 Parcours:
@@ -21,5 +22,6 @@ Avis:
 Description:
 Date de création:
 aliases:
-Sélectionné: true
+Sélectionné: false
 ---
+Créé en 1996, regroupe 27 associations.

@@ -33,11 +33,11 @@ Contraste intéressant c'est sur des moyens et infrastructueres militaires que �
 
 >Quand tu parles d'engement, et d'écologie, et d'intéraction; c'est pas sur le web que tu vas les trouver. C'est sur les [[Réseaux sociaux]]. Et ils tendent à disparaitre vers les boucles de discussions [[Applications de Messagerie]].
 
-Dans [[Lectures/Retours/Mobilisations écologistes]], [[Sylvie Ollitrault]] et [[Romane Soler]] montrent que les mobilisations ne sont plus descendantes ([[Sites Internet|sites web]], [[Parties Politiques Écologistes|parties écologistes]]) mais se construire dans des luttes territoriales momentanées par la croisées d'enjeux de multiples groupes ([[Applications de Messagerie]], [[Collectifs écologistes]], habitants, paysans).
+Dans [[Lectures/Retours/Mobilisations écologistes]], [[Sylvie Ollitrault]] et [[Romane Soler]] montrent que les mobilisations ne sont plus descendantes ([[Sites Internet|sites web]], [[Partis Politiques Écologistes|parties écologistes]]) mais se construire dans des luttes territoriales momentanées par la croisées d'enjeux de multiples groupes ([[Applications de Messagerie]], [[Collectifs écologistes]], habitants, paysans).
 
 Il faudrait [[Infiltrer|s'infiltrer]], interroger des gens dont l'engagement est certain pour découvrir comment les gens s'engagent sur ces espaces.  
 
-[[Sites Internet]] de [[Parties Politiques Écologistes]] : partie haute de l'iceberg. 
+[[Sites Internet]] de [[Partis Politiques Écologistes]] : partie haute de l'iceberg. 
 En dessous de l'iceberg il y a une quantité de communautés invisibles : des formes de luttes différentes. Est ce qu'il y a des [[Forums|forums]] dédiés ?
 #### Dilemme des plateformes 
 Est ce qu'ils ont un éthique sur les objets numériques qu'ils vont utiliser ou choisissent ils des applications détenues par le capital risque dans le but de toucher tout le monde. 
