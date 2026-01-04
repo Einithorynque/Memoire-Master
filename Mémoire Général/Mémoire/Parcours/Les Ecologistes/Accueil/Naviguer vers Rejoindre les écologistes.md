@@ -10,7 +10,8 @@ Cas d'étude:
 Parcours:
   - Accueil
   - Rejoindre
-Récurrence: 4
+Récurrence:
+  - 4/7
 Scrolls: 0
 Écrans:
   - "1"

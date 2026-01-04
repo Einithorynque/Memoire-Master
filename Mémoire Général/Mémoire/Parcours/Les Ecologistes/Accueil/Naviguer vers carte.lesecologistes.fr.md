@@ -7,7 +7,8 @@ Cas d'étude:
   - "[[Les Écologistes - Carte]]"
 Parcours:
   - Accueil
-Récurrence: 1
+Récurrence:
+  - 1/7
 Date de création: 2025-09-21T18:41:00
 Type:
   - PARCOURS

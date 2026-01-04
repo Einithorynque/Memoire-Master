@@ -15,7 +15,8 @@ Parcours:
   - Accueil
   - Actualités 
   - Communauté
-Récurrence: 3
+Récurrence:
+  - 3/7
 Date de création: 2025-09-22T17:12:00
 Réponse au problème: true
 Mécanisme Affordance:

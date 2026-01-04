@@ -10,7 +10,7 @@
           {
             "id": "d1fc1e0216c501cb",
             "type": "tabs",
-            "dimension": 19.607843137254903,
+            "dimension": 32.77723258096173,
             "children": [
               {
                 "id": "c1344442efef71ec",
@@ -23,13 +23,26 @@
                   "icon": "lucide-image",
                   "title": "accueil-alternatiba.eu"
                 }
+              },
+              {
+                "id": "18e1762031618010",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Parcours/Alternatiba/Media/page-recherche-alternatiba.eu.jpg"
+                  },
+                  "icon": "lucide-image",
+                  "title": "page-recherche-alternatiba.eu"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "12a4784b462e9f1e",
             "type": "tabs",
-            "dimension": 80.3921568627451,
+            "dimension": 67.22276741903828,
             "children": [
               {
                 "id": "e5bd91c4e53d8cc0",
@@ -79,26 +92,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Parcours/Alternatiba/Accueil/Ouvrir le Plan du Site.md",
+                    "file": "Parcours/Alternatiba/Accueil/Rechercher des Pages.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Ouvrir le Plan du Site"
+                  "title": "Rechercher des Pages"
                 }
               },
               {
-                "id": "c208e44fda8f24aa",
+                "id": "d86acf5035927664",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Parcours/Alternatiba/Accueil/Ouvrir le Plan du Site.md",
+                    "file": "Parcours/Alternatiba/Accueil/Rechercher des Pages.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Ouvrir le Plan du Site"
+                  "title": "Rechercher des Pages"
                 }
               },
               {
@@ -113,6 +126,20 @@
                   },
                   "icon": "lucide-file",
                   "title": "Mécanismes de l'Affordance"
+                }
+              },
+              {
+                "id": "6c444a96f9bf8172",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Méthodes/Ma Méthodologie/Récurence.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Récurence"
                 }
               }
             ],
@@ -192,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parcours/Alternatiba/Media/accueil-alternatiba.eu.jpg",
+                "file": "Parcours/Alternatiba/Accueil/Rechercher des Pages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +229,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for accueil-alternatiba.eu"
+              "title": "Backlinks for Rechercher des Pages"
             }
           },
           {
@@ -254,13 +281,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Objets/Cas d'Études/Préselection/Amassada.md",
+                "file": "Parcours/Alternatiba/Accueil/Rechercher des Pages.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Amassada"
+              "title": "Outline of Rechercher des Pages"
             }
           },
           {
@@ -269,10 +296,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Objets/Cas d'Études/Préselection/Amassada.md"
+                "file": "Parcours/Alternatiba/Accueil/Rechercher des Pages.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Amassada"
+              "title": "File properties for Rechercher des Pages"
             }
           },
           {
@@ -306,52 +333,52 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c1344442efef71ec",
+  "active": "d86acf5035927664",
   "lastOpenFiles": [
     "Parcours/Alternatiba/Accueil/Ouvrir le Plan du Site.md",
-    "Parcours/Alternatiba/Accueil/Naviguer sur le site.md",
+    "Parcours/Alternatiba/Accueil/S'inscrire à l'Infolettre.md",
     "Parcours/Alternatiba/Accueil/Rechercher des Pages.md",
-    "Parcours/Alternatiba/Media/plan-site-code-alternatiba.eu.png",
-    "Parcours/Alternatiba/Jeu vidéo, Chaud chaud le climat.md",
-    "Parcours/Alternatiba/Media/don-alternatiba.eu.jpg",
-    "Parcours/Alternatiba/Media/don-2025-alternatiba.eu.jpg",
-    "Parcours/Alternatiba/Media/accueil-ecran1-alternatiba.eu.jpg",
-    "Parcours/Les Ecologistes/Accueil/Consulter des actualités.md",
-    "Parcours/Les Ecologistes/Accueil/Naviguer vers carte.lesecologistes.fr.md",
-    "Parcours/Les Ecologistes/Accueil/Naviguer sur le site.md",
-    "Parcours/Les Ecologistes/Accueil/Naviguer vers Soutenir EELV.md",
-    "Parcours/Les Ecologistes/Accueil/Naviguer vers Écolo! (web).md",
-    "Notions/Permettre.md",
-    "Parcours/Alternatiba/Media/plan-site-alternatiba.eu.png",
-    "Notions/Récapitulatifs/Intensité de l'Affordance.md",
-    "Parcours/Alternatiba/Media/plan-site-alternatiba.eu.png.part",
+    "Méthodes/Ma Méthodologie/Récurence.md",
+    "Parcours/Alternatiba/Media/page-recherche-alternatiba.eu.jpg",
+    "Parcours/Alternatiba/Media/page-recherche-alternatiba.eu.jpg.part",
+    "Parcours/Alternatiba/Media/recherche-alternatiba.eu.mp4",
+    "Parcours/Alternatiba/Accueil/Naviguer sur le site.md",
     "Parcours/Alternatiba/Accueil/Consulter des Actualités.md",
-    "Parcours/Les Ecologistes/Accueil/Télécharger l'application Ecolo!.md",
-    "Parcours/Les Ecologistes/Accueil/S'abonner à la newsletter.md",
-    "Parcours/Alternatiba/Accueil/Naviguer vers Découvrir le Mouvement.md",
-    "Objets/Exemples/Transiscope.md",
     "Parcours/Alternatiba/Accueil/Naviguer vers Découvrir ANV-COP21.md",
+    "Parcours/Alternatiba/Accueil/Naviguer vers Découvrir le Mouvement.md",
+    "Parcours/Alternatiba/Accueil/Naviguer vers Explorer les Alternatives.md",
     "Parcours/Alternatiba/Accueil/Naviguer vers Faire un Don.md",
     "Parcours/Alternatiba/Accueil/Naviguer vers Rejoindre un Groupe Alternatiba.md",
-    "Parcours/Les Ecologistes/Accueil/Suivre sur les réseaux sociaux.md",
-    "Parcours/Les Ecologistes/Accueil/Naviguer vers Rejoindre les écologistes.md",
-    "Parcours/Alternatiba/Accueil/Suivre l'Infolettre.md",
-    "Méthodes/Ma Méthodologie/Ma Méthodologie.md",
-    "Notions/Mécanismes de l'Affordance.md",
-    "Méthodes/Ma Méthodologie/Récurence.md",
-    "Parcours/Les Ecologistes/Parcours Les Ecologistes.base",
-    "Méthodes/Ma Méthodologie",
-    "Parcours/Alternatiba/Media/rejoindre-un-groupe-alternatiba.eu.jpg.part",
-    "Parcours/Alternatiba/Media/rejoindre-un-groupe-alternatiba.eu.jpg",
-    "Parcours/Alternatiba/Media/don-alternatiba.eu.jpg.part",
-    "Parcours/Alternatiba/Media/don-2025-alternatiba.eu.jpg.part",
-    "20260104-1425-19.5277357.mp4",
-    "Parcours/Alternatiba/Media/navigation-suvol-alternatiba.eu.mp4",
-    "Parcours/Alternatiba/Media/footer-alternatiba.eu.png",
+    "Parcours/Les Ecologistes/Accueil/Consulter des actualités.md",
     "Parcours/Alternatiba/Media/accueil-alternatiba.eu.jpg",
-    "Parcours/Alternatiba/Media/accueil-footer-alternatiba.eu.png.part",
-    "Parcours/Les Ecologistes/Medias/accueil-carte-lesecologistes.jpg",
-    "Parcours/Alternatiba/Media/accueil-ecran-1-alternatiba.eu.jpg.part",
-    "Parcours/Les Ecologistes/Medias/accueil-rs-lesecologistes.jpg"
+    "Notions/Mécanismes de l'Affordance.md",
+    "Parcours/Les Ecologistes/Medias/accueil-lesecologistes.jpg",
+    "Méthodes/Ma Méthodologie/Ma Méthodologie.md",
+    "Ecrits/Plan détaillé.md",
+    "Parcours/Les Ecologistes/Accueil/Naviguer vers Projet.md",
+    "Mon Mémoire.md",
+    "Parcours/Les Ecologistes/Medias/actualites-accueil-lesecologistes.jpg",
+    "Parcours/Les Ecologistes/Medias/actualites-liste-lesecologistes.jpg",
+    "Parcours/Les Ecologistes/Medias/carte-hors-france-carte.lesecologistes.mp4",
+    "Parcours/Les Ecologistes/Medias/communaute-personnes-lesecologistes.jpg",
+    "Parcours/Les Ecologistes/Medias/naviguer-site-footer-lesecologistes.jpg",
+    "Parcours/Les Ecologistes/Medias/naviguer-site-header-lesecologistes.mp4",
+    "Parcours/Les Ecologistes/Medias/naviguer-site-page-lesecologistes.mp4",
+    "Parcours/Les Ecologistes/Medias/naviguer-hors-site-donner-lesecologistes.mp4",
+    "Parcours/Les Ecologistes/Medias/carte-contact-region-locaux-carte.lesecologistes.mp4",
+    "Parcours/Les Ecologistes/Medias/actualites-exemple-video-pdf-lesecologistes.jpg",
+    "Parcours/Les Ecologistes/Medias/actualites-exemple-liens-lesecologistes.jpg",
+    "Parcours/Les Ecologistes/Medias/accueil-rs-lesecologistes.jpg",
+    "Parcours/Les Ecologistes/Accueil/Naviguer vers Rejoindre les écologistes.md",
+    "Parcours/Les Ecologistes/Accueil/Naviguer vers Écolo! (web).md",
+    "Parcours/Les Ecologistes/Accueil/Naviguer vers carte.lesecologistes.fr.md",
+    "Parcours/Les Ecologistes/Accueil/Naviguer sur le site.md",
+    "Parcours/Les Ecologistes/Accueil/Télécharger l'application Ecolo!.md",
+    "Parcours/Les Ecologistes/Accueil/Suivre sur les réseaux sociaux.md",
+    "Parcours/Les Ecologistes/Accueil/S'abonner à la newsletter.md",
+    "Parcours/Les Ecologistes/Accueil/Naviguer vers Soutenir EELV.md",
+    "Parcours/Alternatiba/Media/plan-site-alternatiba.eu.png.part",
+    "Parcours/Les Ecologistes/Parcours Les Ecologistes.base",
+    "Méthodes/Ma Méthodologie"
   ]
 }

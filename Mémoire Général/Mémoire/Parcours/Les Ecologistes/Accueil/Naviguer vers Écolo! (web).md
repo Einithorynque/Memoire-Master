@@ -7,7 +7,8 @@ Cas d'étude:
   - "[[Écolo! (web)|Écolo!]]"
 Parcours:
   - Accueil
-Récurrence: 2
+Récurrence:
+  - 2/7
 Date de création: 2025-09-21T18:42:00
 Type:
   - PARCOURS

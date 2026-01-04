@@ -15,7 +15,7 @@
     "Date de création": "datetime",
     "Média": "multitext",
     "Parcours": "multitext",
-    "Récurrence": "number",
+    "Récurrence": "multitext",
     "Scrolls": "number",
     "Cliques": "number",
     "Réponse au problème": "checkbox",

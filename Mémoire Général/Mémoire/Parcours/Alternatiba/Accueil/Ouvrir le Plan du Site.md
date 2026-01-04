@@ -1,7 +1,7 @@
 ---
 Type:
   - PARCOURS
-Description:
+Description: Dans le haut de page, un bouton icône permet d'ouvrir le plan du site. Il est situé tout à gauche du haut de page, en premier dans le sens de lecture.
 Médias:
   - "[[plan-site-alternatiba.eu.png]]"
   - "[[plan-site-code-alternatiba.eu.png]]"
@@ -10,6 +10,7 @@ Cas d'étude:
 Parcours:
   - Accueil
 Récurrence:
+  - 1/8
 Scrolls: 0
 Écrans:
   - "0.2"

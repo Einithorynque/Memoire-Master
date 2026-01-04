@@ -10,7 +10,8 @@ Cas d'étude:
 Parcours:
   - Accueil
   - Communauté
-Récurrence: 7.1
+Récurrence:
+  - 8/7
 Date de création: 2025-09-23T11:02:00
 Type:
   - PARCOURS

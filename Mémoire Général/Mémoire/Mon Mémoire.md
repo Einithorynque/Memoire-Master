@@ -3,6 +3,7 @@
 - Urgent
 
 	- [ ] Ecrire l'analyse du parcours [[Les écologistes]]
+	- [ ] Analyser le site [[Naviguer vers Projet]]
 
 	- [ ] Parcours : sites webs
 		- [ ] Faire mes parcours sur les 6 sites webs du plan
