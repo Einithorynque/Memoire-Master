@@ -25,7 +25,7 @@ Avis:
 Description:
 Date de création:
 aliases:
-Sélectionné: false
+Sélectionné: true
 ---
 Branche de résistance civile de [[Alternatiba]]
 

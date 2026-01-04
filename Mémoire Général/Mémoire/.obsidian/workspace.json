@@ -81,17 +81,60 @@
             "id": "49fcd98707752c79",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Objets/Cas d'Études.base",
-                "viewName": "Sélection"
+                "file": "Objets/Cas d'Études/Préselection/Les Amis de la Terre France.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Cas d'Études"
+              "icon": "lucide-file",
+              "title": "Les Amis de la Terre France"
+            }
+          },
+          {
+            "id": "e723af6d24b702e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/A lire/La mouvance écologiste contemporaine à l’épreuve d’internet, analyses comparative du déploiement de discours et de stratégies de communication d’organisations écologistes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La mouvance écologiste contemporaine à l’épreuve d’internet, analyses comparative du déploiement de discours et de stratégies de communication d’organisations écologistes"
+            }
+          },
+          {
+            "id": "2f8b7c0e2092e800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objets/Cas d'Études/Préselection/L'affaire du Siècle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "L'affaire du Siècle"
+            }
+          },
+          {
+            "id": "23edfbcd0e4ea9cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objets/Cas d'Études/Préselection/France Nature Environnement/France Nature Environnement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "France Nature Environnement"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -278,13 +321,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "49fcd98707752c79",
+  "active": "23edfbcd0e4ea9cf",
   "lastOpenFiles": [
+    "Objets/Cas d'Études/Préselection/L'affaire du Siècle.md",
+    "Objets/Cas d'Études/Préselection/France Nature Environnement/France Nature Environnement.md",
+    "Objets/Cas d'Études/Préselection/Colibris.md",
+    "Lectures/A lire/La mouvance écologiste contemporaine à l’épreuve d’internet, analyses comparative du déploiement de discours et de stratégies de communication d’organisations écologistes.md",
+    "Objets/Cas d'Études/Préselection/Les Amis de la Terre France.md",
+    "Objets/Cas d'Études.base",
+    "Notions/Mouvance écologiste.md",
     "Objets/Cas d'Études/Préselection/Bure Bure Bure.md",
     "Objets/Cas d'Études/Préselection/Zéro Waste.md",
-    "Objets/Cas d'Études.base",
     "Objets/Cas d'Études/Préselection/Réseau Action Climat.md",
-    "Lectures/A lire/La mouvance écologiste contemporaine à l’épreuve d’internet, analyses comparative du déploiement de discours et de stratégies de communication d’organisations écologistes.md",
     "Objets/Catégories Objets/Écologisme/Mouvements Écologistes.md",
     "Notions/Mouvement climat.md",
     "Lectures/A lire/The Nature of Slacktivism, How the Social Observability of an Initial Act of Token Support Affects Subsequent Prosocial Action.md",
@@ -303,11 +351,6 @@
     "Lectures/Retours/The interface as discourse, The production of norms through web design.md",
     "Méthodes/Feature Analysis.md",
     "Ecrits/M2/Mémoire/I. 1. Méthode.md",
-    "Objets/Cas d'Études/Préselection/LVE - La voie est libre.md",
-    "Objets/Cas d'Études/Préselection/France Nature Environnement/Sentinelles de la Nature (app).md",
-    "Objets/Cas d'Études/Préselection/France Nature Environnement/Sentinelles de la Nature (web).md",
-    "Objets/Cas d'Études/Préselection/France Nature Environnement/France Nature Environnement.md",
-    "Objets/Cas d'Études/Préselection/Les Amis de la Terre.md",
     "Objets/Cas d'Études/Préselection/Alternatiba",
     "Objets/Cas d'Études/Préselection/France Nature Environnement",
     "Lectures/Retours/img/dile-toustou-sites-selectionnes-TIC.jpg",

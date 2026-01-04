@@ -17,6 +17,9 @@ Themes:
 Écologisme:
   - "[[Organisations Associatives]]"
 Pays:
+  - Monde
+  - Amérique
+  - France
 Créateur·ices:
 Technologies:
 Parcours:
