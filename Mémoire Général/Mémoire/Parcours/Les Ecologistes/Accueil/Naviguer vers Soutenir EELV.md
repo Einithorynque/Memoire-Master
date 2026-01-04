@@ -2,7 +2,7 @@
 Description: 'Un bouton "Donner" ouvre un lien dans une nouvelle fenêtre vers un autre site : https://soutenir.eelv.fr/donner-pour-lecologie/.'
 Médias:
   - "[[naviguer-hors-site-donner-lesecologistes.mp4]]"
-Objet d'étude:
+Cas d'étude:
   - "[[Les écologistes]]"
   - "[[Les Écologistes - Soutenir EELV]]"
 Parcours:

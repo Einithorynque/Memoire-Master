@@ -2,7 +2,7 @@
 Description: Une liste de bouton compartimentés dans une section invitent à suivre les Écologistes sur des réseaux sociaux.
 Médias:
   - "[[accueil-rs-lesecologistes.jpg]]"
-Objet d'étude:
+Cas d'étude:
   - "[[Les écologistes]]"
 Parcours:
   - Accueil

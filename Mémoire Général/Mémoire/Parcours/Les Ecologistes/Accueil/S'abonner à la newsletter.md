@@ -4,7 +4,7 @@ Type:
 Description:
 Médias:
   - "[[accueil-rs-lesecologistes.jpg]]"
-Objet d'étude:
+Cas d'étude:
   - "[[Les écologistes]]"
 Parcours:
   - Accueil

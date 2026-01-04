@@ -2,7 +2,7 @@
 Description: La demande d'ouvrir la carte place la rencontre avec des membres des Écologistes, proche géographiquement, comme point de départ de l'action politique écologique.
 Médias:
   - "[[naviguer-hors-site-donner-lesecologistes.mp4]]"
-Objet d'étude:
+Cas d'étude:
   - "[[Les écologistes]]"
   - "[[Les Écologistes - Carte]]"
 Parcours:

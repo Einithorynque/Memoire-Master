@@ -5,7 +5,7 @@ Description: Prend la forme de boutons et liens. Au clic, ils font naviguer sur 
 Médias:
   - "[[accueil-lesecologistes.jpg]]"
   - "[[naviguer-hors-site-donner-lesecologistes.mp4]]"
-Objet d'étude:
+Cas d'étude:
   - "[[Les écologistes]]"
 Parcours:
   - Accueil

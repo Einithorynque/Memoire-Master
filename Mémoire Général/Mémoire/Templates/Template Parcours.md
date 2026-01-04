@@ -3,7 +3,7 @@ Type:
   - PARCOURS
 Description:
 Médias:
-Objet d'étude:
+Cas d'étude:
 Parcours:
 Récurrence:
 Scrolls:

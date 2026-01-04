@@ -16,6 +16,8 @@ aliases:
   - demande
   - demandent
   - request
+  - demandées
+  - demandé
 Résumé: Quand une technologie demande, elle met en avant un ensemble d'actions, et met en retrait d'autres possibilités d'action.
 ---
 

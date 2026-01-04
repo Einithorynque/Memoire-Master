@@ -2,7 +2,7 @@
 Description: 'Un bouton "Donner" ouvre un lien dans une nouvelle fenêtre vers un autre site : https://actions.lesecologistes.fr/.'
 Médias:
   - "[[naviguer-hors-site-passer-action-lesecologistes.mp4]]"
-Objet d'étude:
+Cas d'étude:
   - "[[Les écologistes]]"
   - "[[Écolo! (web)|Écolo!]]"
 Parcours:

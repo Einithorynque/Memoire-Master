@@ -7,7 +7,7 @@ Médias:
   - "[[carte-deplacement-carte.lesecologistes.mp4]]"
   - "[[carte-hors-france-carte.lesecologistes.mp4]]"
   - "[[carte-mouvement-lesecologistes.jpg]]"
-Objet d'étude:
+Cas d'étude:
   - "[[Les Écologistes - Carte]]"
   - "[[Les écologistes]]"
 Parcours:

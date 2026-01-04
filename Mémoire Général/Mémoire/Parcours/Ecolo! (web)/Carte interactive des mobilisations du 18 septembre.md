@@ -10,7 +10,7 @@ Médias:
   - "[[carte18-options-visualisations-actions.lesecologistes.mp4]]"
   - "[[carte18-actions.lesecologistes.fr.jpg]]"
   - "[[carte18-filtre-bug-actions.lesecologistes.mp4]]"
-Objet d'étude:
+Cas d'étude:
   - "[[Écolo! (web)]]"
 Parcours:
   - Accueil

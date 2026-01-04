@@ -17,6 +17,7 @@ aliases:
   - permettent
   - Allow
   - allow
+  - permis
 Résumé: La permission est distincte des autres mécanismes d'affordance de par sa neutralité en termes d'intensité et son application multidirectionnelle. Un sujet peut agir mais n'est pas poussé à le faire, et il n'y a pas non plus d'obstacles significatifs sur son chemin
 ---
 ## [[Mécanismes de l'Affordance|Mécanisme de l'Affordance]]

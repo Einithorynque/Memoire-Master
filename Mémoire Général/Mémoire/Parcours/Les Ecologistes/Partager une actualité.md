@@ -2,7 +2,7 @@
 Description: Les articles des actualités sont **partageable** sur 5 réseaux sociaux
 Médias:
   - "[[actualites-exemple-liens-lesecologistes.jpg]]"
-Objet d'étude:
+Cas d'étude:
   - "[[Les écologistes]]"
 Parcours:
   - Actualités 

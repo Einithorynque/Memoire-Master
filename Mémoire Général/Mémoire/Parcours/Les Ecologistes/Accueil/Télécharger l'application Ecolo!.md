@@ -3,7 +3,7 @@ Description: Le site redirige vers l'AppleStore et GooglePlay pour télécharger
 Médias:
   - "[[naviguer-site-footer-lesecologistes.jpg]]"
   - "[[carte-contact-region-locaux-carte.lesecologistes.mp4]]"
-Objet d'étude:
+Cas d'étude:
   - "[[Les écologistes]]"
   - "[[Les Écologistes - Carte]]"
   - "[[Écolo! (web)]]"
