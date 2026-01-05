@@ -81,14 +81,13 @@
             "id": "cd3083cce8f2ff9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Notions/Mécanismes de l'Affordance.md",
-                "mode": "source",
-                "source": false
+                "file": "Objets/Cas d'Études.base",
+                "viewName": "Sélection"
               },
-              "icon": "lucide-file",
-              "title": "Mécanismes de l'Affordance"
+              "icon": "lucide-table",
+              "title": "Cas d'Études"
             }
           },
           {
@@ -127,6 +126,20 @@
               },
               "icon": "lucide-image",
               "title": "page-recherche-alternatiba.eu"
+            }
+          },
+          {
+            "id": "27864be9dcb938b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Retours/La mouvance écologiste contemporaine à l’épreuve d’internet, analyses comparative du déploiement de discours et de stratégies de communication d’organisations écologistes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La mouvance écologiste contemporaine à l’épreuve d’internet, analyses comparative du déploiement de discours et de stratégies de communication d’organisations écologistes"
             }
           }
         ]
@@ -186,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 351.5
   },
   "right": {
     "id": "76a3ce8d89bea0cc",
@@ -318,37 +331,39 @@
   },
   "active": "e5bd91c4e53d8cc0",
   "lastOpenFiles": [
-    "Ecrits/Question de recherche.md",
-    "Ecrits/M2/Mémoire/I. 1. Méthode.md",
-    "Méthodes/Ma Méthodologie/Récurence.md",
-    "Notions/Mécanismes de l'Affordance.md",
+    "Lectures/Retours/La mouvance écologiste contemporaine à l’épreuve d’internet, analyses comparative du déploiement de discours et de stratégies de communication d’organisations écologistes.md",
+    "Notions/Mouvance écologiste.md",
     "Parcours/Alternatiba/Accueil/Rechercher des Pages.md",
-    "Parcours/Alternatiba/Accueil/S'inscrire à l'Infolettre.md",
-    "Parcours/Alternatiba/Accueil/Répondre au Formulaire de Cookies.md",
     "Objets/Cas d'Études.base",
-    "Objets/Cas d'Études/Préselection/Alternatiba/Alternatiba.md",
-    "Objets/Technologies/WordPress.md",
-    "Objets/Technologies/CMS.md",
-    "Objets/Récapitulatif du terrain.md",
-    "Objets/Technologies",
-    "Parcours/Alternatiba/Accueil/Ouvrir le Plan du Site.md",
+    "Ecrits/Question de recherche.md",
     "Parcours/Alternatiba/Media/page-recherche-alternatiba.eu.jpg",
+    "Ecrits/M2/Mémoire/I. 1. Méthode.md",
+    "Notions/Mécanismes de l'Affordance.md",
+    "Lectures/A lire/L'éco-conception digitale appliquée aux sites Internet, vers une compréhension des perceptions et attentes des internautes.md",
+    "Ecrits/Plan détaillé.md",
+    "Lectures/A lire/L'appétit des géants.md",
+    "Lectures/A lire/Environmental Sustainability and Interaction.md",
+    "Lectures/A lire/Ecologie.md",
+    "Lectures/A lire/Eco-Warriors Understanding the Radical Environmental Movement.md",
+    "Lectures/A lire/Eco-conception et Permacomputing.md",
+    "Lectures/Retours/Dictionnaire d'écologie politique.md",
+    "Lectures/A lire/Designing Culture, The Technological Imagination at Work.md",
+    "Lectures/A lire/Design des objets quotidiens.md",
+    "Lectures/A lire/Crafting an audience, UX writing, user stylization, and the symbolic violence of little texts.md",
+    "Lectures/A lire/Comment parler des livres que l'on n'a pas lus.md",
+    "Lectures/A lire/Comment déclencher une mobilisation numérique  de masse. Le cas de « L’Affaire du Siècle » sur Facebook..md",
+    "Lectures/A lire/Ce que sait la main, la culture de l’artisanat..md",
+    "Lectures/A lire/Boundary Objects in Design, An Ecological View of Design Artifacts.md",
+    "Lectures/A lire/Bernard Stiegler et Alain Damasio, révolution ou bifurcations.md",
+    "Lectures/A lire/Aux sources de l'utopie numérique.md",
+    "Lectures/A lire/AR6 Synthesis Report , Climate Change 2023.md",
+    "Méthodes/Ma Méthodologie/Récurence.md",
+    "Parcours/Alternatiba/Accueil/S'inscrire à l'Infolettre.md",
+    "Objets/Technologies",
     "Parcours/Alternatiba/Media/page-recherche-alternatiba.eu.jpg.part",
     "Parcours/Alternatiba/Media/recherche-alternatiba.eu.mp4",
-    "Parcours/Alternatiba/Accueil/Naviguer sur le site.md",
-    "Parcours/Alternatiba/Accueil/Consulter des Actualités.md",
-    "Parcours/Alternatiba/Accueil/Naviguer vers Découvrir ANV-COP21.md",
-    "Parcours/Alternatiba/Accueil/Naviguer vers Découvrir le Mouvement.md",
-    "Parcours/Alternatiba/Accueil/Naviguer vers Explorer les Alternatives.md",
-    "Parcours/Alternatiba/Accueil/Naviguer vers Faire un Don.md",
-    "Parcours/Alternatiba/Accueil/Naviguer vers Rejoindre un Groupe Alternatiba.md",
-    "Parcours/Les Ecologistes/Accueil/Consulter des actualités.md",
     "Parcours/Alternatiba/Media/accueil-alternatiba.eu.jpg",
     "Parcours/Les Ecologistes/Medias/accueil-lesecologistes.jpg",
-    "Méthodes/Ma Méthodologie/Ma Méthodologie.md",
-    "Ecrits/Plan détaillé.md",
-    "Parcours/Les Ecologistes/Accueil/Naviguer vers Projet.md",
-    "Mon Mémoire.md",
     "Parcours/Les Ecologistes/Medias/actualites-accueil-lesecologistes.jpg",
     "Parcours/Les Ecologistes/Medias/actualites-liste-lesecologistes.jpg",
     "Parcours/Les Ecologistes/Medias/carte-hors-france-carte.lesecologistes.mp4",
@@ -361,8 +376,6 @@
     "Parcours/Les Ecologistes/Medias/actualites-exemple-video-pdf-lesecologistes.jpg",
     "Parcours/Les Ecologistes/Medias/actualites-exemple-liens-lesecologistes.jpg",
     "Parcours/Les Ecologistes/Medias/accueil-rs-lesecologistes.jpg",
-    "Parcours/Les Ecologistes/Accueil/Naviguer vers Rejoindre les écologistes.md",
-    "Parcours/Les Ecologistes/Accueil/Naviguer vers Écolo! (web).md",
     "Parcours/Alternatiba/Media/plan-site-alternatiba.eu.png.part"
   ]
 }

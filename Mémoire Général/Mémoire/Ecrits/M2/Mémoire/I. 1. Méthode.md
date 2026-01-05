@@ -28,35 +28,35 @@ Pour identifier les messages véhiculés par le fonctionnement des présences en
 
 Ces deux méthodes visent à identifier des choix de conception dans des technologies et à décrire comment ils reflètent des normes, des idées reçues et des idéologies ancrées culturellement[^1]. Elles permettent de décrire ici comment, en essayant de répondre aux problématiques écologiques, des technologies cadrent ces problématiques. Ce faisant comment elles supposent de potentiel·les utilisateur·ices dont elles désignent la nature, auxquelles elles préconisent des manière d'agir, définissant alors ce qu'un écologisme devrait être[^2]. 
 
-Ces deux méthodes divergent cependant par les technologies qu'elles étudient : l'analyse discursive d'interface se concentre sur les sites internet, l'analyse de fonctionnalité sur les applications. Ainsi ces deux méthodes vont examiner certains types de choix de conception plus spécifiquement. La seconde se concentre sur les fonctionnalités, car elles sont le cœur des applications. L'analyse discursive d'interface, qui elle cible les sites internet, porte autant sur les fonctionnalités que sur les nomenclatures et les mises en pages employées dans l'interface, en cohérence avec la nature plus éditorial de ces objets. 
+Ces deux méthodes divergent cependant par les technologies qu'elles étudient : l'analyse discursive d'interface se concentre sur les sites internet, l'analyse de fonctionnalité sur les applications. Ainsi ces deux méthodes vont examiner certains types de choix de conception plus spécifiquement. La seconde se concentre sur les fonctionnalités, car elles sont le cœur des applications. L'analyse discursive d'interface, qui elle cible les sites internet, porte autant sur les fonctionnalités que sur les nomenclatures et les mises en pages employées dans l'interface[^3], en cohérence avec la nature plus éditorial de ces objets. 
 
-Mon objectif est d'étudier la place donnée à l'engagement écologique spécifiquement dans le fonctionnement des présences en lignes des organisations écologistes. Ainsi 
-
-
-
-le fonctionnement des présences en lignes, au delà des discours textuels et des directions artistiques,
-
-À elles deux elles permettent d'examiner l'ensemble des technologies qui façonnent la présence en lignes des mouvement écologistes (citation article ?).
-
-J'étudierais donc 
+Mon objectif est d'étudier la place donnée à l'engagement écologique spécifiquement dans le fonctionnement des présences en lignes des organisations écologistes. Au delà donc de leur discours textuels et de leur directions artistiques. C'est pourquoi je me suis concentré sur l'étude des fonctionnalités et des mises en pages uniquement, dans un croisement des deux méthodes citées plus tôt. D'autant que, Dile-Toustou consacre une majorité sa thèse à l'étude de ces discours textuels[^4]. 
 
 
+## Choix du corpus étudié
 
 
-« which examines functionalities, menu options, and page layouts » (Stanfill, 2015, p. 1059)
+Ainsi j'ai d'abord sélectionné 8 organisations réparties équitablement dans les 3 catégories d'organisations écologistes proposées par Dile-Toustou : Organisations Associatives, Organisations Mixtes et Polyvalentes,
+
+Si tentative de représentatitivité dans catégories, à l'intérieur catégorie choix des 
 
 
+pour une total de 12 présences en lignes, 2 organisations ayant déployé des applications   
 
 
+## Recensement des fonctionnalités
+
+Parcours
+
+Choix page d'accueil
+ Comme suggéré seulement accueil citation, qui a l'instare des shop et nanana. 
 
 
+Descritption du fonctionnement avec notion d'affordance
 
-« Feature analysis builds on the close attention other scholars pay to app interfaces and the ways culture is embedded in app design by specifically concentrating on features and applying an analysis of the mechanisms and conditions of those features’ affordances (Davis, 2020; Davis and Chouinard, 2017). This allows researchers to focus on analyzing developers’ assumptions about the range of appropriate or reasonable actions an app can take to solve a problem, which we discuss in detail in Phase Three below. » (Hasinoff et Bivens, 2021, p. 93)
+Type de donnée liée à la mise en page, placement scroll récurence etc
 
-Toutes deux focus on feature qui sera au coeur de mon mémoire. Si Discursive mentionne les discours par le texte et la mise en page. J'exclue le texte. Je garde la mise en page
-
-
-Présenter le corpus
+## Analyse des fonctionnalités
 
 
 
@@ -66,3 +66,7 @@ Présenter le corpus
 
 [^2]: « Discursive interface analysis takes sites’ affordances as such a general intervention they reflect, and help establish, cultural common sense about what Users do (and should do), producing the possible and normative rather than acting on any particular individual. » (Stanfill, 2015, p. 1061) 
 	« Discursive interface analysis takes sites’ affordances as such a general intervention they reflect, and help establish, cultural common sense about what Users do (and should do), producing the possible and normative rather than acting on any particular individual. » (Stanfill, 2015, p. 1061)
+
+[^3]: « It then details an analytic method for websites – discursive interface analysis – which examines functionalities, menu options, and page layouts for the structures at work within them. » (Stanfill, 2015, p. 1059)
+
+[^4]: Dile-Toustou, « Chapitre 5 : Pour une analyse des sites web en tant que dispositif d’auto-médiatisation », 223.
