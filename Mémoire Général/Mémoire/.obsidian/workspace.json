@@ -4,149 +4,132 @@
     "type": "split",
     "children": [
       {
-        "id": "b8d5b1390842777d",
-        "type": "split",
+        "id": "12a4784b462e9f1e",
+        "type": "tabs",
         "children": [
           {
-            "id": "d1fc1e0216c501cb",
-            "type": "tabs",
-            "dimension": 32.77723258096173,
-            "children": [
-              {
-                "id": "c1344442efef71ec",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Parcours/Alternatiba/Media/accueil-alternatiba.eu.jpg"
-                  },
-                  "icon": "lucide-image",
-                  "title": "accueil-alternatiba.eu"
-                }
+            "id": "e5bd91c4e53d8cc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecrits/M2/Mémoire/I. 1. Méthode.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "18e1762031618010",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Parcours/Alternatiba/Media/page-recherche-alternatiba.eu.jpg"
-                  },
-                  "icon": "lucide-image",
-                  "title": "page-recherche-alternatiba.eu"
-                }
-              }
-            ],
-            "currentTab": 1
+              "icon": "lucide-file",
+              "title": "I. 1. Méthode"
+            }
           },
           {
-            "id": "12a4784b462e9f1e",
-            "type": "tabs",
-            "dimension": 67.22276741903828,
-            "children": [
-              {
-                "id": "e5bd91c4e53d8cc0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ecrits/M2/Mémoire/I. 1. Méthode.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "I. 1. Méthode"
-                }
+            "id": "1084834448af4e21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecrits/Plan détaillé.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "1084834448af4e21",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ecrits/Plan détaillé.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Plan détaillé"
-                }
+              "icon": "lucide-file",
+              "title": "Plan détaillé"
+            }
+          },
+          {
+            "id": "23edfbcd0e4ea9cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Méthodes/Ma Méthodologie/Ma Méthodologie.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "23edfbcd0e4ea9cf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Méthodes/Ma Méthodologie/Ma Méthodologie.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Ma Méthodologie"
-                }
+              "icon": "lucide-file",
+              "title": "Ma Méthodologie"
+            }
+          },
+          {
+            "id": "d355c0314ac17f3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parcours/Alternatiba/Accueil/Rechercher des Pages.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "d355c0314ac17f3d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Parcours/Alternatiba/Accueil/Rechercher des Pages.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Rechercher des Pages"
-                }
+              "icon": "lucide-file",
+              "title": "Rechercher des Pages"
+            }
+          },
+          {
+            "id": "d86acf5035927664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parcours/Alternatiba/Accueil/Rechercher des Pages.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "d86acf5035927664",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Parcours/Alternatiba/Accueil/Rechercher des Pages.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Rechercher des Pages"
-                }
+              "icon": "lucide-file",
+              "title": "Rechercher des Pages"
+            }
+          },
+          {
+            "id": "cd3083cce8f2ff9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notions/Mécanismes de l'Affordance.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "cd3083cce8f2ff9e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notions/Mécanismes de l'Affordance.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Mécanismes de l'Affordance"
-                }
+              "icon": "lucide-file",
+              "title": "Mécanismes de l'Affordance"
+            }
+          },
+          {
+            "id": "6c444a96f9bf8172",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecrits/Question de recherche.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "6c444a96f9bf8172",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Méthodes/Ma Méthodologie/Récurence.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Récurence"
-                }
-              }
-            ],
-            "currentTab": 4
+              "icon": "lucide-file",
+              "title": "Question de recherche"
+            }
+          },
+          {
+            "id": "c1344442efef71ec",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Parcours/Alternatiba/Media/accueil-alternatiba.eu.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "accueil-alternatiba.eu"
+            }
+          },
+          {
+            "id": "18e1762031618010",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Parcours/Alternatiba/Media/page-recherche-alternatiba.eu.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "page-recherche-alternatiba.eu"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -333,12 +316,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d86acf5035927664",
+  "active": "e5bd91c4e53d8cc0",
   "lastOpenFiles": [
-    "Parcours/Alternatiba/Accueil/Ouvrir le Plan du Site.md",
-    "Parcours/Alternatiba/Accueil/S'inscrire à l'Infolettre.md",
-    "Parcours/Alternatiba/Accueil/Rechercher des Pages.md",
+    "Ecrits/Question de recherche.md",
+    "Ecrits/M2/Mémoire/I. 1. Méthode.md",
     "Méthodes/Ma Méthodologie/Récurence.md",
+    "Notions/Mécanismes de l'Affordance.md",
+    "Parcours/Alternatiba/Accueil/Rechercher des Pages.md",
+    "Parcours/Alternatiba/Accueil/S'inscrire à l'Infolettre.md",
+    "Parcours/Alternatiba/Accueil/Répondre au Formulaire de Cookies.md",
+    "Objets/Cas d'Études.base",
+    "Objets/Cas d'Études/Préselection/Alternatiba/Alternatiba.md",
+    "Objets/Technologies/WordPress.md",
+    "Objets/Technologies/CMS.md",
+    "Objets/Récapitulatif du terrain.md",
+    "Objets/Technologies",
+    "Parcours/Alternatiba/Accueil/Ouvrir le Plan du Site.md",
     "Parcours/Alternatiba/Media/page-recherche-alternatiba.eu.jpg",
     "Parcours/Alternatiba/Media/page-recherche-alternatiba.eu.jpg.part",
     "Parcours/Alternatiba/Media/recherche-alternatiba.eu.mp4",
@@ -351,7 +344,6 @@
     "Parcours/Alternatiba/Accueil/Naviguer vers Rejoindre un Groupe Alternatiba.md",
     "Parcours/Les Ecologistes/Accueil/Consulter des actualités.md",
     "Parcours/Alternatiba/Media/accueil-alternatiba.eu.jpg",
-    "Notions/Mécanismes de l'Affordance.md",
     "Parcours/Les Ecologistes/Medias/accueil-lesecologistes.jpg",
     "Méthodes/Ma Méthodologie/Ma Méthodologie.md",
     "Ecrits/Plan détaillé.md",
@@ -371,14 +363,6 @@
     "Parcours/Les Ecologistes/Medias/accueil-rs-lesecologistes.jpg",
     "Parcours/Les Ecologistes/Accueil/Naviguer vers Rejoindre les écologistes.md",
     "Parcours/Les Ecologistes/Accueil/Naviguer vers Écolo! (web).md",
-    "Parcours/Les Ecologistes/Accueil/Naviguer vers carte.lesecologistes.fr.md",
-    "Parcours/Les Ecologistes/Accueil/Naviguer sur le site.md",
-    "Parcours/Les Ecologistes/Accueil/Télécharger l'application Ecolo!.md",
-    "Parcours/Les Ecologistes/Accueil/Suivre sur les réseaux sociaux.md",
-    "Parcours/Les Ecologistes/Accueil/S'abonner à la newsletter.md",
-    "Parcours/Les Ecologistes/Accueil/Naviguer vers Soutenir EELV.md",
-    "Parcours/Alternatiba/Media/plan-site-alternatiba.eu.png.part",
-    "Parcours/Les Ecologistes/Parcours Les Ecologistes.base",
-    "Méthodes/Ma Méthodologie"
+    "Parcours/Alternatiba/Media/plan-site-alternatiba.eu.png.part"
   ]
 }

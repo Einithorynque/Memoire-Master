@@ -45,4 +45,13 @@ views:
     order:
       - file.name
       - Écologisme
+      - Complétion
       - Dispositifs info-communicationnels
+    sort:
+      - property: Complétion
+        direction: ASC
+    columnSize:
+      file.name: 218
+      note.Écologisme: 333
+      note.Complétion: 120
+      note.Dispositifs info-communicationnels: 549

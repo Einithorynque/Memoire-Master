@@ -21,13 +21,18 @@ Themes:
 Pays:
   - France
 Créateur·ices:
+  - "[[Alternatiba]]"
 Technologies:
+  - "[[CMS]]"
+  - "[[WordPress]]"
 Parcours:
+  - Accueil
 Avis:
 Description:
-Date de création:
+Date de création: 2026-01-04T19:43:00
 aliases:
 Sélectionné: true
+Complétion: false
 ---
 Existence de plusieurs sous groups : Alternatiba Marseille  Alternatiba Montpellier  Alternatiba Paris  Alternatiba Toulouse.
 

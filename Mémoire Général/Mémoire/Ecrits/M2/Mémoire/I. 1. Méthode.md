@@ -24,17 +24,23 @@
 
 ![[Screen Anaëlle Méthodo.png]]
 
-Pour identifier les messages véhiculés par les présences en lignes des mouvements écologistes, et saisir leur potentielle portée écologiste, j'ai mis en place une méthode basée sur l'*analyse discursive d'interface* [discursive interface analysis] de [[Mel Stanfill]] et *l'analyse de fonctionnalité* d' [[Feature Analysis, A Method for Analyzing the Role of Ideology in App Design|Hasinoff et. al]]. 
+Pour identifier les messages véhiculés par le fonctionnement des présences en lignes des organisations écologistes, et saisir la potentielle portée écologiste de ces messages, j'ai mis en place une méthode basée sur l'*analyse discursive d'interface* [discursive interface analysis] de [[Mel Stanfill]] et *l'analyse de fonctionnalité* d' [[Feature Analysis, A Method for Analyzing the Role of Ideology in App Design|Hasinoff et. al]]. 
 
-Ces deux méthodes permettent de montrer comment des choix de conception situés culturellement reflètent et renforcent des normes, des idées reçues et des idéologies[^1]. 
+Ces deux méthodes visent à identifier des choix de conception dans des technologies et à décrire comment ils reflètent des normes, des idées reçues et des idéologies ancrées culturellement[^1]. Elles permettent de décrire ici comment, en essayant de répondre aux problématiques écologiques, des technologies cadrent ces problématiques. Ce faisant comment elles supposent de potentiel·les utilisateur·ices dont elles désignent la nature, auxquelles elles préconisent des manière d'agir, définissant alors ce qu'un écologisme devrait être[^2]. 
 
-Elles divergent par les technologies qu'elles étudient : l'analyse discursive d'interface se concentre sur les sites internet, l'analyse de fonctionnalité sur les applications. (je pourrais couper là pour mettre le reste ensuite).
+Ces deux méthodes divergent cependant par les technologies qu'elles étudient : l'analyse discursive d'interface se concentre sur les sites internet, l'analyse de fonctionnalité sur les applications. Ainsi ces deux méthodes vont examiner certains types de choix de conception plus spécifiquement. La seconde se concentre sur les fonctionnalités, car elles sont le cœur des applications. L'analyse discursive d'interface, qui elle cible les sites internet, porte autant sur les fonctionnalités que sur les nomenclatures et les mises en pages employées dans l'interface, en cohérence avec la nature plus éditorial de ces objets. 
+
+Mon objectif est d'étudier la place donnée à l'engagement écologique spécifiquement dans le fonctionnement des présences en lignes des organisations écologistes. Ainsi 
+
+
+
+le fonctionnement des présences en lignes, au delà des discours textuels et des directions artistiques,
 
 À elles deux elles permettent d'examiner l'ensemble des technologies qui façonnent la présence en lignes des mouvement écologistes (citation article ?).
 
+J'étudierais donc 
 
 
- De la nature de ces objets découle des choix de conception que ces deux méthodes vont examiner plus spécifiquement. La seconde se concentre sur les fonctionnalités quand l'analyse discursive d'interface porte autant sur celle ci que sur la nomenclature employée dans les sites ou sur leur mise en page. 
 
 
 « which examines functionalities, menu options, and page layouts » (Stanfill, 2015, p. 1059)
@@ -54,7 +60,9 @@ Présenter le corpus
 
 
 
-[^1]:  « how norms for technologies and their users are produced and with what implications » (Stanfill, 2015, p. 1059)
-« how app developers’ design choices reflect existing cultural norms, assumptions, and ideologies. » (Hasinoff et Bivens, 2021, p. 89)
-« Researchers have examined how apps and website interfaces **imagine and assume particular users, uses, and contexts** in a range of ways. For example, Stanfill’s (2015) discursive interface analysis investigates the “functionalities, menu options, and page layouts” (p. 1059) of website interfaces to consider “how technologies both **arise from particular beliefs about what users ought to do** and **reinforce them by constraining the actions of site visitors**” » (Hasinoff et Bivens, 2021, p. 92)
+[^1]:  « By counting and classifying the features in a set of apps, feature analysis enables researchers to systematically answer questions about how app developers’ design choices reflect existing cultural norms, assumptions, and ideologies. » (Hasinoff et Bivens, 2021, p. 89)
+	« Ultimately, the essay offers a tool for the new media research kit to improve our understanding of how norms for technologies and their users are produced and with what implications. » (Stanfill, 2015, p. 1059)
 
+
+[^2]: « Discursive interface analysis takes sites’ affordances as such a general intervention they reflect, and help establish, cultural common sense about what Users do (and should do), producing the possible and normative rather than acting on any particular individual. » (Stanfill, 2015, p. 1061) 
+	« Discursive interface analysis takes sites’ affordances as such a general intervention they reflect, and help establish, cultural common sense about what Users do (and should do), producing the possible and normative rather than acting on any particular individual. » (Stanfill, 2015, p. 1061)

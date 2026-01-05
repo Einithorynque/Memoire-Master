@@ -29,4 +29,5 @@ Dispositifs info-communicationnels:
   - "[[Youtube]]"
   - "[[Bluesky]]"
   - "[[Mastodon]]"
+Complétion: false
 ---
