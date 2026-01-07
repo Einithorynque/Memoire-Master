@@ -9,6 +9,7 @@ Dispositifs info-communicationnels:
   - "[[Mastodon]]"
   - "[[X]]"
   - "[[Bluesky]]"
+  - "[[Instagram]]"
 Themes:
 Écologisme:
   - "[[Organisations Associatives]]"

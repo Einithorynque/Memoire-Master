@@ -2,17 +2,21 @@
 Type:
   - OBJETS
 Objets:
-  - "[[Sites Internet]]"
 Sources:
-  - https://sentinellesdelanature.fr/
 Dispositifs info-communicationnels:
+  - "[[Facebook]]"
+  - "[[Instagram]]"
+  - "[[X]]"
+  - "[[Youtube]]"
+  - "[[Telegram]]"
+  - "[[Bluesky]]"
+  - "[[TikTok]]"
   - "[[Sites Internet]]"
 Themes:
 Écologisme:
-  - "[[Organisations Associatives]]"
+  - "[[Partis Politiques Écologistes]]"
 Pays:
 Créateur·ices:
-  - "[[Objets/Cas d'Études/Préselection/France Nature Environnement/France Nature Environnement]]"
 Technologies:
 Parcours:
 Avis:
@@ -21,3 +25,4 @@ Date de création:
 aliases:
 Sélectionné: false
 ---
+Partis de François Ruffin.

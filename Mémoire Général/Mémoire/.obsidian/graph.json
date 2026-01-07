@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Lectures/A lire\"  ",
@@ -18,7 +18,7 @@
       "query": "path:Lectures/Retours  ",
       "color": {
         "a": 1,
-        "rgb": 16762880
+        "rgb": 3052543
       }
     },
     {
@@ -32,7 +32,7 @@
       "query": "path:Lectures/Auteurs·ices  ",
       "color": {
         "a": 1,
-        "rgb": 15564174
+        "rgb": 15640449
       }
     }
   ],
@@ -46,6 +46,6 @@
   "repelStrength": 9.41787941787942,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.10715190384838419,
+  "scale": 0.03218414749615679,
   "close": false
 }

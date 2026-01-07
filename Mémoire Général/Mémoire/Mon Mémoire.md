@@ -99,11 +99,13 @@ Rendu cronique radio
 📗 [[Récapitulatifs lectures|Lectures]]
 ⌛ [[Résumé du sujet]]
 ⚙️ [[Récapitulatifs Méthodes.base|Méthodologies]]
+[[Cas d'Études.base]]
+[[Ma Méthode]]
 
-[[Objets]]
 
-[[Ma Méthodologie]]
+![[Question de recherche#Question de Recherche]]
 
-## Question de recherche
 
-Quelle place est donnée à l'écologie dans l'interaction avec les sites web qui la défendent ?
+### Hypothèses
+
+L'engagement écologiste est un besoin de l'écologisme politique et donc un besoin de ses présences en lignes

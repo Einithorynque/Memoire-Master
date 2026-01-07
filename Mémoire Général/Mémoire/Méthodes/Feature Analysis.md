@@ -73,7 +73,7 @@ Seules les [[Fonctionnalités]] qui semblent répondre à la problématique étu
 > we examined each app store page, including the app store descriptions and screenshots, and recorded each discrete feature we could identify
 
 
-> [!IMPORTANT] Idée pour [[Ma Méthodologie]]
+> [!IMPORTANT] Idée pour [[Ma Méthode]]
 > - Définir si j'étudie des fonctionnalités ou que sont les interactions.
 > - N'étudier que les pages et interactions "misent en avant" sur la page d'accueil.
 

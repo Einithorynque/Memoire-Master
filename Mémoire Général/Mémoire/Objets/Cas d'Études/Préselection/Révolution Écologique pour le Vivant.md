@@ -18,7 +18,7 @@ Avis:
 Description: Partie d'Aimeric Caron (très rattaché LFI)
 Date de création:
 aliases:
-Sélectionné: true
+Sélectionné: false
 Dispositifs info-communicationnels:
   - "[[Instagram]]"
   - "[[X]]"

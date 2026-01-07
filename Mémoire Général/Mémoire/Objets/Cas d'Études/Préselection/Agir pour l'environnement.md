@@ -3,16 +3,23 @@ Type:
   - OBJETS
 Objets:
   - "[[Sites Internet]]"
+  - "[[Réseaux sociaux]]"
+  - "[[Frise Chronologique]]"
 Sources:
-  - https://sentinellesdelanature.fr/
 Dispositifs info-communicationnels:
   - "[[Sites Internet]]"
+  - "[[Facebook]]"
+  - "[[Instagram]]"
+  - "[[LinkedIn]]"
+  - "[[Mastodon]]"
+  - "[[Bluesky]]"
+  - "[[Youtube]]"
 Themes:
 Écologisme:
   - "[[Organisations Associatives]]"
 Pays:
+  - France
 Créateur·ices:
-  - "[[Objets/Cas d'Études/Préselection/France Nature Environnement/France Nature Environnement]]"
 Technologies:
 Parcours:
 Avis:

@@ -26,4 +26,4 @@ Sélectionné: false
 ---
 
 > [!QUESTION] [[Organisations Mixtes et Polyvalentes]] ?
-> Je suppose que l'association a été placée comme organisation mixte et polyvalente par [[Jules Dile-Toustou]]  pour son positionnement sur la thématique du zéro déchet. 
+> Je suppose que l'association a été placée comme organisation mixte et polyvalente par [[Jules Dilé-Toustou]]  pour son positionnement sur la thématique du zéro déchet. 

@@ -40,7 +40,7 @@ https://reporterre.net/Sur-l-ex-zad-de-Notre-Dame-des-Landes-on-fete-10-ans-d-oc
 https://www.facebook.com/Telenantes/videos/notre-dame-des-landes-la-zad-continue-sa-r%C3%A9gularisation/1097516668741142/
 
 
-> [!question] Dans [[Jules Dile-Toustou]]
+> [!question] Dans [[Jules Dilé-Toustou]]
 > « Il n’en demeure pas moins que la ZAD est reliée à au moins trois sites internet : - https://www.nddl-poursuivre-ensemble.fr/ - https://www.nddl-idf.fr/ - https://zad.nadir.org/ Si le premier semble être au fait de l’actualité de la ZAD (relatant des « lettres d’infos » au moins jusqu’en mars 2022), le second ne contient pas d’articles plus récents que 2018, tandis que le troisième se révèle être à la fois un outil d’historicisation de la lutte sur la ZAD et un dispositif utilisé encore à l’heure où nous rédigeons ces lignes. Dans cette étude, nous avons  donc choisi ce dernier pour représenter la ZAD de NDDL. » (Dile-Toustou, 2023, p. 118)
 
 

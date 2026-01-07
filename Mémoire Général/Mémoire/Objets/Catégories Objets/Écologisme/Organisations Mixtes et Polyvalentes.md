@@ -9,7 +9,7 @@ Objets:
   - "[[Technologies de l’Information et de la Communication|TIC]]"
   - "[[Réseaux sociaux]]"
 Auteurs·ices:
-  - "[[Jules Dile-Toustou]]"
+  - "[[Jules Dilé-Toustou]]"
 Sources:
   - "[[La mouvance écologiste contemporaine à l’épreuve d’internet, analyses comparative du déploiement de discours et de stratégies de communication d’organisations écologistes]]"
   - "[[Comment déclencher une mobilisation numérique  de masse. Le cas de « L’Affaire du Siècle » sur Facebook.]]"

@@ -6,6 +6,7 @@
       {
         "id": "12a4784b462e9f1e",
         "type": "tabs",
+        "dimension": 59.83606557377049,
         "children": [
           {
             "id": "e5bd91c4e53d8cc0",
@@ -36,31 +37,45 @@
             }
           },
           {
-            "id": "23edfbcd0e4ea9cf",
+            "id": "8610c67e0fb6758a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Méthodes/Ma Méthodologie/Ma Méthodologie.md",
+                "file": "Ecrits/Question de recherche.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ma Méthodologie"
+              "title": "Question de recherche"
             }
           },
           {
-            "id": "d355c0314ac17f3d",
+            "id": "25a91b7388d28d2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parcours/Alternatiba/Accueil/Rechercher des Pages.md",
+                "file": "Ecrits/Question de recherche.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rechercher des Pages"
+              "title": "Question de recherche"
+            }
+          },
+          {
+            "id": "8cd047629ba56d82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objets/Cas d'Études/Préselection/Fondation pour la Nature et l'Homme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fondation pour la Nature et l'Homme"
             }
           },
           {
@@ -84,7 +99,7 @@
               "type": "bases",
               "state": {
                 "file": "Objets/Cas d'Études.base",
-                "viewName": "Sélection"
+                "viewName": "Préselection"
               },
               "icon": "lucide-table",
               "title": "Cas d'Études"
@@ -92,6 +107,34 @@
           },
           {
             "id": "6c444a96f9bf8172",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Méthodes/Ma Méthodologie/Ma Méthode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ma Méthode"
+            }
+          },
+          {
+            "id": "c1344442efef71ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Résumé du sujet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Résumé du sujet"
+            }
+          },
+          {
+            "id": "a4d4d4d7eeee89d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -105,31 +148,56 @@
             }
           },
           {
-            "id": "c1344442efef71ec",
+            "id": "04b19a76dc4e49b5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Parcours/Alternatiba/Media/accueil-alternatiba.eu.jpg"
+                "file": "Notions/Écologisme.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "accueil-alternatiba.eu"
+              "icon": "lucide-file",
+              "title": "Écologisme"
             }
           },
           {
-            "id": "18e1762031618010",
+            "id": "3ed5332ddafea2ae",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Parcours/Alternatiba/Media/page-recherche-alternatiba.eu.jpg"
+                "file": "Objets/Catégories Objets/Écologisme/Partis Politiques Écologistes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "page-recherche-alternatiba.eu"
+              "icon": "lucide-file",
+              "title": "Partis Politiques Écologistes"
             }
           },
           {
-            "id": "27864be9dcb938b3",
+            "id": "b3b21a36568485c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notions/Écologie Politique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Écologie Politique"
+            }
+          }
+        ]
+      },
+      {
+        "id": "82ca03a9d6d5d921",
+        "type": "tabs",
+        "dimension": 40.16393442622951,
+        "children": [
+          {
+            "id": "f75e9281fbb77a5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -141,8 +209,121 @@
               "icon": "lucide-file",
               "title": "La mouvance écologiste contemporaine à l’épreuve d’internet, analyses comparative du déploiement de discours et de stratégies de communication d’organisations écologistes"
             }
+          },
+          {
+            "id": "de98b3d96f48e2d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Retours/L'écologie politique en France.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "L'écologie politique en France"
+            }
+          },
+          {
+            "id": "76d70a68c0b8f64d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Retours/Partis Écologistes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Partis Écologistes"
+            }
+          },
+          {
+            "id": "5c5c5a6a459ef8b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objets/Cas d'Études/Disparu/ZAD Nadir.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ZAD Nadir"
+            }
+          },
+          {
+            "id": "6e5025f8cd6f1c56",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://reporterre.net/Sur-l-ex-zad-de-Notre-Dame-des-Landes-on-fete-10-ans-d-occupation",
+                "title": "Sur l’ex-zad de Notre-Dame-des-Landes, on fête 10 ans d’occupation",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Sur l’ex-zad de Notre-Dame-des-Landes, on fête 10 ans d’occupation"
+            }
+          },
+          {
+            "id": "59429f993a16eb94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notions/Environnementalisme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Environnementalisme"
+            }
+          },
+          {
+            "id": "aa183997e0cc5dec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notions/Écologie Politique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Écologie Politique"
+            }
+          },
+          {
+            "id": "67c10837831188f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objets/Cas d'Études/Préselection/Colibris.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Colibris"
+            }
+          },
+          {
+            "id": "9388f70df4c4ebc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objets/Cas d'Études/Préselection/La France Insoumise.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La France Insoumise"
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -199,7 +380,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 200
   },
   "right": {
     "id": "76a3ce8d89bea0cc",
@@ -331,38 +512,38 @@
   },
   "active": "e5bd91c4e53d8cc0",
   "lastOpenFiles": [
-    "Lectures/Retours/La mouvance écologiste contemporaine à l’épreuve d’internet, analyses comparative du déploiement de discours et de stratégies de communication d’organisations écologistes.md",
-    "Notions/Mouvance écologiste.md",
-    "Parcours/Alternatiba/Accueil/Rechercher des Pages.md",
-    "Objets/Cas d'Études.base",
-    "Ecrits/Question de recherche.md",
-    "Parcours/Alternatiba/Media/page-recherche-alternatiba.eu.jpg",
+    "Objets/Cas d'Études/Préselection/La France Insoumise.md",
     "Ecrits/M2/Mémoire/I. 1. Méthode.md",
-    "Notions/Mécanismes de l'Affordance.md",
-    "Lectures/A lire/L'éco-conception digitale appliquée aux sites Internet, vers une compréhension des perceptions et attentes des internautes.md",
+    "Notions/Écologie Politique.md",
+    "Objets/Cas d'Études/Préselection/Colibris.md",
+    "Notions/Environnementalisme.md",
+    "Objets/Cas d'Études/Préselection/Les Amis de la Terre France.md",
+    "Résumé du sujet.md",
+    "Mon Mémoire.md",
+    "Parcours/Alternatiba/Media/accueil-alternatiba.eu.jpg",
+    "Objets/Cas d'Études.base",
+    "Objets/Cas d'Études/Préselection/Pour une écologie populaire et sociale.md",
+    "Objets/Cas d'Études/Préselection/Territoires 44.md",
+    "Parcours/Alternatiba/Accueil/Rechercher des Pages.md",
+    "Objets/Cas d'Études/Préselection/Génération écologie.md",
+    "Objets/Cas d'Études/Préselection/Greenpeace.md",
+    "Objets/Cas d'Études/Disparu/ZAD Nadir.md",
+    "Lectures/Retours/La mouvance écologiste contemporaine à l’épreuve d’internet, analyses comparative du déploiement de discours et de stratégies de communication d’organisations écologistes.md",
+    "Objets/Cas d'Études/Préselection/Agir pour l'environnement.md",
+    "Objets/Cas d'Études/Disparu/Le Parti Écologiste.md",
     "Ecrits/Plan détaillé.md",
-    "Lectures/A lire/L'appétit des géants.md",
-    "Lectures/A lire/Environmental Sustainability and Interaction.md",
-    "Lectures/A lire/Ecologie.md",
-    "Lectures/A lire/Eco-Warriors Understanding the Radical Environmental Movement.md",
-    "Lectures/A lire/Eco-conception et Permacomputing.md",
-    "Lectures/Retours/Dictionnaire d'écologie politique.md",
-    "Lectures/A lire/Designing Culture, The Technological Imagination at Work.md",
-    "Lectures/A lire/Design des objets quotidiens.md",
-    "Lectures/A lire/Crafting an audience, UX writing, user stylization, and the symbolic violence of little texts.md",
-    "Lectures/A lire/Comment parler des livres que l'on n'a pas lus.md",
-    "Lectures/A lire/Comment déclencher une mobilisation numérique  de masse. Le cas de « L’Affaire du Siècle » sur Facebook..md",
-    "Lectures/A lire/Ce que sait la main, la culture de l’artisanat..md",
-    "Lectures/A lire/Boundary Objects in Design, An Ecological View of Design Artifacts.md",
-    "Lectures/A lire/Bernard Stiegler et Alain Damasio, révolution ou bifurcations.md",
-    "Lectures/A lire/Aux sources de l'utopie numérique.md",
-    "Lectures/A lire/AR6 Synthesis Report , Climate Change 2023.md",
-    "Méthodes/Ma Méthodologie/Récurence.md",
-    "Parcours/Alternatiba/Accueil/S'inscrire à l'Infolettre.md",
+    "Objets/Cas d'Études/Préselection/Génération·s.md",
+    "Objets/Cas d'Études/Préselection/L’Après.md",
+    "Objets/Catégories Objets/Écologisme/Partis Politiques Écologistes.md",
+    "Notions/Écologisme.md",
+    "Lectures/Auteurs·ices/Bruno Villalba.md",
+    "Notions/Problème.md",
+    "Notions/Anthropocène.md",
+    "Lectures/Retours/L'écologie politique en France.md",
+    "Parcours/Alternatiba/Media/page-recherche-alternatiba.eu.jpg",
     "Objets/Technologies",
     "Parcours/Alternatiba/Media/page-recherche-alternatiba.eu.jpg.part",
     "Parcours/Alternatiba/Media/recherche-alternatiba.eu.mp4",
-    "Parcours/Alternatiba/Media/accueil-alternatiba.eu.jpg",
     "Parcours/Les Ecologistes/Medias/accueil-lesecologistes.jpg",
     "Parcours/Les Ecologistes/Medias/actualites-accueil-lesecologistes.jpg",
     "Parcours/Les Ecologistes/Medias/actualites-liste-lesecologistes.jpg",

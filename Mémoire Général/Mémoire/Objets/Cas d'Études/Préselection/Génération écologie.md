@@ -2,17 +2,19 @@
 Type:
   - OBJETS
 Objets:
-  - "[[Sites Internet]]"
 Sources:
-  - https://sentinellesdelanature.fr/
 Dispositifs info-communicationnels:
   - "[[Sites Internet]]"
+  - "[[Facebook]]"
+  - "[[Bluesky]]"
+  - "[[Instagram]]"
+  - "[[LinkedIn]]"
+  - "[[Telegram]]"
 Themes:
 Écologisme:
-  - "[[Organisations Associatives]]"
+  - "[[Partis Politiques Écologistes]]"
 Pays:
 Créateur·ices:
-  - "[[Objets/Cas d'Études/Préselection/France Nature Environnement/France Nature Environnement]]"
 Technologies:
 Parcours:
 Avis:

@@ -3,16 +3,16 @@ Type:
   - OBJETS
 Objets:
   - "[[Sites Internet]]"
+  - "[[Réseaux sociaux]]"
 Sources:
-  - https://sentinellesdelanature.fr/
 Dispositifs info-communicationnels:
-  - "[[Sites Internet]]"
+  - "[[Facebook]]"
+  - "[[Instagram]]"
 Themes:
 Écologisme:
   - "[[Organisations Associatives]]"
 Pays:
 Créateur·ices:
-  - "[[Objets/Cas d'Études/Préselection/France Nature Environnement/France Nature Environnement]]"
 Technologies:
 Parcours:
 Avis:
@@ -21,3 +21,4 @@ Date de création:
 aliases:
 Sélectionné: false
 ---
+Ex fondation Nicolas-Hulot pour la nature et l'homme, elle est renommée et adopte une nouvelle stratégie suite aux accusations d'agressions sexuelles portées à Nicolas-Hulot.  

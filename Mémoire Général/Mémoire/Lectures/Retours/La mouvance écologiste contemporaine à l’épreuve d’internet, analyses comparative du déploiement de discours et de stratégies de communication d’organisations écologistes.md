@@ -8,7 +8,7 @@ Sources:
 Objets:
   - "[[Internet]]"
 Auteurs·ices:
-  - "[[Jules Dile-Toustou]]"
+  - "[[Jules Dilé-Toustou]]"
 Date de publication:
   - "2023"
 Date de création: 2025-12-09T11:30:00
@@ -83,7 +83,7 @@ De ce premier choix, des critères sont utilisés pour décrire des types d'orga
 
 #### Organisation exclues
 
-> [!warning] Les [[Parties Politiques]] : [[Les écologistes]]
+> [!warning] Les [[Partis Politiques]] : [[Les écologistes]]
 > « Ensuite les essentiels oubliés de notre étude qui jouent également un rôle influent dans la médiatisation des problématiques écologiques de l’écologie sont bien sûr les partis politiques, et notamment le parti Écologiste d’Europe Écologie Les Verts (EELV). **Bien que nous les écartons de notre analyse en raison de leur finalité élective**, il serait également intéressant d’analyser leurs discours pour voir s’ils peuvent faire écho aux revendications des organisations apartisanes. » (Dile-Toustou, 2023, p. 96)
 > 
 > « Le fait de se constituer en parti politique incombe une finalité élective, sous-tendant une volonté d’influence législative, ce qui se démarque des autres formes d’organisations que nous souhaitons étudier. Cette finalité élective marquerait un point de rupture avec les organisations écologistes que nous voulons étudier, étant donné que ces dernières opteraient davantage pour des voies alternatives de revendications plutôt que de chercher à s’insérer dans les sphères de pouvoirs étatiques par les voies démocratiques traditionnelles. » (Dile-Toustou, 2023, p. 91)

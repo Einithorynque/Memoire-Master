@@ -3,7 +3,7 @@ Type:
   - NOTION
 Themes:
   - "[[Écologie Politique]]"
-  - "[[Ma Méthodologie]]"
+  - "[[Ma Méthode]]"
 Objets:
 Auteurs·ices:
 Sources:
