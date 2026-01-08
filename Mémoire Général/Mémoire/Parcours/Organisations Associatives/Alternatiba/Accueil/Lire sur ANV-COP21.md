@@ -11,7 +11,7 @@ Récurrence:
 Scrolls:
 Écrans:
 Cliques:
-  - "2"
+  - "1"
 Date de création:
 Réponse au problème: false
 Complétion: false
