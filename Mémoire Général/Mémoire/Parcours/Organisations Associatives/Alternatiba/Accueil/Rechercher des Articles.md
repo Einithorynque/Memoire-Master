@@ -15,7 +15,8 @@ Récurrence:
 Scrolls: 0
 Écrans:
   - "0.2"
-Cliques: 1
+Cliques:
+  - "1"
 Date de création: 2026-01-04T18:56:00
 Réponse au problème: true
 Complétion: true

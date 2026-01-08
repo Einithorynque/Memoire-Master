@@ -4,7 +4,7 @@ Type:
 Description:
 Médias:
 Cas d'étude:
-  - "[[Alternatiba]]"
+  - "[[France Nature Environnement]]"
 Parcours:
   - Accueil
 Récurrence:
@@ -16,4 +16,4 @@ Date de création:
 Réponse au problème: false
 Complétion: false
 ---
-Pas vraiment un fonctionnalité.
+Des liens invite à [[Télécharger sentinelle de la nature]], [[Consulter des actualités du mouvement]] et du monde et à [[S'abonner à l'Infolettre]].

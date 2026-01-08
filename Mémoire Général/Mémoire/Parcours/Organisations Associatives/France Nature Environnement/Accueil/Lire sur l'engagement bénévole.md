@@ -4,11 +4,11 @@ Type:
 Description:
 Médias:
 Cas d'étude:
-  - "[[Alternatiba]]"
+  - "[[France Nature Environnement]]"
 Parcours:
   - Accueil
 Récurrence:
-Scrolls: 0
+Scrolls:
 Écrans:
 Cliques:
   - "1"

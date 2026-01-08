@@ -4,15 +4,16 @@ Type:
 Description:
 Médias:
 Cas d'étude:
-  - "[[Alternatiba]]"
+  - "[[France Nature Environnement]]"
 Parcours:
   - Accueil
 Récurrence:
-Scrolls: 0
+Scrolls:
 Écrans:
+  - "2"
 Cliques:
-  - "1"
 Date de création:
 Réponse au problème: false
 Complétion: false
 ---
+Après [[Lire sur l'engagement bénévole]]

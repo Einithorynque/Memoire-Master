@@ -4,15 +4,17 @@ Type:
 Description:
 Médias:
 Cas d'étude:
-  - "[[Alternatiba]]"
+  - "[[France Nature Environnement]]"
 Parcours:
   - Accueil
 Récurrence:
-Scrolls: 0
+Scrolls:
 Écrans:
+  - "2"
 Cliques:
-  - "1"
-Date de création:
+  - "2"
+Date de création: 2026-01-08T11:16:00
 Réponse au problème: false
 Complétion: false
 ---
+Aucune mission proposée à la date d'étude.
