@@ -48,6 +48,8 @@ views:
       - Complétion
       - Dispositifs info-communicationnels
     sort:
+      - property: Dispositifs info-communicationnels
+        direction: DESC
       - property: Complétion
         direction: ASC
     columnSize:

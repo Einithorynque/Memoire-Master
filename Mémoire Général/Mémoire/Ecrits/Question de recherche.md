@@ -6,6 +6,8 @@ Quelle place est donnée à l'écologie politique dans le fonctionnement des pr�
 ## Historique
 ### Janvier 2026
 
+Comment fonctionne l'écologisme politique dans les sites internet qui le défendent ?
+
 Je ne suis pas satisfait par le  'quelle place est donnée à', pourrait être remplacée ne Quelle écologie politique donne le fonctionnement des présences en ligne qui la défendent
 
 

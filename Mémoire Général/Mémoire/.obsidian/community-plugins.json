@@ -1,5 +1,7 @@
 [
   "templater-obsidian",
   "obsidian-git",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-footnotes",
+  "obsidian-tidy-footnotes"
 ]

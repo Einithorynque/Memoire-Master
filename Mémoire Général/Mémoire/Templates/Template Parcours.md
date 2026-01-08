@@ -5,6 +5,7 @@ Description:
 Médias:
 Cas d'étude:
 Parcours:
+  - Accueil
 Récurrence:
 Scrolls:
 Écrans:
