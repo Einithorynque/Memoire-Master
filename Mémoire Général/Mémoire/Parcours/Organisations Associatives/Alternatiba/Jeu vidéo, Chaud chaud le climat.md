@@ -4,7 +4,9 @@ Type:
 Description:
 Médias:
 Cas d'étude:
+  - "[[Alternatiba]]"
 Parcours:
+  - Autre
 Récurrence:
 Scrolls:
 Écrans:

@@ -17,7 +17,7 @@
     "Parcours": "multitext",
     "Récurrence": "multitext",
     "Scrolls": "number",
-    "Cliques": "number",
+    "Cliques": "multitext",
     "Réponse au problème": "checkbox",
     "Mécanisme Affordance": "multitext",
     "Intensité Affordance": "multitext",

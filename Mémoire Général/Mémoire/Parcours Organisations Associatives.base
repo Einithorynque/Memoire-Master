@@ -1,0 +1,22 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Parcours/Organisations Associatives")
+        - and:
+            - '!file.inFolder("Parcours/Organisations Associatives/Greenpeace/Media")'
+            - '!file.inFolder("Parcours/Organisations Associatives/Alternatiba/Media")'
+            - '!file.inFolder("Parcours/Organisations Associatives/France Nature Environnement/Media")'
+    order:
+      - file.name
+      - Complétion
+      - Cas d'étude
+      - Parcours
+      - Cliques
+      - Scrolls
+      - Écrans
+      - Récurrence
+    sort: []
+    columnSize:
+      note.Complétion: 53

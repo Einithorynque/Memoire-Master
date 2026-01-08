@@ -6,10 +6,12 @@ Médias:
 Cas d'étude:
   - "[[Alternatiba]]"
 Parcours:
+  - Accueil
 Récurrence:
 Scrolls:
 Écrans:
 Cliques:
+  - "2"
 Date de création:
 Réponse au problème: false
 Complétion: false

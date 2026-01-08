@@ -16,6 +16,7 @@ Récurrence:
 Scrolls: 0
 Écrans:
 Cliques:
+  - "1"
 Date de création: 2026-01-04T15:23:00
 Réponse au problème: true
 Complétion: false
@@ -30,7 +31,7 @@ Par ces formes différentes, il est plus ou moins [[Demander|demandé]] de navig
 
 Hiérarchiquement, il est davantage demandé de cliquer sur les liens en bannières, qui occupent plus d'espace et ont une forme inédite. Mon parcours étant réalisé début janvier, la première page présentées sous forme de bannière est celle de [[Naviguer vers Faire un Don|Faire un Don]], avec un habillage spécifique pour la campagne de don 2025[^1], suivie de la page [[Naviguer vers Rejoindre un Groupe Alternatiba|Rejoindre un Groupe Alternatiba]]. 
 
-Ensuite, le site demande de cliquer sur les liens sous forme de boutons. Ces boutons sont présents sous trois forme. La plus exceptionnelle, au fond jaune, est unique sur l'accueil et est donc encouragée, elle invite à [[Naviguer vers Faire un Don]]. Ensuite 4 boutons se distinguent par leur fond rouge, ils invitent à [[Naviguer vers Explorer les Alternatives]], [[Naviguer vers Faire un Don]], [[Naviguer vers Découvrir ANV-COP21]] et [[Parcours/Organisations Associatives/Alternatiba/Accueil/S'inscrire à l'Infolettre]]. La dernière forme de boutons, au fond vert, est utilisé comme appel à l'action usuel. Ici surtout pour [[Naviguer vers Rejoindre un Groupe Alternatiba]], [[Parcours/Organisations Associatives/Alternatiba/Accueil/Consulter des Actualités|Consulter des Actualités]] et [[Naviguer vers Découvrir le Mouvement]].
+Ensuite, le site demande de cliquer sur les liens sous forme de boutons. Ces boutons sont présents sous trois forme. La plus exceptionnelle, au fond jaune, est unique sur l'accueil et est donc encouragée, elle invite à [[Naviguer vers Faire un Don]]. Ensuite 4 boutons se distinguent par leur fond rouge, ils invitent à [[Naviguer vers Explorer les Alternatives]], [[Naviguer vers Faire un Don]], [[Naviguer vers ANV-COP21]] et [[Parcours/Organisations Associatives/Alternatiba/Accueil/S'inscrire à l'Infolettre]]. La dernière forme de boutons, au fond vert, est utilisé comme appel à l'action usuel. Ici surtout pour [[Naviguer vers Rejoindre un Groupe Alternatiba]], [[Parcours/Organisations Associatives/Alternatiba/Accueil/Consulter des Actualités|Consulter des Actualités]] et [[Naviguer vers Découvrir le Mouvement]].
 
 Enfin je considère que, par leur forme, les liens sous forme de textes demandent moins une navigation qu'ils la permettent. 
 
