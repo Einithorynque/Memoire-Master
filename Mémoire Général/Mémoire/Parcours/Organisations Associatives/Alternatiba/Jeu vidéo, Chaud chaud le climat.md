@@ -8,7 +8,7 @@ Cas d'étude:
 Parcours:
   - Autre
 Récurrence:
-Scrolls:
+Sections:
 Écrans:
 Cliques:
 Date de création:

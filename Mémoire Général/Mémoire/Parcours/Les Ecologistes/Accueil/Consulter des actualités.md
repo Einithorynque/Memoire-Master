@@ -22,7 +22,7 @@ Réponse au problème: true
 Mécanisme Affordance:
   - "[[Demander]]"
   - "[[Encourager]]"
-Scrolls: 1
+Sections: 1
 Écrans:
   - "2"
 Complétion: true

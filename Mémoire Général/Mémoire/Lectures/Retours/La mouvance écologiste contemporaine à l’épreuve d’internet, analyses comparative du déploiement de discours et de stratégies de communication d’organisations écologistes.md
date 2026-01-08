@@ -31,6 +31,16 @@ Analyse d’onze organisations écologistes.
 
 Ethnographie en ligne et hors ligne par analyse textométrique (analyse des textes sur les sites ?)
 
+### N'utilise pas une grille d'analyse très proche de la discursive
+
+> [!tip] Méthode en question
+> « Dans cette optique, il propose une grille d’analyse pour « déterminer le sens [et] la valeur d’un site web » (Stockinger, 2017). Ainsi il décompose à son tour trois angles d’analyse du site internet : les niveaux compositionnel, stratificationnel et fonctionnel (Stockinger, 2017). » (Dilé-Toustou, 2023, p. 145)
+
+
+> [!warning] Refus
+> « Bien que cette grille d’analyse puisse être réellement pertinente pour mener une analyse de site web, nous ne l’utiliserons pas dans nos analyses. Il apparaît cependant utile de se référer à certaines étapes de l’analyse de Peter Stockinger, nous pensons notamment à l’étape dite stratificationnelle qui consiste à distinguer différentes strates des procédés de publicisation de l’activité de l’organisation initiatrice. » (Dilé-Toustou, 2023, p. 146)
+
+
 ---
 ## Cas d'études
 

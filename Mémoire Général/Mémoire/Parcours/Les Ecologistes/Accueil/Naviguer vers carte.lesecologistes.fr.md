@@ -15,7 +15,7 @@ Type:
 Réponse au problème: true
 Mécanisme Affordance:
 Intensité Affordance:
-Scrolls: 4
+Sections: 4
 Écrans:
   - "1"
 Complétion: true

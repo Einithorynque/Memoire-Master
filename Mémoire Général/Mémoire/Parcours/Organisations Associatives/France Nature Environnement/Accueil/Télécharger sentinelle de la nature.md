@@ -4,12 +4,14 @@ Type:
 Description:
 Médias:
 Cas d'étude:
+  - "[[France Nature Environnement]]"
 Parcours:
   - Accueil
 Récurrence:
-Scrolls:
+Sections:
 Écrans:
 Cliques:
+  - "2"
 Date de création:
 Réponse au problème: false
 Complétion: false

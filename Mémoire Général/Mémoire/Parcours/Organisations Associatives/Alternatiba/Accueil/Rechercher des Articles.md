@@ -12,7 +12,7 @@ Parcours:
   - Accueil
 Récurrence:
   - 4/8
-Scrolls: 0
+Sections: 0
 Écrans:
   - "0.2"
 Cliques:

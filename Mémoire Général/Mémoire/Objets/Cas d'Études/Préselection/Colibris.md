@@ -16,7 +16,10 @@ Themes:
 Pays:
   - France
 Créateur·ices:
+  - "Hébergement: Hetzner"
 Technologies:
+  - "[[CMS]]"
+  - Drupal
 Parcours:
 Avis:
 Description:

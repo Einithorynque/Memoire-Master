@@ -6,7 +6,7 @@ Médias:
 Cas d'étude:
 Parcours:
 Récurrence:
-Scrolls:
+Sections:
 Écrans:
 Cliques:
 Date de création:

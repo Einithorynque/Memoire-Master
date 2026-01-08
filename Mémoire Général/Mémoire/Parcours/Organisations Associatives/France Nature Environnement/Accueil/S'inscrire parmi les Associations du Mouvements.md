@@ -8,10 +8,11 @@ Cas d'étude:
 Parcours:
   - Accueil
 Récurrence:
-Scrolls:
+Sections:
 Écrans:
   - "2"
 Cliques:
+  - "2"
 Date de création:
 Réponse au problème: false
 Complétion: false

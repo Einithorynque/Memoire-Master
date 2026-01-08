@@ -20,7 +20,9 @@ Themes:
 Pays:
   - France
 Créateur·ices:
+  - "Hébergement: Cloudfare"
 Technologies:
+  - Next.js
 Parcours:
 Avis:
 Description:

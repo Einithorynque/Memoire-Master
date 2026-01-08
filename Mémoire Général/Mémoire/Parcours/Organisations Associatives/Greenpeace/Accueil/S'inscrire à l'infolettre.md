@@ -6,10 +6,12 @@ Médias:
 Cas d'étude:
   - "[[Greenpeace]]"
 Parcours:
+  - Accueil
 Récurrence:
-Scrolls:
+Sections:
 Écrans:
 Cliques:
+  - "1"
 Date de création:
 Réponse au problème: false
 Complétion: false

@@ -12,7 +12,7 @@ Parcours:
   - Rejoindre
 Récurrence:
   - 4/7
-Scrolls: 0
+Sections: 0
 Écrans:
   - "1"
   - "0.2"

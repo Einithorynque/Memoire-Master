@@ -22,6 +22,7 @@ Pays:
   - France
 Créateur·ices:
   - "[[Alternatiba]]"
+  - "Hébergement: Infomaniak"
 Technologies:
   - "[[CMS]]"
   - "[[WordPress]]"

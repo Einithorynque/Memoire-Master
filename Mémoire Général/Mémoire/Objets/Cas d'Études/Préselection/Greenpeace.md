@@ -14,7 +14,10 @@ Pays:
   - France
   - Europe
 Créateur·ices:
+  - "Hébergement: Google Inc."
 Technologies:
+  - "[[CMS]]"
+  - "[[WordPress]]"
 Parcours:
 Avis:
 Description:

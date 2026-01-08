@@ -14,9 +14,10 @@ views:
       - Cas d'étude
       - Parcours
       - Cliques
-      - Scrolls
       - Écrans
+      - Sections
       - Récurrence
     sort: []
     columnSize:
       note.Complétion: 53
+      note.Sections: 73

@@ -14,7 +14,7 @@ Type:
 Réponse au problème: true
 Mécanisme Affordance:
   - "[[Demander]]"
-Scrolls: 0
+Sections: 0
 Écrans:
   - "0.2"
 Complétion: true

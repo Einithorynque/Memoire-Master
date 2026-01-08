@@ -16,7 +16,7 @@ Réponse au problème: true
 Mécanisme Affordance:
   - "[[Demander]]"
   - "[[Permettre]]"
-Scrolls: 0
+Sections: 0
 Écrans:
   - "2"
 aliases:

@@ -13,7 +13,7 @@ Date de création:
 Type:
   - PARCOURS
 Réponse au problème: true
-Scrolls: 6
+Sections: 6
 Écrans:
   - "1"
 Complétion: true

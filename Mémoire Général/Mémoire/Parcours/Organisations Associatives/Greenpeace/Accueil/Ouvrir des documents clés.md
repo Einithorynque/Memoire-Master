@@ -8,7 +8,7 @@ Cas d'étude:
 Parcours:
   - Accueil
 Récurrence:
-Scrolls: 6
+Sections: 6
 Écrans:
   - "0.5"
 Cliques:
@@ -17,4 +17,4 @@ Date de création:
 Réponse au problème: false
 Complétion: false
 ---
-Ouvrir car apparence fichier, on peut les télécharger.
+Ouvrir car apparence fichier, on peut les [[Parcours/Organisations Associatives/Greenpeace/Accueil/Télécharger des Documents|Télécharger des Documents]].

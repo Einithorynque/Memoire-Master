@@ -16,7 +16,7 @@ Date de création: 2025-09-23T11:02:00
 Type:
   - PARCOURS
 Réponse au problème: true
-Scrolls: 5
+Sections: 5
 Écrans:
   - "1"
   - "0.5"

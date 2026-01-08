@@ -4,12 +4,15 @@ Type:
 Description:
 Médias:
 Cas d'étude:
+  - "[[Greenpeace]]"
 Parcours:
+  - Accueil
 Récurrence:
-Scrolls: 8
+Sections: 8
 Écrans:
   - "0.2"
-Cliques: 1
+Cliques:
+  - "1"
 Date de création:
 Réponse au problème: false
 Complétion: false
