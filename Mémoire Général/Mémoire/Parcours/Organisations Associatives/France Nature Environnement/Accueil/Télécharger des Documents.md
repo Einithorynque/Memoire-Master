@@ -7,12 +7,12 @@ Cas d'étude:
 Parcours:
   - Accueil
 Récurrence:
-  - 2 sur accueil
 Scrolls:
 Écrans:
-  - "0.2"
-Cliques: 1
+  - "2"
+Cliques:
 Date de création:
 Réponse au problème: false
 Complétion: false
 ---
+Après l'action d'[[Ouvrir des publications]]

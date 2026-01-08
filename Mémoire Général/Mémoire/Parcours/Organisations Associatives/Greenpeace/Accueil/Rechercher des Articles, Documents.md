@@ -4,11 +4,12 @@ Type:
 Description:
 Médias:
 Cas d'étude:
-  - "[[France Nature Environnement]]"
+  - "[[Greenpeace]]"
 Parcours:
   - Accueil
 Récurrence:
-Scrolls: 0
+  - 2 sur accueil
+Scrolls:
 Écrans:
   - "0.2"
 Cliques:

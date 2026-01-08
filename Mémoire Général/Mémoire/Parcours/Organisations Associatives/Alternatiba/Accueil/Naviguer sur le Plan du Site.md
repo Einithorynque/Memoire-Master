@@ -14,14 +14,15 @@ Récurrence:
 Scrolls: 0
 Écrans:
   - "0.2"
-Cliques: 1
+Cliques:
+  - "2"
 Date de création: 2026-01-04T18:07:00
 Réponse au problème: false
 Complétion: true
 ---
 
 ## Description
-Dans le haut de page, un bouton icône permet d'[[Ouvrir le Plan du Site]]. Il est situé tout à gauche du haut de page, en premier dans le sens de lecture. 
+Dans le haut de page, un bouton icône permet d'[[Parcours/Organisations Associatives/Alternatiba/Accueil/Naviguer sur le Plan du Site]]. Il est situé tout à gauche du haut de page, en premier dans le sens de lecture. 
 
 À l'ouverture, le plan s'affiche dans une section au fond gris qui recouvre la page sauf son haut de page.
 

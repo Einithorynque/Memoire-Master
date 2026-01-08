@@ -4,16 +4,19 @@ Type:
 Description:
 Médias:
 Cas d'étude:
-  - "[[France Nature Environnement]]"
+  - "[[Alternatiba]]"
 Parcours:
   - Accueil
 Récurrence:
-Scrolls: 0
+Scrolls:
 Écrans:
-  - "0.2"
 Cliques:
   - "2"
 Date de création:
 Réponse au problème: false
 Complétion: false
+aliases:
+  - Rejoindre un Groupe Alternatiba
+Sources:
+  - https://alternatiba.eu/rejoindre-un-groupe/
 ---

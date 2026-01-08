@@ -8,31 +8,58 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5bd91c4e53d8cc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parcours/Greenpeace/Accueil/Rechercher des pages.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rechercher des pages"
-            }
-          },
-          {
             "id": "0a52d75b76668fae",
             "type": "leaf",
             "state": {
+              "type": "bases",
+              "state": {
+                "file": "Parcours Organisations Associatives.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Parcours Organisations Associatives"
+            }
+          },
+          {
+            "id": "afaf923c5ae68a19",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Parcours/Organisations Associatives/Alternatiba/Accueil/Lire sur des Alternatives.md",
+                "file": "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Rechercher des Pages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lire sur des Alternatives"
+              "title": "Rechercher des Pages"
+            }
+          },
+          {
+            "id": "d5769f69e805e39c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parcours/Organisations Associatives/Greenpeace/Accueil/Naviguer sur Greenvoice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Naviguer sur Greenvoice"
+            }
+          },
+          {
+            "id": "8e2d1fc5956491d0",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://alternatiba.eu/rejoindre-un-groupe/",
+                "title": "Rejoindre un groupe Alternatiba | Alternatiba",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Rejoindre un groupe Alternatiba | Alternatiba"
             }
           },
           {
@@ -216,8 +243,7 @@
               "title": "Écologie Politique"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -406,11 +432,26 @@
   },
   "active": "0a52d75b76668fae",
   "lastOpenFiles": [
+    "Parcours/Organisations Associatives/Greenpeace/Accueil/Rechercher des Articles, Documents.md",
     "Parcours Organisations Associatives.base",
+    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Rechercher des Pages.md",
+    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Naviguer vers une opération en ligne.md",
+    "Parcours/Organisations Associatives/Greenpeace/Accueil/Naviguer sur Greenvoice.md",
+    "Parcours/Organisations Associatives/Alternatiba/Accueil/Naviguer dans les 4 pages du haut de page.md",
+    "Parcours/Organisations Associatives/Alternatiba/Accueil/Naviguer sur le Plan du Site.md",
+    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Télécharger des Documents.md",
+    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Ouvrir des sites FNE locaux.md",
+    "Parcours/Organisations Associatives/Greenpeace/Accueil/Ouvrir des documents clés.md",
+    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Ouvrir des publications.md",
+    "Parcours/Organisations Associatives/Greenpeace/Accueil/Ouvrir des communautés de presses.md",
+    "Parcours/Organisations Associatives/Alternatiba/Accueil/Faire un Don.md",
+    "Parcours/Organisations Associatives/Alternatiba/Accueil/Contacter un Groupe Local Alternatiba.md",
+    "Parcours/Organisations Associatives/Alternatiba/Accueil/Situer les Groupes Locaux Alternatiba.md",
+    "Parcours/Organisations Associatives/Alternatiba/Accueil/Lire sur des Alternatives.md",
+    "Parcours/Organisations Associatives/Alternatiba/Accueil/Naviguer vers des Alternatives.md",
     "Parcours/Organisations Associatives/Alternatiba/Accueil/Lire pour Découvrir le Mouvement.md",
     "Parcours/Organisations Associatives/Alternatiba/Accueil/Naviguer vers ANV-COP21.md",
     "Parcours/Organisations Associatives/Alternatiba/Accueil/Lire sur ANV-COP21.md",
-    "Parcours/Organisations Associatives/Alternatiba/Accueil/Naviguer dans les 4 pages du haut de page.md",
     "Parcours/Organisations Associatives/Greenpeace/Accueil/Naviguer sur le plan du site.md",
     "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Naviguer sur le plan du site.md",
     "Parcours/Organisations Associatives/Greenpeace/Accueil/Lire une présentation de l'association.md",
@@ -418,22 +459,8 @@
     "Parcours/Organisations Associatives/Greenpeace/Accueil/Lire des moyens de changer sa consommation.md",
     "Parcours/Organisations Associatives/Greenpeace/Accueil/Faire un Don.md",
     "Parcours/Organisations Associatives/Greenpeace/Accueil/Consulter des actualités.md",
-    "Parcours/Organisations Associatives/Greenpeace/Accueil/Entrer dans des application de messagerie.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Donner à l'organisation.md",
-    "Parcours/Organisations Associatives/Greenpeace/Accueil/Devenir bénévole par une recherche de groupe local.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Consulter les rapports d'activité.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Consulter des dossiers (articles éditorialisé).md",
-    "Parcours/Organisations Associatives/Greenpeace/Accueil/Consulter les obtentions de 2025.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Consulter des communiqués de presse.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Consulter des actualités du mouvement.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Consulter des actualités du monde.md",
-    "Parcours/Organisations Associatives/Alternatiba/Accueil/Consulter des Actualités.md",
-    "Parcours/Organisations Associatives/Greenpeace/Accueil/Lire sur le cybermilitantisme.md",
     "Objets/Cas d'Études.base",
     "Parcours/Organisations Associatives",
-    "Parcours/Organisations Associatives/Greenpeace/Accueil/Visualiser sa position dans la page.md",
-    "Parcours/Organisations Associatives/Greenpeace/Accueil/Trouver des réponses à des questions.md",
-    "Parcours/Organisations Associatives/Greenpeace/Accueil/Télécharger Wegreen.md",
     "Parcours/Organisations Associatives/Greenpeace/Wegreen",
     "Parcours/Organisations Associatives/Greenpeace/Greenvoice",
     "Parcours/Organisations Associatives/France Nature Environnement/Opération de recensement des hérissons",
