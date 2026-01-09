@@ -19,11 +19,21 @@ Ainsi, cette fonctionnalité du don plafonne le site. Sa place dans le haut de p
 
 Se renseigner fonctionne dans ces sites de manière similaire. Les sites *demandent* d'abord aux utilisateur·ices de lire quelques paragraphes de textes avant des les *encourager* à des actions : naviguer vers d'autres pages, donner, parfois à nouveau se renseigner avant d'agir ou s'inscrire à l'organisation. On retrouve dans ces pages un usage fort des liens hypertextes. Si ils sont parfois le signe de l'étendue de la présence en ligne des ==organisations https://www.greenpeace.fr/connaitre-greenpeace/, https://fne.asso.fr/associations-adherentes ils sont aussi utilisés pour pointer vers des ressources https://alternatiba.eu/rejoindre-les-alternatives/ .== Ces liens situent les associations dans une présence en ligne plus large et encouragent ainsi l'engagement. Comme l'écrit Badouard, le lien est utilisé ici comme « un outil de mobilisation dans la mesure où, intégré à un message qui dresse le contexte de l’action collective, il constitue une offre pour des publics naviguant au sein de territoires thématiques et partageant un intérêt commun pour des sujets particuliers. » (2013, p. 113)
 
-Ainsi les organisations étudiées proposent comme point d'accroche de leur sites les fonctionnalités du don et du renseignement. et placent une demande d'un parcours idéal, dans le cas du don.
+Ainsi les organisations étudiées proposent comme point d'accroche de leur site les fonctionnalités du don et du renseignement. Par leur position elles *permettent* que ces fonctionnalités soient toujours visibles et montrent qu'elles doivent être toujours accessibles, les inscrivant comme des parcours principaux quand elles ne les placent pas comme une *demande* d'un parcours idéal, dans le cas du don. Se renseigner passe presque toujours par un diptyque, la lecture d'abord puis l'action. L'action des utilisateur·ices est ainsi toujours *demandée* dans un second temps, sauf pour les dons, dont le formulaire s'ouvre même parfois sans avoir à changer de page. 
 
-qui passent souvent par le dyptique lecture action. L'action passe ainsi au second plan. Si bien que la présence de moyen de recherche place le site web comme une banque d'information dont il parrait nécessaire de passer les étapes. 
+Cette encouragement à la lecture d'abord est accentué par la prépondérance d'une autre fonctionnalité : consulter des articles d'actualités. Elle est mise en avant dans toutes les pages d'accueil, en première section pour quatre d'entre elles. Les articles prennent dans la plupart des sites plusieurs formats : actualités, communiqués de presses, dossiers. Or chaque format est parfois mis en avant dans une section à part entière, comme chez France Nature Environnement, accentuant leur présence. Les articles *demandent* à être lus et *encouragent* souvent leur partage sur les réseaux sociaux, parfois leur téléchargement. Encouragent ainsi une reprise par les utilisateur·ices de la pensée écologiste.
 
-Si les renseignement sur les crises environnementale ne sont pas des point d'accroche de parcours, cela s'explique aussi car ils sont disséminés par la prépondérance du format d'articles d'actualité. 
+Les articles sont souvent accompagnées par des tags, des étiquettes, qui mettent en avant certaines informations et encouragent ainsi la lecture. Ils révèlent les sujets qui devraient être important selon les organisations pour leurs utilisateur·ices. Dans tous les sites il s'agit d'abord des de thématiques environnementales (climat, agriculture),  puis d'organisation politique (démocratie, municipales), accompagnées de types d'actions (bénévolats) et de questions sociales (santé). 
+Si j'exprimais plus tôt que les renseignement sur la crise environnementale n'étaient pas des points d'accroche de parcours, ont les retrouve disséminée ici. Enfin, deux organisations précisent aussi les groupes locaux ayant publiés les articles. Ce choix montre une préservation en ligne de la pensée de la décentralisation, dimension au cœur de l'écologie politique ==citer==. Il montre aussi l'importance pour les organisations de situer leurs actions auprès de leurs utilisateur·ices. 
+
+
+ancrée thématique.  les  sur les crises environnementale ne sont pas des point d'accroche de parcours, cela s'explique aussi car ils sont disséminés par la prépondérance du format d'articles d'actualité.  
+
+ancrée dans des groupes locaux
+
+==Si bien que la présence de moyen de recherche place le site web comme une banque d'information dont il parrait nécessaire de passer les étapes. ==
+
+
 
 puis sur les campagnes et enfin sur 
 

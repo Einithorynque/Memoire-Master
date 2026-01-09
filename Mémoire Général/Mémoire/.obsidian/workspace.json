@@ -247,8 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,13 +265,13 @@
   },
   "active": "32a2ef7d48945c97",
   "lastOpenFiles": [
-    "Parcours/Organisations Associatives/Parcours Organisations Associatives.base",
+    "Notions/Écologie Politique.md",
     "Ecrits/M2/Mémoire/I. 1 La place de l'écologie politique dans le fonctionnement des sites internet qui la défendent.md",
+    "Parcours/Organisations Associatives/Parcours Organisations Associatives.base",
     "Notions/Mécanismes de l'Affordance.md",
     "Objets/Cas d'Études/Préselection/France Nature Environnement/France Nature Environnement.md",
     "Parcours/Organisations Associatives/France Nature Environnement/Media/accueil-fne.asso.fr.jpg",
     "Parcours/Organisations Associatives/Untitled.md",
-    "Notions/Écologie Politique.md",
     "Notions/Partis Politiques.md",
     "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Rechercher des Pages.md",
     "Ecrits/Plan détaillé.md",

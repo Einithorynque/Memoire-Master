@@ -11,7 +11,7 @@ Parcours:
   - Accueil
 Récurrence:
   - 1/8
-Sections: 0
+Sections: 1
 Écrans:
   - "0.2"
 Cliques:

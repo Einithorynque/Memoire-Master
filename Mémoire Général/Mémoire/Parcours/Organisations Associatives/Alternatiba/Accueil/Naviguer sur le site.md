@@ -13,7 +13,7 @@ Cas d'étude:
 Parcours:
   - Accueil
 Récurrence:
-Sections: 0
+Sections: 1
 Écrans:
 Cliques:
   - "1"
