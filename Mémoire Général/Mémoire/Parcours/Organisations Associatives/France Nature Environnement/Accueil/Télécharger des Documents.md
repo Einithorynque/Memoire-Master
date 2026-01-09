@@ -16,6 +16,8 @@ Cliques:
 Date de création:
 Réponse au problème: false
 Complétion: false
+Type de fonctionnalité:
+  - Télécharger des documents
 ---
 Après l'action d'[[Ouvrir des publications]]
 Après [[Lire sur l'engagement bénévole]]

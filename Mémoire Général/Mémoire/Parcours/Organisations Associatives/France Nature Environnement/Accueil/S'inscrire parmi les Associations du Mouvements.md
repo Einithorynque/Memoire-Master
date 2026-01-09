@@ -16,5 +16,7 @@ Cliques:
 Date de création:
 Réponse au problème: false
 Complétion: false
+Type de fonctionnalité:
+  - S'inscrire à un groupe local
 ---
 Après [[Lire sur l'engagement bénévole]]

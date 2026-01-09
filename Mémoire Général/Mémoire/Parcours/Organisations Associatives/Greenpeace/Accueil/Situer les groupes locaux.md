@@ -10,12 +10,11 @@ Parcours:
 Récurrence:
 Sections:
 Écrans:
-  - "0.2"
 Cliques:
-  - "2"
+  - "3"
 Date de création:
 Réponse au problème: false
 Complétion: false
 Type de fonctionnalité:
-  - Naviguer sur le Plan du Site
+  - Situer l'association
 ---

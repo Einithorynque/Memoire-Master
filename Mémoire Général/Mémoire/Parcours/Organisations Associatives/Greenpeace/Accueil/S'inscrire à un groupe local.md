@@ -8,14 +8,14 @@ Cas d'étude:
 Parcours:
   - Accueil
 Récurrence:
-Sections:
+Sections: 4
 Écrans:
-  - "0.2"
+  - "1"
 Cliques:
   - "2"
-Date de création:
+Date de création: 2026-01-08T14:47:00
 Réponse au problème: false
 Complétion: false
 Type de fonctionnalité:
-  - Naviguer sur le Plan du Site
+  - S'inscrire à un groupe local
 ---

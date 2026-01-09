@@ -17,4 +17,6 @@ Cliques:
 Date de création:
 Réponse au problème: false
 Complétion: false
+Type de fonctionnalité:
+  - Rechercher du Contenu
 ---

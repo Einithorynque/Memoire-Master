@@ -22,6 +22,8 @@ Réponse au problème: true
 Complétion: true
 aliases:
   - Rechercher des Pages
+Type de fonctionnalité:
+  - Rechercher du Contenu
 ---
 ## Description 
 

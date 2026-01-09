@@ -4,18 +4,17 @@ Type:
 Description:
 Médias:
 Cas d'étude:
-  - "[[Greenpeace]]"
+  - "[[Alternatiba]]"
 Parcours:
   - Accueil
 Récurrence:
-Sections:
+Sections: 0
 Écrans:
-  - "0.2"
 Cliques:
-  - "2"
+  - "1"
 Date de création:
 Réponse au problème: false
 Complétion: false
 Type de fonctionnalité:
-  - Naviguer sur le Plan du Site
+  - Se renseigner sur l'environnement
 ---

@@ -11,9 +11,12 @@ Récurrence:
 Sections:
 Écrans:
 Cliques:
+  - "1"
 Date de création:
 Réponse au problème: false
 Complétion: false
+Type de fonctionnalité:
+  - Naviguer sur le Site
 ---
 Sur toute la page d'accueil : des boutons, des textes et des cartes sont des liens plus ou moins mis en avant qui invitent à naviguer vers d'autres pages.
 

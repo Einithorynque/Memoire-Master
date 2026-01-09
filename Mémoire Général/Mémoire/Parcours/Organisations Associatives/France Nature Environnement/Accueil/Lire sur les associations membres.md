@@ -8,12 +8,14 @@ Cas d'étude:
 Parcours:
   - Accueil
 Récurrence:
-Sections:
+Sections: 4
 Écrans:
 Cliques:
   - "1"
 Date de création:
 Réponse au problème: false
 Complétion: false
+Type de fonctionnalité:
+  - Se renseigner sur l'organisation
 ---
 Invite à [[Ouvrir des sites FNE locaux]] et d'associations membres.

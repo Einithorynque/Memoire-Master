@@ -8,13 +8,16 @@ Cas d'étude:
 Parcours:
   - Accueil
 Récurrence:
-Sections:
+Sections: 4
 Écrans:
+  - "1"
 Cliques:
   - "1"
   - "2"
 Date de création:
 Réponse au problème: false
 Complétion: false
+Type de fonctionnalité:
+  - Situer l'association
 ---
 Situé après [[Lire sur l'engagement bénévole]].

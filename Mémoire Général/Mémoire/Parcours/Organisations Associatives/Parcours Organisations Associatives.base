@@ -8,6 +8,9 @@ views:
             - '!file.inFolder("Parcours/Organisations Associatives/Greenpeace/Media")'
             - '!file.inFolder("Parcours/Organisations Associatives/Alternatiba/Media")'
             - '!file.inFolder("Parcours/Organisations Associatives/France Nature Environnement/Media")'
+    groupBy:
+      property: Type de fonctionnalité
+      direction: ASC
     order:
       - file.name
       - Complétion
@@ -17,6 +20,8 @@ views:
       - Écrans
       - Sections
       - Récurrence
+      - Type de fonctionnalité
+      - Sources
     sort: []
     columnSize:
       note.Complétion: 53

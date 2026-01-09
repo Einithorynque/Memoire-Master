@@ -16,5 +16,7 @@ Cliques:
 Date de création:
 Réponse au problème: false
 Complétion: false
+Type de fonctionnalité:
+  - Lire des Actualités
 ---
 Ouvrir car apparence fichier, on peut [[Parcours/Organisations Associatives/Greenpeace/Accueil/Télécharger des Documents|Télécharger des Documents]].

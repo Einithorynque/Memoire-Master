@@ -8,8 +8,9 @@ Cas d'étude:
 Parcours:
   - Accueil
 Récurrence:
-Sections:
+Sections: 1
 Écrans:
+  - "1"
 Cliques:
   - "2"
 Date de création:
@@ -19,4 +20,6 @@ aliases:
   - Rejoindre un Groupe Alternatiba
 Sources:
   - https://alternatiba.eu/rejoindre-un-groupe/
+Type de fonctionnalité:
+  - S'inscrire à un groupe local
 ---

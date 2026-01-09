@@ -8,11 +8,13 @@ Cas d'étude:
 Parcours:
   - Accueil
 Récurrence:
-Sections:
+Sections: 5
 Écrans:
 Cliques:
   - "1"
 Date de création:
 Réponse au problème: false
 Complétion: false
+Type de fonctionnalité:
+  - Se renseigner sur l'organisation
 ---

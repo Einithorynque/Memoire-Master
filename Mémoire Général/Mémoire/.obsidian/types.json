@@ -29,6 +29,7 @@
     "Sélectionné": "checkbox",
     "Situer": "multitext",
     "Réseaux Sociaux": "multitext",
-    "Dispositifs info-communicationnels": "multitext"
+    "Dispositifs info-communicationnels": "multitext",
+    "Type de fonctionnalité": "multitext"
   }
 }

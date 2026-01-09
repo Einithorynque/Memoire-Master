@@ -19,6 +19,8 @@ Cliques:
 Date de création: 2026-01-04T18:07:00
 Réponse au problème: false
 Complétion: true
+Type de fonctionnalité:
+  - Naviguer sur le Plan du Site
 ---
 
 ## Description
