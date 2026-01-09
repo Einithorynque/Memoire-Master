@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecrits/M2/Mémoire/I. 1 La place de l'écologie politique dans le fonctionnement des sites internet qui la défendent.md",
+                "file": "Ecrits/M2/Mémoire/I. 2. La place de l'écologie politique dans le fonctionnement des sites internet qui la défendent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I. 1 La place de l'écologie politique dans le fonctionnement des sites internet qui la défendent"
+              "title": "I. 2. La place de l'écologie politique dans le fonctionnement des sites internet qui la défendent"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecrits/M2/Mémoire/Méthode.md",
+                "file": "Ecrits/M2/Mémoire/I. 1. Méthode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Méthode"
+              "title": "I. 1. Méthode"
             }
           },
           {
@@ -91,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -278,12 +278,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "afaf923c5ae68a19",
+  "active": "d0617cedc87a6502",
   "lastOpenFiles": [
-    "Ecrits/M2/Mémoire/Méthode.md",
-    "Ecrits/M2/Mémoire/I. 1 La place de l'écologie politique dans le fonctionnement des sites internet qui la défendent.md",
-    "Notions/Écologie Politique.md",
+    "Ecrits/M2/Mémoire/I. 2. La place de l'écologie politique dans le fonctionnement des sites internet qui la défendent.md",
+    "Ecrits/M2/Mémoire/I. 1. Méthode.md",
     "Parcours/Organisations Associatives/Parcours Organisations Associatives.base",
+    "Notions/Écologie Politique.md",
     "Ecrits/Plan détaillé.md",
     "Notions/Mécanismes de l'Affordance.md",
     "Objets/Cas d'Études/Préselection/France Nature Environnement/France Nature Environnement.md",

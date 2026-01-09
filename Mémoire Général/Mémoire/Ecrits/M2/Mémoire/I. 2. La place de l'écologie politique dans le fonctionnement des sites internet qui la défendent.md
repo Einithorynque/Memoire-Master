@@ -1,5 +1,5 @@
 
-## I. 1. a Organisations associatives
+## I. 1. a. Organisations associatives
 
 Les outils de navigation mis à disposition par les sites internet ont été le point d'accroche de mon analyse. Les fonctionnalités de navigation ne sont pas en soit conçues pour répondre au problème de l'écologie politique ==cf==, plutôt pour faire fonctionner les sites internet. Leur rôle est justement de structurer cette réponse. Les hauts de pages sont ainsi des révélateurs d'une hiérarchie de ce qui devrait fonctionner sur un site. Ce faisant, les sites des organisations associatives que j'ai étudiés ont tous privilégiés certaines fonctionnalités ou certaines pages dans leur navigation. Autant d'invites qui privilégient ceux à quoi leur utilisateur·ices *devraient* d'abord accéder, ce que *devrait* d'abord être pour eux l'écologie politique en ligne. 
 
