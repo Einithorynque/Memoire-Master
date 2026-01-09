@@ -4,6 +4,9 @@ views:
     filters:
       and:
         - file.inFolder("Lectures/A lire")
+    groupBy:
+      property: Avis
+      direction: ASC
     order:
       - file.name
       - Avis
@@ -12,11 +15,12 @@ views:
       - Auteurs·ices
       - Type
     sort:
-      - property: Avis
-        direction: DESC
       - property: Type
         direction: ASC
     columnSize:
+      file.name: 415
+      note.Avis: 197
+      note.Themes: 200
       note.Sources: 122
   - type: table
     name: Textes

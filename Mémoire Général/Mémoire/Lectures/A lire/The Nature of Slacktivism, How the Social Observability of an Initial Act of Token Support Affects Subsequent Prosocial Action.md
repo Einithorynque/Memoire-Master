@@ -9,6 +9,7 @@ Date de publication:
 Date de création:
 Complétion: false
 Avis:
+  - Très intéressant
 Eco-Conceptions:
 Eco-Interactions:
 Résumé:

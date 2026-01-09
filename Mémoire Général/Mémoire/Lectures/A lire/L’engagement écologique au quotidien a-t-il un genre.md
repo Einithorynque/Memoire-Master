@@ -8,10 +8,11 @@ Auteurs·ices:
   - "[[Nathalie Lapeyre]]"
   - "[[Michèle Lalanne]]"
 Date de publication:
-  - "2019"
+  - "2009"
 Date de création:
 Complétion: false
 Avis:
+  - Moyen intéressant
 Eco-Conceptions:
 Eco-Interactions:
 Résumé:

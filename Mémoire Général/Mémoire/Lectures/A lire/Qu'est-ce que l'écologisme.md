@@ -11,7 +11,7 @@ Date de publication:
 Date de création:
 Complétion: false
 Avis:
-  - Plutôt intéressant
+  - Très intéressant
 Eco-Conceptions:
 Eco-Interactions:
 Résumé:
