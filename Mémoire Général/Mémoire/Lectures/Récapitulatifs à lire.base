@@ -11,9 +11,9 @@ views:
       - file.name
       - Avis
       - Themes
-      - Sources
+      - Date de publication
       - Auteurs·ices
-      - Type
+      - Sources
     sort:
       - property: Type
         direction: ASC
@@ -22,5 +22,7 @@ views:
       note.Avis: 197
       note.Themes: 200
       note.Sources: 122
+      note.Date de publication: 87
+    rowHeight: medium
   - type: table
     name: Textes

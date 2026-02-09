@@ -47,6 +47,7 @@ views:
       - Écologisme
       - Complétion
       - Dispositifs info-communicationnels
+      - Technologies
     sort:
       - property: Dispositifs info-communicationnels
         direction: DESC

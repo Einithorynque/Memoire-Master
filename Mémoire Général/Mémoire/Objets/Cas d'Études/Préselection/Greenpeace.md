@@ -16,7 +16,6 @@ Pays:
 Créateur·ices:
   - "Hébergement: Google Inc."
 Technologies:
-  - "[[CMS]]"
   - "[[WordPress]]"
 Parcours:
 Avis:

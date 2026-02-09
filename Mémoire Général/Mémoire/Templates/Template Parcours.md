@@ -1,6 +1,7 @@
 ---
 Type:
   - PARCOURS
+Type de fonctionnalité:
 Description:
 Médias:
 Cas d'étude:

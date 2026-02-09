@@ -9,7 +9,7 @@ Parcours:
   - Accueil
 Récurrence:
   - 2 sur accueil
-Sections:
+Sections: 1
 Écrans:
   - "1"
 Cliques:

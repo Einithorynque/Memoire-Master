@@ -8,7 +8,7 @@ Cas d'étude:
 Parcours:
   - Accueil
 Récurrence:
-Sections:
+Sections: 1
 Écrans:
   - "0.2"
 Cliques:

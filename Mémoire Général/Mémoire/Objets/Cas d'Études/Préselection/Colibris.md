@@ -18,7 +18,6 @@ Pays:
 Créateur·ices:
   - "Hébergement: Hetzner"
 Technologies:
-  - "[[CMS]]"
   - Drupal
 Parcours:
 Avis:

@@ -32,7 +32,9 @@ aliases:
 Résumé:
   - Les affordances sont les relations par lesquelles des objets appellent l'action de sujets socialement situés
 ---
+L'affordance peut être un [[Cadre théorique]]. 
 
+Analyse thématique 
 ## Définitions
 
 ### Par [[James J. Gibson|J. J. Gibson]]

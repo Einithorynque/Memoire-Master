@@ -24,7 +24,6 @@ Créateur·ices:
   - "[[Alternatiba]]"
   - "Hébergement: Infomaniak"
 Technologies:
-  - "[[CMS]]"
   - "[[WordPress]]"
 Parcours:
   - Accueil

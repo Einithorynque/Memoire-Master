@@ -18,4 +18,4 @@ Complétion: false
 Type de fonctionnalité:
   - Se renseigner sur l'organisation
 ---
-Invite à [[Ouvrir des sites FNE locaux]] et d'associations membres.
+Invite à [[Naviguer vers des sites FNE locaux]] et d'associations membres.

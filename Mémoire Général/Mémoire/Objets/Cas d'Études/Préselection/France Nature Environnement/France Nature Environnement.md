@@ -22,7 +22,6 @@ Créateur·ices:
   - "Hébergement: https://boscop.fr/"
 Technologies:
   - Drupal
-  - "[[CMS]]"
 Parcours:
 Avis:
 Description:

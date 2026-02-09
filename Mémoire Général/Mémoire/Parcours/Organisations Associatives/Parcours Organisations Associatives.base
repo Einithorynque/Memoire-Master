@@ -5,9 +5,12 @@ views:
       and:
         - file.inFolder("Parcours/Organisations Associatives")
         - and:
-            - '!file.inFolder("Parcours/Organisations Associatives/Greenpeace/Media")'
-            - '!file.inFolder("Parcours/Organisations Associatives/Alternatiba/Media")'
-            - '!file.inFolder("Parcours/Organisations Associatives/France Nature Environnement/Media")'
+            - '!file.inFolder("Parcours/Organisations Associatives/Greenpeace/Medias")'
+            - '!file.inFolder("Parcours/Organisations Associatives/Alternatiba/Medias")'
+            - '!file.inFolder("Parcours/Organisations Associatives/France Nature Environnement/Medias")'
+            - "!file.inFolder(\"Parcours/Organisations Associatives/Agir pour l'environnement/Medias\")"
+            - '!file.inFolder("Parcours/Organisations Associatives/Colibris/Medias")'
+            - file.path != "Parcours/Organisations Associatives/Parcours Organisations Associatives.base"
     groupBy:
       property: Type de fonctionnalité
       direction: ASC

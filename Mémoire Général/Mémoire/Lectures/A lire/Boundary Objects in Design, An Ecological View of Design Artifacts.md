@@ -6,7 +6,7 @@ Sources:
 Auteurs·ices:
 Complétion:
 Avis:
-  - Très intéressant
+  - Plutôt intéressant
 Eco-Conceptions:
 Eco-Interactions:
 ---

@@ -35,3 +35,15 @@ Enfin d'autres formes d'actions sont parfois proposées par les organisations. E
 L'expérience des sites d'organisations associatives est donc d'abord celle d'une *demande*, la demande d'un don, seule action qui ne soit pas précédée pour les utilisateur·ices d'une demande de lecture. Dans ces sites la lecture est protéiforme et très présente. Des actualités aux renseignements, elle est demandée aux utilisateur·ices dans la moitié des fonctionnalités. Elle précède alors toujours d'autres formes d'actions. Celle de s'inscrire aux organisations d'abord, celle de se situer ensuite, enfin celle de signer des pétitions. Ces actions forment le répertoire principal des sites internet des organisations associatives, qui redirigent ensuite vers d'autres plateformes. Ainsi les sites officiels se limitent à un engagement écologique tourné d'abord vers la documentation. Comme si ceux si devaient suivre le format traditionnel de la page, sinon faire site ou application à part. La récurrence du format de carte semble ainsi se faire dans une sorte de compromis. En demandant aux utilisateur·ices de se situer, il propose un moyen de naviguer qui suit  l'idée de décentralisation à la racine de l'écologie politique. 
 
 
+## I. 1. b. Organisations Mixtes et Polyvalentes
+
+Le site de LVEL est construit comme une archive. 
+Exemple : la page d'accueil est consacré pour beaucoup à des archives d'actions passées. 
+Exemple 2 : dans le haut de page 4 liens ramène à cette forme de compte rendu (actualités comprises, le projet non compris)
+Cette façon d'archiver laisse penser à une tentative de légitimisassions de l'action d'abord.
+Elle invite à être socle de connaissances pour militer. 
+-> voir si lien avec un esthétique 
+
+Esthéthique de l'inconstance, de l'affiche de la pluralité dans 
+- le mélange de styles d'information
+- le fait que c'est style soient pas tout le temps bien utilisés (section on dirait des boutons ce n'en ai pas)
