@@ -1,22 +1,22 @@
 ---
 Type:
   - PARCOURS
-Description:
+Type de fonctionnalité:
+  - Partager sur les RS
+Description: Exemple sur page Sentinelle de la nature
 Médias:
 Cas d'étude:
   - "[[France Nature Environnement]]"
 Parcours:
-  - Accueil
   - Sentinelles de la Nature
 Récurrence:
-Sections: 7
+  - "1"
+Sections:
 Écrans:
+  - "0.2"
 Cliques:
   - "1"
-  - "2"
-Date de création:
+Date de création: 2026-02-09T16:36:00
 Réponse au problème: false
 Complétion: false
-Type de fonctionnalité:
-  - Suivre une infolettre
 ---

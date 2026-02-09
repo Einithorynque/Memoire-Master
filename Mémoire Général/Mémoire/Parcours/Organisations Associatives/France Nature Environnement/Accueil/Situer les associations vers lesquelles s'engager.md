@@ -20,4 +20,4 @@ Complétion: false
 Type de fonctionnalité:
   - Situer l'association
 ---
-Situé après [[Lire sur l'engagement bénévole]].
+Situé après [[Lire sur l'Engagement Bénévole]].

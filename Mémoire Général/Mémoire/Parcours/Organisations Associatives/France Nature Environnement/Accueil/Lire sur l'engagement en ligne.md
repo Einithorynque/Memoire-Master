@@ -18,4 +18,4 @@ Complétion: false
 Type de fonctionnalité:
   - Se renseigner pour agir
 ---
-Des liens invite à [[Télécharger sentinelle de la nature]], [[Lire une actualité ou un communiqué de presse]] et du monde et à [[S'abonner à l'Infolettre]].
+Des liens invite à [[Télécharger sentinelle de la nature]], [[Lire une Actualité ou un Communiqué de Presse]] et du monde et à [[S'abonner à l'Infolettre]].

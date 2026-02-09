@@ -19,4 +19,4 @@ Complétion: false
 Type de fonctionnalité:
   - S'inscrire à un groupe local
 ---
-Après [[Lire sur l'engagement bénévole]]
+Après [[Lire sur l'Engagement Bénévole]]

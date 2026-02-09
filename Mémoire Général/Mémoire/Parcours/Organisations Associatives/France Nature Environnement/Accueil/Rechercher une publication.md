@@ -2,13 +2,14 @@
 Type:
   - PARCOURS
 Type de fonctionnalité:
-  - Lire un Article
-Description:
+  - Rechercher du Contenu
+Description: Choix de thématiques, sujet, structure (quel asso), public, année, type
 Médias:
 Cas d'étude:
   - "[[France Nature Environnement]]"
 Parcours:
   - Accueil
+  - Toutes les actualités
 Récurrence:
   - "1"
 Sections: 4
@@ -16,8 +17,7 @@ Sections: 4
   - "0.2"
 Cliques:
   - "1"
-Date de création: 2026-02-09T16:25:00
+Date de création: 2026-02-09T16:10:00
 Réponse au problème: false
 Complétion: false
 ---
-Il est possible de [[Parcours/Organisations Associatives/France Nature Environnement/Accueil/Télécharger des Documents|Télécharger la Publication]]

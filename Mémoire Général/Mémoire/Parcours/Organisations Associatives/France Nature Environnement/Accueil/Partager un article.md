@@ -1,6 +1,8 @@
 ---
 Type:
   - PARCOURS
+Type de fonctionnalité:
+  - Partager sur les RS
 Description:
 Médias:
 Cas d'étude:
@@ -8,14 +10,11 @@ Cas d'étude:
 Parcours:
   - Accueil
 Récurrence:
-Sections: 5
+Sections:
 Écrans:
+  - "0.2"
 Cliques:
-  - "1"
-Date de création:
+Date de création: 2026-02-09T16:36:00
 Réponse au problème: false
 Complétion: false
-Type de fonctionnalité:
-  - Se renseigner pour agir
 ---
-Lire sur des raisons pour devenir Bénévole et
