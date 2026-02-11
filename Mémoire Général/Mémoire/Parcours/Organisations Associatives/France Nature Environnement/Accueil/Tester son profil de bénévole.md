@@ -8,13 +8,16 @@ Cas d'étude:
 Page:
   - Devenir Bénévole
 Récurrence:
-Sections: 0
+  - "1"
+Sections:
 Écrans:
 Cliques:
   - "2"
 Date de création: 2026-02-09T17:55:00
-Réponse au problème: false
-Complétion: false
+Réponse au problème: true
+Complétion: true
 1. Type de fonctionnalité principal:
-  - Se renseigner pour agir
+  - Passer un test
+2. Type de fonctionnalité secondaire:
+  - Remplir un formulaire
 ---

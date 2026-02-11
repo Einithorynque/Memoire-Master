@@ -8,6 +8,7 @@ Cas d'étude:
 Page:
   - Accueil
 Récurrence:
+  - header
 Sections: 1
 Écrans:
   - "0.2"

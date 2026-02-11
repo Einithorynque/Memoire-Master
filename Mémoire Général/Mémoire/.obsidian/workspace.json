@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parcours/Organisations Associatives/Alternatiba/Accueil/Rechercher des Articles.md",
+                "file": "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Rechercher une page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rechercher des Articles"
+              "title": "Rechercher une page"
             }
           },
           {
@@ -89,9 +89,22 @@
               "icon": "lucide-file",
               "title": "I. 2. La place de l'écologie politique dans le fonctionnement des sites internet qui la défendent"
             }
+          },
+          {
+            "id": "6c905ddf7df44423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Méthodes/Ma Méthodologie/Récurence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Récurence"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5
+    "width": 309.5
   },
   "right": {
     "id": "76a3ce8d89bea0cc",
@@ -266,35 +279,33 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4e64904323567e41",
+  "active": "60a9d6c088030f81",
   "lastOpenFiles": [
-    "Rechercher des pages.md",
-    "Parcours/Organisations Associatives/Alternatiba/Accueil/Rechercher des Articles.md",
-    "Notions/Subventions.md",
+    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Situer des évènements.md",
     "Parcours/Organisations Associatives/Parcours Organisations Associatives.base",
+    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Tester son profil de bénévole.md",
+    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Lire sur Sentinelles de la Nature.md",
+    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Télécharger une publication.md",
+    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Se renseigner sur un évènement.md",
+    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Rechercher des évènements.md",
+    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Situer des évènements.md",
+    "Templates/Template Parcours.md",
+    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Lire une publication.md",
+    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Lire une publication.md",
+    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Rechercher une page.md",
+    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Naviguer par des liens.md",
+    "Lectures/A lire/La mise en technologie des projets politiques. Une approche « orientée design » de la participation en ligne.md",
+    "Lectures/Retours/Écologie en résistance, les ONG ou la domestication de l'écologie.md",
+    "Méthodes/Ma Méthodologie/Récurence.md",
+    "Méthodes/Ma Méthodologie/Ma Méthode.md",
+    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Partager une page.md",
+    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Rechercher un évènement.md",
+    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Rechercher une publication.md",
+    "Parcours/Organisations Associatives/Alternatiba/Accueil/Rechercher des Articles.md",
+    "Rechercher des pages.md",
+    "Notions/Subventions.md",
     "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Lire sur les dons.md",
     "Templates/Template Notions.md",
-    "Templates/Template Parcours.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Ouvrir le plan du site.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Naviguer vers une opération en ligne.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Naviguer vers sentinelle de la nature (site).md",
-    "Lectures/Retours/Écologie en résistance, les ONG ou la domestication de l'écologie.md",
-    "Ecrits/M2/Mémoire/I. 2. La place de l'écologie politique dans le fonctionnement des sites internet qui la défendent.md",
-    "Lectures/A lire/La mise en technologie des projets politiques. Une approche « orientée design » de la participation en ligne.md",
-    "Objets/Cas d'Études/Préselection/France Nature Environnement/France Nature Environnement.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Partager une page.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Partager un article.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Télécharger sentinelle de la nature.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Tester son profil de bénévole.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Télécharger des Documents.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Situer les Évènements.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Situer les associations vers lesquelles s'engager.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Situer des Évènements Sentinelles de la Nature.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/S'abonner à l'Infolettre.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Rechercher un dossier.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Rechercher un article ou communiqué de presse.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Rechercher des pages.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Rechercher une publication.md",
     "Parcours/Organisations Associatives/Greenpeace/Medias/recapitulatif-2025-www.greenpeace.fr.jpg",
     "Objets/Cas d'Études.base",
     "Lectures/Récapitulatifs à lire.base",

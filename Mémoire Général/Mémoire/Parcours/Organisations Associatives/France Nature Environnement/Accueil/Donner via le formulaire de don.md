@@ -9,18 +9,18 @@ Page:
   - Accueil
   - Page de don
 Récurrence:
-  - "2"
+  - header
+  - "3"
 Sections:
-  - "1"
+  - header
   - "6"
-  - "|"
   - "1"
 Écrans:
 Cliques:
   - "1"
 Date de création:
-Réponse au problème: false
-Complétion: false
+Réponse au problème: true
+Complétion: true
 1. Type de fonctionnalité principal:
   - Donner
 Sources:

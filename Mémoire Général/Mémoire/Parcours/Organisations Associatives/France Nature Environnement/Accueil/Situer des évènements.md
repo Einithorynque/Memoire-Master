@@ -2,21 +2,23 @@
 Type:
   - PARCOURS
 1. Type de fonctionnalité principal:
-  - Situer l'association
+  - Situer avec une carte
 Description:
 Médias:
 Cas d'étude:
   - "[[France Nature Environnement]]"
 Page:
+  - Rechercher des évènements
   - Sentinelles de la Nature
 Récurrence:
-  - "1"
-Sections: 1
+  - "2"
+Sections:
 Écrans:
-  - "1"
 Cliques:
   - "1"
-Date de création: 2026-02-09T17:12:00
-Réponse au problème: false
-Complétion: false
+Date de création: 2026-02-11T16:38:00
+Réponse au problème: true
+Complétion: true
+2. Type de fonctionnalité secondaire:
+  - Situer
 ---

@@ -8,13 +8,17 @@ Cas d'étude:
 Page:
   - Accueil
 Récurrence:
-Sections: 3
+  - "1"
+Sections:
+  - "3"
 Écrans:
 Cliques:
   - "1"
 Date de création:
-Réponse au problème: false
-Complétion: false
+Réponse au problème: true
+Complétion: true
 1. Type de fonctionnalité principal:
   - Se renseigner
+2. Type de fonctionnalité secondaire:
+  - Lire sur l'écologie
 ---

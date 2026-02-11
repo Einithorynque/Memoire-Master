@@ -2,7 +2,7 @@
 Type:
   - PARCOURS
 1. Type de fonctionnalité principal:
-  - Se renseigner pour agir
+  - Se renseigner
 Description:
 Médias:
 Cas d'étude:
@@ -10,14 +10,19 @@ Cas d'étude:
 Page:
   - Sentinelles de la Nature
   - Agir en ligne
+  - Accueil
+  - Mécènes et partenaires
 Récurrence:
+  - "3"
 Sections:
 Écrans:
 Cliques:
   - "1"
 Date de création: 2026-02-09T17:13:00
-Réponse au problème: false
-Complétion: false
+Réponse au problème: true
+Complétion: true
+2. Type de fonctionnalité secondaire:
+  - Lire pour agir
 ---
 Sujet : 
 - Comment ça marche ?

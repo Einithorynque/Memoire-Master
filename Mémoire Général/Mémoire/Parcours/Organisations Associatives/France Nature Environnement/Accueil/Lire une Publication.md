@@ -10,14 +10,18 @@ Cas d'étude:
 Page:
   - Accueil
 Récurrence:
+  - "3"
   - "1"
-Sections: 4
+Sections:
+  - "3"
 Écrans:
   - "0.2"
 Cliques:
   - "1"
 Date de création: 2026-02-09T16:25:00
-Réponse au problème: false
-Complétion: false
+Réponse au problème: true
+Complétion: true
+2. Type de fonctionnalité secondaire:
+  - Lire sur l'écologie
 ---
-Il est possible de [[Parcours/Organisations Associatives/France Nature Environnement/Accueil/Télécharger des Documents|Télécharger la Publication]]
+Il est possible de [[Télécharger une publication|Télécharger la Publication]]

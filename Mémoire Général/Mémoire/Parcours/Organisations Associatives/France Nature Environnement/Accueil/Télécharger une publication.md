@@ -15,11 +15,11 @@ Sections:
   - "2"
 Cliques:
   - "2"
-Date de création:
-Réponse au problème: false
-Complétion: false
+Date de création: 2026-02-11T16:17:00
+Réponse au problème: true
+Complétion: true
 1. Type de fonctionnalité principal:
   - Télécharger des documents
 ---
-Après l'action d'[[Lire une Publications]]
+Après l'action d'[[Lire une publication]]
 Après [[Lire sur l'Engagement Bénévole]]

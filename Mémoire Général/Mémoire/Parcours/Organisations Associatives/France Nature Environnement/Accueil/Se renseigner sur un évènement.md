@@ -2,26 +2,24 @@
 Type:
   - PARCOURS
 1. Type de fonctionnalité principal:
-  - Donner
+  - Se renseigner
 2. Type de fonctionnalité secondaire:
   - Lire pour agir
+  - Situer avec une carte
+  - Naviguer vers un site tiers
 Description:
 Médias:
 Cas d'étude:
   - "[[France Nature Environnement]]"
 Page:
-  - La force de mon don
-  - Page de don
+  - Accueil
 Récurrence:
-  - "2"
+  - "1"
 Sections:
-  - "2"
-  - "4"
-  - "2"
   - "3"
 Écrans:
 Cliques:
-  - "1"
+  - "3"
 Date de création: 2026-02-11T14:52:00
 Réponse au problème: true
 Complétion: true

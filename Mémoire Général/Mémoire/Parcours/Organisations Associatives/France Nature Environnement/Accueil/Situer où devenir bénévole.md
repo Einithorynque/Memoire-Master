@@ -8,6 +8,7 @@ Cas d'étude:
 Page:
   - Devenir Bénévole
 Récurrence:
+  - "1"
 Sections: 4
 Écrans:
   - "1"
@@ -15,9 +16,11 @@ Cliques:
   - "1"
   - "2"
 Date de création:
-Réponse au problème: false
-Complétion: false
+Réponse au problème: true
+Complétion: true
 1. Type de fonctionnalité principal:
-  - Situer l'association
+  - Situer avec une carte
+2. Type de fonctionnalité secondaire:
+  - Lire sur l'organisation
 ---
 Situé après [[Lire sur l'Engagement Bénévole]].

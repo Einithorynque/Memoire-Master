@@ -2,7 +2,7 @@
 Type:
   - PARCOURS
 1. Type de fonctionnalité principal:
-  - Se renseigner pour agir
+  - Se renseigner
 Description:
 Médias:
 Cas d'étude:
@@ -18,4 +18,6 @@ Cliques:
 Date de création: 2026-02-09T18:02:00
 Réponse au problème: false
 Complétion: false
+2. Type de fonctionnalité secondaire:
+  - Lire pour agir
 ---

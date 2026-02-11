@@ -8,6 +8,7 @@ Cas d'étude:
 Page:
   - Accueil
 Récurrence:
+  - "2"
 Sections: 3
 Écrans:
 Cliques:

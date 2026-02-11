@@ -23,12 +23,17 @@ views:
       - Sections
       - Page
       - Complétion
+      - Réponse au problème
       - Cliques
       - Écrans
-    sort: []
+    sort:
+      - property: 2. Type de fonctionnalité secondaire
+        direction: DESC
     columnSize:
       note.Cas d'étude: 150
       note.Sections: 149
       note.Page: 135
-      note.Complétion: 53
+      note.Complétion: 33
+      note.Réponse au problème: 2
       note.Écrans: -144
+    rowHeight: medium
