@@ -5,7 +5,7 @@ Description:
 Médias:
 Cas d'étude:
   - "[[Greenpeace]]"
-Parcours:
+Page:
 Récurrence:
 Sections:
 Écrans:
@@ -14,6 +14,6 @@ Cliques:
 Date de création:
 Réponse au problème: false
 Complétion: false
-Type de fonctionnalité:
+1. Type de fonctionnalité principal:
   - Télécharger une application
 ---

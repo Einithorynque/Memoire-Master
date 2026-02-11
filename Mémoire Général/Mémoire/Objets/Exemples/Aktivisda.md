@@ -2,7 +2,7 @@
 Objets:
 Sources:
   - https://extinctionrebellion.aktivisda.earth/fr/
-Parcours:
+Page:
 aliases:
 Date de création:
 ---

@@ -5,7 +5,7 @@ Description:
 Médias:
 Cas d'étude:
   - "[[France Nature Environnement]]"
-Parcours:
+Page:
   - Accueil
 Récurrence:
 Sections: 1
@@ -16,6 +16,7 @@ Cliques:
 Date de création:
 Réponse au problème: false
 Complétion: false
-Type de fonctionnalité:
-  - Naviguer vers une Organisation Tiers
+1. Type de fonctionnalité principal:
+  - Naviguer vers l'extérieur
+2. Type de fonctionnalité secondaire: Naviguer vers un site tiers
 ---

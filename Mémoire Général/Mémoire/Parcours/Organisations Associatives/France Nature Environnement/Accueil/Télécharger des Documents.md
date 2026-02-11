@@ -5,9 +5,11 @@ Description:
 Médias:
 Cas d'étude:
   - "[[France Nature Environnement]]"
-Parcours:
-  - Accueil
+Page:
+  - Devenir Bénévole
+  - Publication
 Récurrence:
+  - "2"
 Sections:
 Écrans:
   - "2"
@@ -16,7 +18,7 @@ Cliques:
 Date de création:
 Réponse au problème: false
 Complétion: false
-Type de fonctionnalité:
+1. Type de fonctionnalité principal:
   - Télécharger des documents
 ---
 Après l'action d'[[Lire une Publications]]

@@ -13,7 +13,7 @@ Pays:
   - France
 Créateur·ices:
 Technologies:
-Parcours:
+Page:
 Avis:
 Description: Partie d'Aimeric Caron (très rattaché LFI)
 Date de création:

@@ -1,14 +1,17 @@
 ---
 Type:
   - PARCOURS
-Type de fonctionnalité:
+1. Type de fonctionnalité principal:
   - Partager sur les RS
 Description: Exemple sur page Sentinelle de la nature
 Médias:
 Cas d'étude:
   - "[[France Nature Environnement]]"
-Parcours:
+Page:
   - Sentinelles de la Nature
+  - Devenir Bénévole
+  - Agir en ligne
+  -  Associations adhérentes
 Récurrence:
   - "1"
 Sections:

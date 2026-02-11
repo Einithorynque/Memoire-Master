@@ -30,6 +30,8 @@
     "Situer": "multitext",
     "Réseaux Sociaux": "multitext",
     "Dispositifs info-communicationnels": "multitext",
-    "Type de fonctionnalité": "multitext"
+    "Type de fonctionnalité": "multitext",
+    "Sections": "multitext",
+    "2. Type de fonctionnalité secondaire": "multitext"
   }
 }

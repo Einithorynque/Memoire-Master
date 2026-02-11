@@ -6,7 +6,7 @@ Médias:
   - "[[accueil-rs-lesecologistes.jpg]]"
 Cas d'étude:
   - "[[Les écologistes]]"
-Parcours:
+Page:
   - Accueil
 Récurrence: 1
 Sections: 6

@@ -9,7 +9,7 @@ Themes:
   - "[[Partis Politiques Écologistes]]"
 Créateur·ices:
 Technologies:
-Parcours:
+Page:
 Avis:
 Description:
 Date de création:

@@ -25,7 +25,7 @@ Créateur·ices:
   - "Hébergement: Infomaniak"
 Technologies:
   - "[[WordPress]]"
-Parcours:
+Page:
   - Accueil
 Avis:
 Description:

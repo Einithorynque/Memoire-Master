@@ -5,7 +5,7 @@ Description:
 Médias:
 Cas d'étude:
   - "[[Greenpeace]]"
-Parcours:
+Page:
   - Accueil
 Récurrence:
   - 2 sur accueil
@@ -17,6 +17,6 @@ Cliques:
 Date de création:
 Réponse au problème: false
 Complétion: false
-Type de fonctionnalité:
+1. Type de fonctionnalité principal:
   - Rechercher du Contenu
 ---

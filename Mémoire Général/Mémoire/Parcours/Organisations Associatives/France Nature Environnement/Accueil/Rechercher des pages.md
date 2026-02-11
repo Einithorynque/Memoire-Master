@@ -5,9 +5,10 @@ Description: "Rechercher parmi : articles, dossiers, évènements, pages standar
 Médias:
 Cas d'étude:
   - "[[France Nature Environnement]]"
-Parcours:
+Page:
   - Accueil
 Récurrence:
+  - tout
 Sections: 1
 Écrans:
   - "0.2"
@@ -16,6 +17,6 @@ Cliques:
 Date de création:
 Réponse au problème: false
 Complétion: false
-Type de fonctionnalité:
-  - Rechercher du Contenu
+1. Type de fonctionnalité principal:
+  - Naviguer en interne
 ---

@@ -19,7 +19,7 @@ Créateur·ices:
   - "[[Vincent Verzat]]"
 Technologies:
   - "[[Cartes]]"
-Parcours:
+Page:
 Avis:
 Description:
 Date de création:

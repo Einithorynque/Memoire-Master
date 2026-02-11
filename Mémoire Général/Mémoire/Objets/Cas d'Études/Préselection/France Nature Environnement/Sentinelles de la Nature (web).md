@@ -14,7 +14,7 @@ Pays:
 Créateur·ices:
   - "[[Objets/Cas d'Études/Préselection/France Nature Environnement/France Nature Environnement]]"
 Technologies:
-Parcours:
+Page:
 Avis:
 Description:
 Date de création:

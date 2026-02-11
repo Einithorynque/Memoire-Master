@@ -9,7 +9,7 @@ Themes:
 Pays:
 Créateur·ices:
 Technologies:
-Parcours:
+Page:
 Avis:
 Description:
 Date de création:

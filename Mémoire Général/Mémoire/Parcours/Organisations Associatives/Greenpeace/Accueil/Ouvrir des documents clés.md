@@ -5,7 +5,7 @@ Description:
 Médias:
 Cas d'étude:
   - "[[Greenpeace]]"
-Parcours:
+Page:
   - Accueil
 Récurrence:
 Sections: 6
@@ -16,7 +16,7 @@ Cliques:
 Date de création:
 Réponse au problème: false
 Complétion: false
-Type de fonctionnalité:
+1. Type de fonctionnalité principal:
   - Se renseigner sur l'environnement
 ---
 Ouvrir car apparence fichier, on peut les [[Parcours/Organisations Associatives/Greenpeace/Accueil/Télécharger des Documents|Télécharger des Documents]].

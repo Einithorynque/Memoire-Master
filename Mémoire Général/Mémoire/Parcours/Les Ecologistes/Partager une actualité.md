@@ -4,7 +4,7 @@ Médias:
   - "[[actualites-exemple-liens-lesecologistes.jpg]]"
 Cas d'étude:
   - "[[Les écologistes]]"
-Parcours:
+Page:
   - Actualités 
 Récurrence: 1
 Date de création: 2025-09-23T11:21:00

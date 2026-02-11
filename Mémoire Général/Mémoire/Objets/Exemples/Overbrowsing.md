@@ -6,7 +6,7 @@ Themes:
 Avis:
 Description: Site qui a l'air de changer en fonction du tot de CO2 dans l'air.
 aliases:
-Parcours:
+Page:
 Date de création:
 Sources:
   - https://overbrowsing.com/

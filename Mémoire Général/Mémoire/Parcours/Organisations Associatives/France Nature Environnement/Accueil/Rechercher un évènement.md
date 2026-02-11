@@ -1,14 +1,14 @@
 ---
 Type:
   - PARCOURS
-Type de fonctionnalité:
+1. Type de fonctionnalité principal:
   - Rehercher des évènements
 Description: Voir la liste des évènements en cours sous forme de liste, de calendrier ou de carte. Pour se renseigner sur des évènements, souvent en présentiel.
 Médias:
   - "[[accueil-fne.asso.fr.jpg]]"
 Cas d'étude:
   - "[[France Nature Environnement]]"
-Parcours:
+Page:
   - Accueil
 Récurrence:
 Sections: 2

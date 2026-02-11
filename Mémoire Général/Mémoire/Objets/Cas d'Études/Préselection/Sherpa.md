@@ -23,7 +23,7 @@ Pays:
 Créateur·ices:
 Technologies:
   - https://clintagency.com/
-Parcours:
+Page:
 Avis:
 Description:
 Date de création:

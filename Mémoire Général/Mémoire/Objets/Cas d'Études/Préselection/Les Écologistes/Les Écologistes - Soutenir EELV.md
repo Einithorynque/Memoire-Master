@@ -10,7 +10,7 @@ Themes:
   - "[[Partis Politiques Écologistes]]"
 Créateur·ices:
 Technologies:
-Parcours:
+Page:
 Avis:
 Description:
 Date de création: 2025-09-21T18:52:00

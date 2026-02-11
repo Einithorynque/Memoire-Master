@@ -4,7 +4,7 @@ Type:
 Description:
 Médias:
 Cas d'étude:
-Parcours:
+Page:
 Récurrence:
 Sections:
 Écrans:

@@ -11,7 +11,7 @@ Médias:
   - "[[accueil-www.lvel.fr.jpg]]"
 Cas d'étude:
   - "[[LVEL - La voie est libre]]"
-Parcours:
+Page:
   - Accueil
 Récurrence:
 Sections: 1

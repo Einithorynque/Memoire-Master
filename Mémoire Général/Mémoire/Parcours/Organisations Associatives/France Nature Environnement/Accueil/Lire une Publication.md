@@ -1,13 +1,13 @@
 ---
 Type:
   - PARCOURS
-Type de fonctionnalité:
-  - Lire un Article
+1. Type de fonctionnalité principal:
+  - Se renseigner
 Description:
 Médias:
 Cas d'étude:
   - "[[France Nature Environnement]]"
-Parcours:
+Page:
   - Accueil
 Récurrence:
   - "1"

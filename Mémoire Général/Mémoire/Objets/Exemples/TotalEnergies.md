@@ -3,7 +3,7 @@ Objets:
   - "[[Sites Internet]]"
 Sources:
   - https://www.totalenergies.fr/
-Parcours:
+Page:
 aliases:
   - www.totalenergies.fr
   - https://www.totalenergies.fr/

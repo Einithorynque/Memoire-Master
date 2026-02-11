@@ -8,7 +8,7 @@ Médias:
   - "[[naviguer-site-header-lesecologistes.mp4]]"
 Cas d'étude:
   - "[[Les écologistes]]"
-Parcours: Accueil
+Page: Accueil
 Récurrence:
 Date de création: 2025-09-21T18:05:00
 Réponse au problème: false

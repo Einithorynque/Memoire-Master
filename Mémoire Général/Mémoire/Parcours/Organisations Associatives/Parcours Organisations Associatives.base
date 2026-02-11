@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.inFolder("Parcours/Organisations Associatives")
+        - file.inFolder("Parcours/Organisations Associatives/France Nature Environnement/Accueil")
         - and:
             - '!file.inFolder("Parcours/Organisations Associatives/Greenpeace/Medias")'
             - '!file.inFolder("Parcours/Organisations Associatives/Alternatiba/Medias")'
@@ -12,20 +12,23 @@ views:
             - '!file.inFolder("Parcours/Organisations Associatives/Colibris/Medias")'
             - file.path != "Parcours/Organisations Associatives/Parcours Organisations Associatives.base"
     groupBy:
-      property: Type de fonctionnalité
+      property: 1. Type de fonctionnalité principal
       direction: ASC
     order:
       - file.name
-      - Complétion
+      - 1. Type de fonctionnalité principal
+      - 2. Type de fonctionnalité secondaire
+      - Récurrence
       - Cas d'étude
-      - Parcours
+      - Sections
+      - Page
+      - Complétion
       - Cliques
       - Écrans
-      - Sections
-      - Récurrence
-      - Type de fonctionnalité
-      - Sources
     sort: []
     columnSize:
+      note.Cas d'étude: 150
+      note.Sections: 149
+      note.Page: 135
       note.Complétion: 53
-      note.Sections: 73
+      note.Écrans: -144

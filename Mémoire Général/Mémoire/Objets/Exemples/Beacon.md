@@ -6,7 +6,7 @@ Themes:
 Avis:
 Description: Mesure le tôt d'émission Carbonne des sites.
 aliases:
-Parcours:
+Page:
 Date de création:
 Sources:
   - https://digitalbeacon.co/report/lesecologistes-fr

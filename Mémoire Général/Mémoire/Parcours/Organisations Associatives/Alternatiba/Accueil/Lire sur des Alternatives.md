@@ -5,7 +5,7 @@ Description:
 Médias:
 Cas d'étude:
   - "[[Alternatiba]]"
-Parcours:
+Page:
   - Accueil
 Récurrence:
 Sections: 2
@@ -15,7 +15,7 @@ Cliques:
 Date de création:
 Réponse au problème: false
 Complétion: false
-Type de fonctionnalité:
+1. Type de fonctionnalité principal:
   - Se renseigner pour agir
 ---
 Le texte contient énormément de liens pour [[Naviguer vers des Alternatives]], et se fait ainsi le relais vers beaucoup d'autres sites d'organisations.

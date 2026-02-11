@@ -13,7 +13,7 @@ Pays:
   - France
 Créateur·ices:
 Technologies:
-Parcours:
+Page:
 Avis:
 Description:
 Date de création: 2025-11-18T14:00:00

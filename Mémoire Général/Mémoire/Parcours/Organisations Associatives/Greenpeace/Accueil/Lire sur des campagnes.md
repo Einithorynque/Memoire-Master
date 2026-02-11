@@ -5,7 +5,7 @@ Description:
 Médias:
 Cas d'étude:
   - "[[Greenpeace]]"
-Parcours:
+Page:
   - Accueil
 Récurrence:
 Sections: 5
@@ -16,7 +16,7 @@ Cliques:
 Date de création:
 Réponse au problème: false
 Complétion: false
-Type de fonctionnalité:
+1. Type de fonctionnalité principal:
   - Se renseigner sur l'organisation
 ---
 Les campagnes sont aussi liées à la fonctionnalité de [[Signer des pétitions]], mais celle ci est cachée si on ne découvre pas les campagnes à partir du lien Agir ou Nos Campagnes. Si on découvre les campagnes par la section éponyme sur l'accueil, on n'a d'abord que des information. 

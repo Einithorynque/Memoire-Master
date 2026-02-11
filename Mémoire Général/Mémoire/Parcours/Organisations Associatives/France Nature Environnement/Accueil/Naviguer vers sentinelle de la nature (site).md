@@ -5,7 +5,7 @@ Description:
 Médias:
 Cas d'étude:
   - "[[France Nature Environnement]]"
-Parcours:
+Page:
   - Accueil
 Récurrence:
 Sections: 3
@@ -15,6 +15,7 @@ Cliques:
 Date de création:
 Réponse au problème: false
 Complétion: false
-Type de fonctionnalité:
-  - Naviguer sur une Platforme
+1. Type de fonctionnalité principal:
+  - Naviguer vers l'extérieur
+2. Type de fonctionnalité secondaire: Naviguer sur une plateforme
 ---

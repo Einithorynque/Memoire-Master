@@ -9,7 +9,7 @@ Themes:
 Avis:
 Description:
 aliases:
-Parcours:
+Page:
 Date de création: 2025-11-25T16:05:00
 Sources:
   - https://www.thinkingwithmoss.net/

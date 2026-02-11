@@ -1,13 +1,13 @@
 ---
 Type:
   - PARCOURS
-Type de fonctionnalité:
+1. Type de fonctionnalité principal:
   - Rechercher du Contenu
 Description: Différencies les actualités des actualités d'un mouvement local
 Médias:
 Cas d'étude:
   - "[[France Nature Environnement]]"
-Parcours:
+Page:
   - Accueil
   - Toutes les actualités
 Récurrence:

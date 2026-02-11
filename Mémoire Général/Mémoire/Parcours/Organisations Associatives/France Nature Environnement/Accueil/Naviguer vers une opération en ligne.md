@@ -5,7 +5,7 @@ Description:
 Médias:
 Cas d'étude:
   - "[[France Nature Environnement]]"
-Parcours:
+Page:
   - Accueil
 Récurrence:
 Sections: 4
@@ -16,7 +16,7 @@ Cliques:
 Date de création:
 Réponse au problème: false
 Complétion: false
-Type de fonctionnalité:
+1. Type de fonctionnalité principal:
   - Naviguer sur une Platforme
 ---
 Naviguer vers Opération de recensement des hérissons.

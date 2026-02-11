@@ -5,17 +5,23 @@ Description:
 Médias:
 Cas d'étude:
   - "[[France Nature Environnement]]"
-Parcours:
+Page:
   - Accueil
+  - Page de don
 Récurrence:
-Sections: 1
+  - "2"
+Sections:
+  - "1"
+  - "6"
+  - "|"
+  - "1"
 Écrans:
 Cliques:
   - "1"
 Date de création:
 Réponse au problème: false
 Complétion: false
-Type de fonctionnalité:
+1. Type de fonctionnalité principal:
   - Donner
 Sources:
   - https://soutenir.fne.asso.fr/?mtm_campaign=annuel&mtm_source=web&mtm_medium=header&mtm_placement=bouton

@@ -10,7 +10,7 @@ Avis:
   - Moyen intéressant
 Description: Curation de sites web à la faible taille, empreinte carbone.
 aliases:
-Parcours:
+Page:
 Date de création:
 Sources:
   - https://lowwwcarbon.com/showcase/

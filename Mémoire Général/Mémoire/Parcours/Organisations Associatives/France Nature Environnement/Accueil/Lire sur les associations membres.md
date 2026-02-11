@@ -5,8 +5,8 @@ Description:
 Médias:
 Cas d'étude:
   - "[[France Nature Environnement]]"
-Parcours:
-  - Accueil
+Page:
+  -  Associations adhérentes
 Récurrence:
 Sections: 4
 Écrans:
@@ -15,7 +15,7 @@ Cliques:
 Date de création:
 Réponse au problème: false
 Complétion: false
-Type de fonctionnalité:
+1. Type de fonctionnalité principal:
   - Se renseigner sur l'organisation
 ---
 Invite à [[Naviguer vers des sites FNE locaux]] et d'associations membres.

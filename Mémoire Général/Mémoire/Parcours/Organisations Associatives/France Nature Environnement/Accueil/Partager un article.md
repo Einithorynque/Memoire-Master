@@ -1,13 +1,13 @@
 ---
 Type:
   - PARCOURS
-Type de fonctionnalité:
+1. Type de fonctionnalité principal:
   - Partager sur les RS
 Description:
 Médias:
 Cas d'étude:
   - "[[France Nature Environnement]]"
-Parcours:
+Page:
   - Accueil
 Récurrence:
 Sections:

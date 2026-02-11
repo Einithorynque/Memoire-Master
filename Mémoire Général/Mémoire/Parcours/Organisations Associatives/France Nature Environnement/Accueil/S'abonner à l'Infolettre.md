@@ -5,9 +5,11 @@ Description:
 Médias:
 Cas d'étude:
   - "[[France Nature Environnement]]"
-Parcours:
+Page:
   - Accueil
   - Sentinelles de la Nature
+  - Agir en ligne
+  -  Associations adhérentes
 Récurrence:
 Sections: 7
 Écrans:
@@ -17,6 +19,6 @@ Cliques:
 Date de création:
 Réponse au problème: false
 Complétion: false
-Type de fonctionnalité:
+1. Type de fonctionnalité principal:
   - Suivre une infolettre
 ---

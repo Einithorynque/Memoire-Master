@@ -22,7 +22,7 @@ Pays:
   - France
 Créateur·ices:
 Technologies:
-Parcours:
+Page:
 Avis:
 Description:
 Date de création:

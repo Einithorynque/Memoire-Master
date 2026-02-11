@@ -7,7 +7,7 @@ Cas d'étude:
   - "[[Les écologistes]]"
   - "[[Les Écologistes - Carte]]"
   - "[[Écolo! (web)]]"
-Parcours:
+Page:
   - Accueil
   - Communauté
 Récurrence:

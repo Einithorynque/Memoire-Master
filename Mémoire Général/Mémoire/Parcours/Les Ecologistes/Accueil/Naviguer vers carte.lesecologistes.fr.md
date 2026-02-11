@@ -5,7 +5,7 @@ Médias:
 Cas d'étude:
   - "[[Les écologistes]]"
   - "[[Les Écologistes - Carte]]"
-Parcours:
+Page:
   - Accueil
 Récurrence:
   - 1/7

@@ -2,7 +2,7 @@
 Objets:
 Sources:
   - https://dynamicland.org/2024/Intro/
-Parcours:
+Page:
 aliases:
 Date de création:
 Themes:

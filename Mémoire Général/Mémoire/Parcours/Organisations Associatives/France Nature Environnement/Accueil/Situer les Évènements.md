@@ -1,12 +1,13 @@
 ---
 Type:
   - PARCOURS
-Type de fonctionnalité:
+1. Type de fonctionnalité principal:
   - Situer l'association
 Description:
 Médias:
 Cas d'étude:
-Parcours:
+  - "[[France Nature Environnement]]"
+Page:
   - Accueil
 Récurrence:
 Sections:

@@ -7,7 +7,7 @@ Médias:
   - "[[naviguer-hors-site-donner-lesecologistes.mp4]]"
 Cas d'étude:
   - "[[Les écologistes]]"
-Parcours:
+Page:
   - Accueil
   - Rejoindre
 Récurrence:

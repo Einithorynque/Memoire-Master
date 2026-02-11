@@ -11,7 +11,7 @@ Médias:
   - "[[communaute-personnes-lesecologistes.jpg]]"
 Cas d'étude:
   - "[[Les écologistes]]"
-Parcours:
+Page:
   - Accueil
   - Actualités 
   - Communauté

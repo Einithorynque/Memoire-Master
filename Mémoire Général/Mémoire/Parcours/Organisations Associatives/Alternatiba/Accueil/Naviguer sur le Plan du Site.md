@@ -7,7 +7,7 @@ Médias:
   - "[[plan-site-code-alternatiba.eu.png]]"
 Cas d'étude:
   - "[[Alternatiba]]"
-Parcours:
+Page:
   - Accueil
 Récurrence:
   - 1/8
@@ -19,7 +19,7 @@ Cliques:
 Date de création: 2026-01-04T18:07:00
 Réponse au problème: false
 Complétion: true
-Type de fonctionnalité:
+1. Type de fonctionnalité principal:
   - Naviguer sur le Plan du Site
 ---
 

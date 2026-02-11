@@ -8,11 +8,12 @@ Médias:
   - "[[page-recherche-alternatiba.eu.jpg]]"
 Cas d'étude:
   - "[[Alternatiba]]"
-Parcours:
+Page:
   - Accueil
 Récurrence:
   - 4/8
-Sections: 1
+Sections:
+  - "1"
 Écrans:
   - "0.2"
 Cliques:
@@ -22,7 +23,7 @@ Réponse au problème: true
 Complétion: true
 aliases:
   - Rechercher des Pages
-Type de fonctionnalité:
+1. Type de fonctionnalité principal:
   - Rechercher du Contenu
 ---
 ## Description 

@@ -10,7 +10,7 @@ Médias:
   - "[[don-2025-alternatiba.eu.jpg]]"
 Cas d'étude:
   - "[[Alternatiba]]"
-Parcours:
+Page:
   - Accueil
 Récurrence:
 Sections: 1
@@ -20,7 +20,7 @@ Cliques:
 Date de création: 2026-01-04T15:23:00
 Réponse au problème: true
 Complétion: false
-Type de fonctionnalité:
+1. Type de fonctionnalité principal:
   - Naviguer sur le Site
 ---
 Sur toute la page d'accueil d'alternatiba.eu : des boutons, des textes et des bannières sont des liens plus ou moins mis en avant qui invitent à naviguer vers d'autres pages.

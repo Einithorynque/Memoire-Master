@@ -5,7 +5,7 @@ Description:
 Médias:
 Cas d'étude:
   - "[[Alternatiba]]"
-Parcours:
+Page:
   - Autre
 Récurrence:
 Sections:
@@ -14,6 +14,6 @@ Cliques:
 Date de création:
 Réponse au problème: false
 Complétion: false
-Type de fonctionnalité:
-  - Jeu
+1. Type de fonctionnalité principal:
+  - Jouer
 ---

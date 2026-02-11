@@ -13,7 +13,7 @@ Pays:
   - Allemagne
 Créateur·ices:
 Technologies:
-Parcours:
+Page:
 Avis:
 Description:
 Date de création:

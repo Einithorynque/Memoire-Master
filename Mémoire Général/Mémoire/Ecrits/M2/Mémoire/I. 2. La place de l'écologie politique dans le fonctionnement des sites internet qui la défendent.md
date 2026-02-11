@@ -1,4 +1,14 @@
 
+
+# Plan I.1.a : 
+
+Importance du don : 
+
+Les pages dédiée à des campagnes de don montre bien l'institutionnalisation de la recherche de subvention dans la nature des organisations associatives en ligne. Ce sont des mouvement de communication forts. Ils sont mis en avant sur les accueils, ce qui n'est pas le cas des campagnes d'actions par exemple.
+
+[[Écologie en résistance, les ONG ou la domestication de l'écologie]] décrit la manière dont la recherche de subvention à des acteurs étatiques et privées "circonscrire la contestation". C'est ce que je retrouve dans l'analyse de ces sites : une circonscription des possibilités d'actions et de passage de discours par des formes nouvelles, au profit d'interface plus polissées, dans les clous. 
+
+---
 ## I. 1. a. Organisations associatives
 
 Les outils de navigation mis à disposition par les sites internet ont été le point d'accroche de mon analyse. Les fonctionnalités de navigation ne sont pas en soit conçues pour répondre au problème de l'écologie politique ==cf==, plutôt pour faire fonctionner les sites internet. Leur rôle est justement de structurer cette réponse. Les hauts de pages sont ainsi des révélateurs d'une hiérarchie de ce qui devrait fonctionner sur un site. Ce faisant, les sites des organisations associatives que j'ai étudiés ont tous privilégiés certaines fonctionnalités ou certaines pages dans leur navigation. Autant d'invites qui privilégient ceux à quoi leur utilisateur·ices *devraient* d'abord accéder, ce que *devrait* d'abord être pour eux l'écologie politique en ligne. 

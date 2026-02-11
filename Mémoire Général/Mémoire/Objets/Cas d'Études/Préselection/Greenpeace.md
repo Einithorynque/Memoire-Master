@@ -17,7 +17,7 @@ Créateur·ices:
   - "Hébergement: Google Inc."
 Technologies:
   - "[[WordPress]]"
-Parcours:
+Page:
 Avis:
 Description:
 Date de création:

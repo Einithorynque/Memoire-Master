@@ -5,7 +5,7 @@ Médias:
 Cas d'étude:
   - "[[Les écologistes]]"
   - "[[Les Écologistes - Soutenir EELV]]"
-Parcours:
+Page:
   - Accueil
 Récurrence: 2
 Date de création: 2025-09-21T18:41:00

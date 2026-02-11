@@ -5,7 +5,7 @@ Description:
 Médias:
 Cas d'étude:
   - "[[Alternatiba]]"
-Parcours:
+Page:
   - Accueil
 Récurrence:
 Sections: 1
@@ -20,6 +20,6 @@ aliases:
   - Rejoindre un Groupe Alternatiba
 Sources:
   - https://alternatiba.eu/rejoindre-un-groupe/
-Type de fonctionnalité:
+1. Type de fonctionnalité principal:
   - S'inscrire à un groupe local
 ---

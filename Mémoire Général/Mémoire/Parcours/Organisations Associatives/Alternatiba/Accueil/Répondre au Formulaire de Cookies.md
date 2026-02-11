@@ -5,7 +5,7 @@ Description:
 Médias:
 Cas d'étude:
   - "[[Alternatiba]]"
-Parcours:
+Page:
   - Accueil
 Récurrence:
 Sections:
@@ -15,5 +15,7 @@ Cliques:
 Date de création:
 Réponse au problème: false
 Complétion: false
+1. Type de fonctionnalité principal:
+  - Répondre aux cookies
 ---
 Pas vraiment un fonctionnalité.

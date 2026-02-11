@@ -23,7 +23,7 @@ Créateur·ices:
   - "Hébergement: Cloudfare"
 Technologies:
   - Next.js
-Parcours:
+Page:
 Avis:
 Description:
 Date de création:

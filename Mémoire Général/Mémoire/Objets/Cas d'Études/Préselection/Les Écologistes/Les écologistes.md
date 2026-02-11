@@ -11,7 +11,7 @@ Themes:
   - "[[Partis Politiques Écologistes]]"
 Créateur·ices:
 Technologies:
-Parcours:
+Page:
   - "[[Parcours Les Ecologistes.base]]"
 Avis:
 Description:

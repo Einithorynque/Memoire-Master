@@ -5,7 +5,7 @@ Description:
 Médias:
 Cas d'étude:
   - "[[Greenpeace]]"
-Parcours:
+Page:
   - Accueil
 Récurrence:
 Sections: 4
@@ -16,6 +16,6 @@ Cliques:
 Date de création: 2026-01-08T14:47:00
 Réponse au problème: false
 Complétion: false
-Type de fonctionnalité:
+1. Type de fonctionnalité principal:
   - S'inscrire à un groupe local
 ---

@@ -8,7 +8,7 @@ Themes:
 Avis:
 Description: Site web qui réagit aux conditions météorologiques et astronomiques à OXFORD, England.
 aliases:
-Parcours:
+Page:
 Date de création:
 Sources:
   - https://fig.studio/

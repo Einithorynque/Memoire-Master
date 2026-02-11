@@ -5,7 +5,7 @@ Description:
 Médias:
 Cas d'étude:
   - "[[Alternatiba]]"
-Parcours:
+Page:
   - Accueil
 Récurrence:
 Sections: 1
@@ -22,7 +22,7 @@ aliases:
 Sources:
   - https://don.alternatiba.eu/faisundon?utm_campaign=cfa25_alt&utm_medium=web&utm_source=alternatiba.eu&utm_content=header
   - https://don.alternatiba.eu/nous-soutenir
-Type de fonctionnalité:
+1. Type de fonctionnalité principal:
   - Donner
 ---
 

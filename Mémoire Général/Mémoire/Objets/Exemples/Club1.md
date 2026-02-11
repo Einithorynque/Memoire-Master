@@ -2,7 +2,7 @@
 Objets:
 Sources:
   - https://club1.fr/le-club
-Parcours:
+Page:
 aliases:
 Date de création:
 ---

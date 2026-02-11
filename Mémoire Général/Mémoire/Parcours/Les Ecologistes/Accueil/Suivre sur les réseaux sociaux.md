@@ -4,7 +4,7 @@ Médias:
   - "[[accueil-rs-lesecologistes.jpg]]"
 Cas d'étude:
   - "[[Les écologistes]]"
-Parcours:
+Page:
   - Accueil
   - Actualités 
   - Communauté

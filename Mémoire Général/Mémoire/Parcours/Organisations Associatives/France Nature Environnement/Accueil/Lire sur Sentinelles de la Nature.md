@@ -1,14 +1,15 @@
 ---
 Type:
   - PARCOURS
-Type de fonctionnalité:
+1. Type de fonctionnalité principal:
   - Se renseigner pour agir
 Description:
 Médias:
 Cas d'étude:
   - "[[France Nature Environnement]]"
-Parcours:
+Page:
   - Sentinelles de la Nature
+  - Agir en ligne
 Récurrence:
 Sections:
 Écrans:
@@ -30,5 +31,5 @@ Sujet :
 - [[Situer des Évènements Sentinelles de la Nature]]
 - [[Naviguer vers sentinelle de la nature (site)]]
 - [[Télécharger sentinelle de la nature]]
-- [[Donner à l'organisation]]
+- [[Donner via le formulaire de don]]
 - [[Partager une page]]

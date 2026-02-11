@@ -5,7 +5,7 @@ Médias:
 Cas d'étude:
   - "[[Les écologistes]]"
   - "[[Écolo! (web)|Écolo!]]"
-Parcours:
+Page:
   - Accueil
 Récurrence:
   - 2/7

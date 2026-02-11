@@ -5,8 +5,8 @@ Description:
 Médias:
 Cas d'étude:
   - "[[France Nature Environnement]]"
-Parcours:
-  - Accueil
+Page:
+  - Devenir Bénévole
 Récurrence:
 Sections: 6
 Écrans:
@@ -16,7 +16,7 @@ Cliques:
 Date de création:
 Réponse au problème: false
 Complétion: false
-Type de fonctionnalité:
+1. Type de fonctionnalité principal:
   - S'inscrire à un groupe local
 ---
 Après [[Lire sur l'Engagement Bénévole]]

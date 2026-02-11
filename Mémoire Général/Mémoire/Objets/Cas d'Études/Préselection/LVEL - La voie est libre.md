@@ -21,7 +21,7 @@ Créateur·ices:
 Technologies:
   - "[[Wix]]"
   - "[[Change.org]]"
-Parcours:
+Page:
 Avis:
 Description:
 Date de création:

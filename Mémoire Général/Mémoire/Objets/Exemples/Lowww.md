@@ -6,7 +6,7 @@ Themes:
 Avis:
 Description:
 aliases:
-Parcours:
+Page:
 Date de création:
 Sources:
   - https://lowww.directory/

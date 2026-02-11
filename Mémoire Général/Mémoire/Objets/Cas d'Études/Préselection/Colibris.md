@@ -19,7 +19,7 @@ Créateur·ices:
   - "Hébergement: Hetzner"
 Technologies:
   - Drupal
-Parcours:
+Page:
 Avis:
 Description:
 Date de création:

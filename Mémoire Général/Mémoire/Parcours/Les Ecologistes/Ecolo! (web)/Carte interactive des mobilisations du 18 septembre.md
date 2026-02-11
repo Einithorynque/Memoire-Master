@@ -12,7 +12,7 @@ Médias:
   - "[[carte18-filtre-bug-actions.lesecologistes.mp4]]"
 Cas d'étude:
   - "[[Écolo! (web)]]"
-Parcours:
+Page:
   - Accueil
 Date de création: 2025-09-21T19:05:00
 ---

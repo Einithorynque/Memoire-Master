@@ -10,7 +10,7 @@ Médias:
 Cas d'étude:
   - "[[Les Écologistes - Carte]]"
   - "[[Les écologistes]]"
-Parcours:
+Page:
   - Carte
 Récurrence: 2
 Date de création: 2025-09-22T19:04:00

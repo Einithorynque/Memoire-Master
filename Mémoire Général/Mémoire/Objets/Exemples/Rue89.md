@@ -6,7 +6,7 @@ Themes:
 Avis:
 Description:
 aliases:
-Parcours:
+Page:
 Date de création: 2026-02-06T12:02:00
 Sources:
   - https://www.rue89strasbourg.com/municipales-2026-ecologie-rechauffement-climat-377709
