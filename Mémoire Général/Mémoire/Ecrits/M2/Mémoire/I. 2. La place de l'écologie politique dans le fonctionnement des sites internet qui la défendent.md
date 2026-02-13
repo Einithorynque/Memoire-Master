@@ -2,11 +2,62 @@
 
 # Plan I.1.a : 
 
-Importance du don : 
+Une tension entre autopromotion et inclusion des utilisateurs dans les luttes. 
 
-Les pages dédiée à des campagnes de don montre bien l'institutionnalisation de la recherche de subvention dans la nature des organisations associatives en ligne. Ce sont des mouvement de communication forts. Ils sont mis en avant sur les accueils, ce qui n'est pas le cas des campagnes d'actions par exemple.
+ ==il y a les actions proposées (renseigner, agir) et ce qu'elles disent (leur sujet ou objectif : l'autopromotion, agir pour l'environnement etc.)==
+
+1. Proportion au renseignement face aux autre forme d'actions
+
+Dans ces sites se renseigner est l'action la plus proposée
+
+Trois sujet vers lesquels les sites amènent à se renseigner :  se renseigner pour agir, sur l'écologie et sur l'organisation. 
+
+
+2.  L'auto promotion prend le dessus
+
+La présence de l'auto promotion dans les sites d'organisation associatives est à penser en degré. J'estime que l'autopromotion prend le dessus mais il faut relativiser ce constat. Elle le fait en étant en part presque égal (60%) avec d'autres objectifs de renseignement / action.  
+
+==J'aborde l'arborescence==
+
+Le constat est assez similaire dans les sections des pages d'accueil. Si les sujets des sections sont variés et incluent l'écologie ou des manière d'agir, les sections qui invitent à se renseigner sur l'organisation sont souvent placées en avant (Colibris, Greenpeace, FNE). ==Conclusion== Cependant une section qui prend souvent le dessus c'est celle des actualités, qui elle n'a pas comme sujet prédominent les associations. 
+
+La fonctionnalité de partage de page s'intègre à ce phénomène.
+
+Le format en article est un mode de renseignement très privilégiés par les organisations associatives. Il est intéressant une grande majorité des articles que j'ai pu relever dans les pages d'accueil invitent à se renseigner sur l'écologie et plus rarement sur la politique en général. ==Conclusion== Cependant les articles sont des publications temporaires, à l'opposé de page fixes, qui ont elles plutôt tendance à parler des associations. 
+
+Le vocabulaire employé construit ce cadrage sur les organisations. Beaucoup de titres ont pour sujet "nous". (Greenpeace sur tout l'accueil, Colibris d'abord le nous, Agir surtout dans son header) (moins le cas chez Alternatiba, pas chez FNE) ==Conclusion== Si on regarde les hauts de pages, les nous est souvent présent. Même sur des sites qui n'ont pas tendances à avoir pour principal sujet l'association qu'ils défendent, ils apparaissent. C'est le cas d'agir. L'utilisation de la première personne du pluriel devient dans les hauts de page révélateur de la proportion des sites à parler d'eux même.
+
+Figure. Haut de page
+
+Il y a une plus grande proportion à l'auto promotion dans les hauts de pages ==Conclusion== Le bouton de don est un invariant dans tous les header
+
+==Passage important sur le don, point final du parcours de sites qui sont d'abord fait pour eux même (d'où la présence dans le header)== 
+
+Le bouton de don est toujours mis en avant par sa forme et son positionnement en fait le point final d'un parcours sur le site. ==Faire une comparaison avec les sites de grands pollueurs==. "Un constat qui vient brouiller les différences idéologiques entre ces organisations en faveur d'une marchandisation de l'écologiste. 🥸"
+
+Le don est une des seule action directement accessible sur les pages d'accueil, qui ne demande pas une lecture préalable. 
+
+==Les formulaires en question => Analyse des dark pattern==
+
+Les pages dédiée à des campagnes de don montre bien l'institutionnalisation de la recherche de subvention dans la nature des organisations associatives en ligne. Ce sont des mouvement de communication forts. Ils sont mis en avant sur les accueils, ce qui n'est pas le cas des campagnes d'actions par exemple. ==exemple Colibris==
 
 [[Écologie en résistance, les ONG ou la domestication de l'écologie]] décrit la manière dont la recherche de subvention à des acteurs étatiques et privées "circonscrire la contestation". C'est ce que je retrouve dans l'analyse de ces sites : une circonscription des possibilités d'actions et de passage de discours par des formes nouvelles, au profit d'interface plus polissées, dans les clous. 
+
+3. Des formes d'actions, agir avec plutôt que pour les organisations associatives 
+
+==À l'instar des dons, quand les organisations associatives Agir dans les formulaires==
+S'inscrire aux organisations. Le formulaire est un format asymétrique. Il est descendant 
+Les pétitions
+ à des campagnes ou à des évènements 
+Les tests
+
+Un fort passage des possibilités d'action vers des plateformes. 
+
+Les plateformes sont utilisés comme valorisation des associations dans les pages dédiés à leur autopromotion. Est ce que les associations produisent ce genre de plateformes comme des objets de communications ==[[Sites web politiques et nouvelles formes de participation en ligne, cas de « la France en commun », « M l’avenir » et « Idées en commun »]]==, plutôt que de réels plateformes pour agir ??? Comment répondre à cette question.. il faudrait analyser les plateformes et comparer si évolution des résultats. 
+
+
+
+
 
 ---
 ## I. 1. a. Organisations associatives

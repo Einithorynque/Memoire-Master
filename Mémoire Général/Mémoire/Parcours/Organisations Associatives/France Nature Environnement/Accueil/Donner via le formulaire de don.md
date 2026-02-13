@@ -25,5 +25,7 @@ Complétion: true
   - Donner
 Sources:
   - https://soutenir.fne.asso.fr/?mtm_campaign=annuel&mtm_source=web&mtm_medium=header&mtm_placement=bouton
+2. Type de fonctionnalité secondaire:
+  - Remplir un formulaire
 ---
 Directement lié à [[Consulter les rapports d'activité]] 

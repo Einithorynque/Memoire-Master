@@ -15,8 +15,8 @@ Sections: 1
 Cliques:
   - "2"
 Date de création:
-Réponse au problème: false
-Complétion: false
+Réponse au problème: true
+Complétion: true
 1. Type de fonctionnalité principal:
   - Naviguer vers l'extérieur
 2. Type de fonctionnalité secondaire: Naviguer vers un site tiers

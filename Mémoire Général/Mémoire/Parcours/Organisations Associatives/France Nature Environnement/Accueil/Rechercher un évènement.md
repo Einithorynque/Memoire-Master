@@ -2,7 +2,7 @@
 Type:
   - PARCOURS
 1. Type de fonctionnalité principal:
-  - Rehercher des évènements
+  - Naviguer en interne
 Description: Voir la liste des évènements en cours sous forme de liste, de calendrier ou de carte. Pour se renseigner sur des évènements, souvent en présentiel.
 Médias:
   - "[[accueil-fne.asso.fr.jpg]]"
@@ -19,6 +19,8 @@ Cliques:
   - "2"
 Date de création: 2026-02-09T15:44:00
 Réponse au problème: false
-Complétion: false
+Complétion: true
+2. Type de fonctionnalité secondaire:
+  - Rechercher un évènement
 ---
 [[Situer des évènements]] sous forme de carte.

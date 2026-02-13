@@ -8,15 +8,16 @@ Cas d'étude:
 Page:
   -  Associations adhérentes
 Récurrence:
+  - "1"
 Sections: 4
 Écrans:
 Cliques:
   - "1"
 Date de création:
-Réponse au problème: false
-Complétion: false
+Réponse au problème: true
+Complétion: true
 1. Type de fonctionnalité principal:
-  - Situer avec une carte
+  - Se renseigner
 2. Type de fonctionnalité secondaire:
   - Lire sur l'organisation
 ---

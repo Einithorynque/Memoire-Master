@@ -8,14 +8,17 @@ Cas d'étude:
 Page:
   - Accueil
 Récurrence:
+  - "3"
 Sections: 5
 Écrans:
 Cliques:
   - "1"
 Date de création:
-Réponse au problème: false
-Complétion: false
+Réponse au problème: true
+Complétion: true
 1. Type de fonctionnalité principal:
-  - S'inscrire dans un groupe local
+  - Se renseigner
+2. Type de fonctionnalité secondaire:
+  - Lire sur l'organisation
 ---
 Lié à [[Donner via le formulaire de don]]

@@ -5,6 +5,7 @@ Type:
   - Donner
 2. Type de fonctionnalité secondaire:
   - Lire pour agir
+  - Lire sur l'organisation
 Description:
 Médias:
 Cas d'étude:

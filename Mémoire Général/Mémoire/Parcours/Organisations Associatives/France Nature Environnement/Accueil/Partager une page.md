@@ -13,13 +13,12 @@ Page:
   - Agir en ligne
   -  Associations adhérentes
 Récurrence:
-  - "1"
 Sections:
 Écrans:
   - "0.2"
 Cliques:
   - "1"
 Date de création: 2026-02-09T16:36:00
-Réponse au problème: false
-Complétion: false
+Réponse au problème: true
+Complétion: true
 ---

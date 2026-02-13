@@ -21,5 +21,5 @@ Date de création:
 Réponse au problème: true
 Complétion: true
 1. Type de fonctionnalité principal:
-  - Suivre une infolettre
+  - S'abonner à l'Infolettre
 ---

@@ -6,7 +6,9 @@ Médias:
 Cas d'étude:
   - "[[France Nature Environnement]]"
 Page:
-  - Accueil
+  - Sentinelles de la Nature
+  - Agir en ligne
+  - "[[Parcours Les Ecologistes.base]]"
 Récurrence:
   - "2"
 Sections: 3
@@ -14,8 +16,8 @@ Sections: 3
 Cliques:
   - "2"
 Date de création:
-Réponse au problème: false
-Complétion: false
+Réponse au problème: true
+Complétion: true
 1. Type de fonctionnalité principal:
   - Naviguer vers l'extérieur
 2. Type de fonctionnalité secondaire: Naviguer sur une plateforme

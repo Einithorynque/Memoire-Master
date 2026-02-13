@@ -18,7 +18,7 @@ Sections: 4
 Cliques:
   - "1"
 Date de création: 2026-02-09T16:10:00
-Réponse au problème: true
+Réponse au problème: false
 Complétion: true
 2. Type de fonctionnalité secondaire:
   - Rechercher du contenu

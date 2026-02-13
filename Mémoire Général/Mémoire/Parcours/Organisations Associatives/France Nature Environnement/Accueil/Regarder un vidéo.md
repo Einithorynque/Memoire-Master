@@ -2,7 +2,7 @@
 Type:
   - PARCOURS
 1. Type de fonctionnalité principal:
-  - Regarder un vidéo
+  - Se renseigner
 Description:
 Médias:
 Cas d'étude:
@@ -14,8 +14,12 @@ Récurrence:
 Sections:
 Écrans:
 Cliques:
-  - "1"
+  - "2"
 Date de création: 2026-02-09T18:01:00
-Réponse au problème: false
-Complétion: false
+Réponse au problème: true
+Complétion: true
+2. Type de fonctionnalité secondaire:
+  - Regarder un vidéo
+  - Lire pour agir
+  - Lire sur l'écologie
 ---

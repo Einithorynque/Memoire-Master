@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Lectures/A lire\"  ",
@@ -46,6 +46,6 @@
   "repelStrength": 9.41787941787942,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.03218414749615679,
+  "scale": 0.19769490758610037,
   "close": false
 }
