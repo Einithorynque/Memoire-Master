@@ -19,12 +19,14 @@ Sections:
 Cliques:
   - "1"
 Date de création: 2026-01-04T18:56:00
-Réponse au problème: true
+Réponse au problème: false
 Complétion: true
 aliases:
   - Rechercher des Pages
 1. Type de fonctionnalité principal:
-  - Rechercher du Contenu
+  - Naviguer en interne
+2. Type de fonctionnalité secondaire:
+  - Rechercher du contenu
 ---
 ## Description 
 

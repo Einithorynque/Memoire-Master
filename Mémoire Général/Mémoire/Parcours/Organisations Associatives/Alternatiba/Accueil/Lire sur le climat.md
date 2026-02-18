@@ -4,22 +4,22 @@ Type:
 Description:
 Médias:
 Cas d'étude:
-  - "[[France Nature Environnement]]"
+  - "[[Alternatiba]]"
 Page:
-  - Devenir Bénévole
+  - Accueil
 Récurrence:
-  - "1"
+  - header
 Sections:
 Écrans:
 Cliques:
-  - "2"
-Date de création: 2026-02-09T17:55:00
+  - "1"
+Date de création: 2026-02-15T19:48:00
 Réponse au problème: true
 Complétion: true
 1. Type de fonctionnalité principal:
-  - Passer un test
-2. Type de fonctionnalité secondaire:
-  - Remplir un formulaire
   - Se renseigner
+2. Type de fonctionnalité secondaire:
+  - Lire sur l'écologie
   - Lire pour agir
+  - Lire sur l'organisation
 ---

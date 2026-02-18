@@ -6,42 +6,20 @@
       {
         "id": "12a4784b462e9f1e",
         "type": "tabs",
+        "dimension": 79.49488875526157,
         "children": [
-          {
-            "id": "60a9d6c088030f81",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Parcours/Organisations Associatives/Parcours Organisations Associatives.base",
-                "viewName": "Complétées"
-              },
-              "icon": "lucide-table",
-              "title": "Parcours Organisations Associatives"
-            }
-          },
           {
             "id": "37ca55bbebd7fffa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Suivis/Suivi 13.02.md",
+                "file": "Ecrits/M2/Mémoire/I. 2. a. Organisations associatives, une tension entre autopromotion et inclusion des utilisateurs dans les luttes..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Suivi 13.02"
-            }
-          },
-          {
-            "id": "3ffe1a76bd4824a2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "I. 2. a. Organisations associatives, une tension entre autopromotion et inclusion des utilisateurs dans les luttes."
             }
           },
           {
@@ -59,21 +37,67 @@
             }
           },
           {
-            "id": "f7880dacf5b19e69",
+            "id": "60a9d6c088030f81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Retours/L’esthétique de l’engagement écologique. L’impensé des politiques environnementales.md",
+                "file": "Parcours/Organisations Associatives/Alternatiba/Accueil/Lire pour Découvrir le Mouvement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L’esthétique de l’engagement écologique. L’impensé des politiques environnementales"
+              "title": "Lire pour Découvrir le Mouvement"
+            }
+          },
+          {
+            "id": "8f945b55722a6a0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notions/Mécanismes de l'Affordance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mécanismes de l'Affordance"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "2fa1c759fd76295a",
+        "type": "tabs",
+        "dimension": 20.505111244738426,
+        "children": [
+          {
+            "id": "df9497e00c135b4d",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Parcours/Organisations Associatives/Parcours Organisations Associatives.base",
+                "viewName": "Complétées + Répondant au problème"
+              },
+              "icon": "lucide-table",
+              "title": "Parcours Organisations Associatives"
+            }
+          },
+          {
+            "id": "19acd8a494eb92f9",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Lectures/Récapitulatifs à lire.base",
+                "viewName": "Textes"
+              },
+              "icon": "lucide-table",
+              "title": "Récapitulatifs à lire"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "76a3ce8d89bea0cc",
@@ -248,53 +273,53 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4e64904323567e41",
+  "active": "37ca55bbebd7fffa",
   "lastOpenFiles": [
-    "Suivis/Suivi 05.02.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Lire une actualité ou un communiqué de presse.md",
-    "Suivis/Suivi 13.02.md",
-    "Parcours/Organisations Associatives/Parcours Organisations Associatives.base",
-    "Suivis/Encadrant·es/Suivi 12.02.md",
-    "Suivis/Récapitulatif Suivis.base",
-    "Lectures/Retours/L’esthétique de l’engagement écologique. L’impensé des politiques environnementales.md",
     "Ecrits/M2/Mémoire/I. 2. La place de l'écologie politique dans le fonctionnement des sites internet qui la défendent.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Lire sur l'engagement bénévole.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Lire une publication.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Lire sur l'organisation.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Lire sur les associations membres.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/S'engager à une mission de bénévolat.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/S'inscrire à l'organisation.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Situer des évènements.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Tester son profil de bénévole.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Lire sur Sentinelles de la Nature.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Télécharger une publication.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Se renseigner sur un évènement.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Rechercher des évènements.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Situer des évènements.md",
-    "Templates/Template Parcours.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Rechercher une page.md",
-    "Parcours/Organisations Associatives/France Nature Environnement/Accueil/Naviguer par des liens.md",
-    "Lectures/A lire/La mise en technologie des projets politiques. Une approche « orientée design » de la participation en ligne.md",
-    "Lectures/Retours/Écologie en résistance, les ONG ou la domestication de l'écologie.md",
-    "Méthodes/Ma Méthodologie/Récurence.md",
-    "Méthodes/Ma Méthodologie/Ma Méthode.md",
-    "Parcours/Organisations Associatives/Greenpeace/Medias/recapitulatif-2025-www.greenpeace.fr.jpg",
-    "Objets/Cas d'Études.base",
+    "Ecrits/M2/Mémoire/I. 2. a. Organisations associatives, une tension entre autopromotion et inclusion des utilisateurs dans les luttes..md",
+    "Notions/Mécanismes de l'Affordance.md",
+    "Parcours/Organisations Associatives/Parcours Organisations Associatives.base",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/Lire des actualités.md",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/Lire des communiqués de presse.md",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/Adhérer en donnant.md",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/Commander une plaquette.md",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/Consulter l'historique d'une campagne.md",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/Consulter ses reçus fiscaux.md",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/Consulter son historique de don et de prélèvements.md",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/Contacter l'organisation.md",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/Créer un compte.md",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/Lire sur une campagne.md",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/Lire un article extérieur.md",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/Naviguer par des liens.md",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/Modifier ses informations personnelles.md",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/Naviguer vers une plateforme.md",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/Partager une pétition.md",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/Participer à une enquête publique.md",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/Participer aux assemblées générales.md",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/Répondre à une enquête.md",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/S'abonner à l'organisation sur les RS.md",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/S'inscrire à un défis.md",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/Signer une pétition.md",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/Télécharger des ressources.md",
     "Lectures/Récapitulatifs à lire.base",
-    "Parcours/Organisations Associatives/Colibris/Medias/accueil-www.colibris-lemouvement.org.jpg.part",
-    "Parcours/Organisations Associatives/Colibris/Medias/accueil-www.colibris-lemouvement.org.jpg",
-    "Parcours/Organisations Associatives/Colibris/Medias/dons-2025-soutenir.colibris-lemouvement.org.jpg.part",
-    "Parcours/Organisations Associatives/Colibris/Medias/dons-2025-soutenir.colibris-lemouvement.org.jpg",
-    "Parcours/Organisations Associatives/Colibris/Medias",
-    "Parcours/Organisations Associatives/Colibris/Images",
-    "Parcours/Organisations Associatives/Colibris/Nouveau dossier",
-    "Objets/Exemples/Media/fautes-articles-www.rue89strasbourg.com.jpg",
-    "Objets/Exemples/Media/commentaires-articles-www.rue89strasbourg.com.jpg.part",
-    "Objets/Exemples/Media/commentaires-articles-www.rue89strasbourg.com.jpg",
-    "Parcours/Organisations Associatives/Agir pour l'environnement/Medias/campagne-bio-carte-www.agirpourlenvironnement.org.jpg",
-    "Parcours/Organisations Associatives/Agir pour l'environnement/Medias/capagne-pret-2-agirpourlenvironnement-form.jotform.com.jpg",
-    "Parcours/Organisations Associatives/Agir pour l'environnement/Medias/campagne-pret-1-www.agirpourlenvironnement.org.jpg",
-    "Parcours/Organisations Associatives/Agir pour l'environnement/Medias/accueil-www.agirpourlenvironnement.org.jpg",
-    "Parcours/Organisations Autonomes et Indépendantes/LVEL – La voie est libre/Images/petition/petition-etape-1-formulaire-www.change.org.jpg"
+    "Lectures/Récapitulatifs lectures.md",
+    "Parcours/Organisations Associatives/Alternatiba/Medias/recherche-alternatiba.eu.mp4",
+    "Parcours/Organisations Associatives/Alternatiba/Medias/rejoindre-un-groupe-alternatiba.eu.jpg",
+    "Parcours/Organisations Associatives/Alternatiba/Medias/plan-site-code-alternatiba.eu.png",
+    "Parcours/Organisations Associatives/Alternatiba/Medias/plan-site-alternatiba.eu.png",
+    "Parcours/Organisations Associatives/Alternatiba/Medias/page-recherche-alternatiba.eu.jpg",
+    "Parcours/Organisations Associatives/Alternatiba/Medias/footer-alternatiba.eu.png",
+    "Parcours/Organisations Associatives/Alternatiba/Medias/don-alternatiba.eu.jpg",
+    "Parcours/Organisations Associatives/Alternatiba/Medias/don-2025-alternatiba.eu.jpg",
+    "Parcours/Organisations Associatives/Alternatiba/Medias/accueil-ecran1-alternatiba.eu.jpg",
+    "Parcours/Organisations Associatives/Alternatiba/Medias/accueil-alternatiba.eu.jpg",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/publication-www.agirpourlenvironnement.org.jpg.part",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/publication-www.agirpourlenvironnement.org.jpg",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Des cantines bio j'en veux",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Medias/inscrire-défis-form.jotform.com.jpg.part",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Medias/petition-budget-haies.agirpourlenvironnement.org.jpg.part",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Medias/dépliant_campagne_alimentation_Ehpad_Hopitaux_Agirpourlenvrionnement.pdf",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Medias/campagne-bio-www.agirpourlenvironnement.org.jpg.part",
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Medias/campagnes-www.agirpourlenvironnement.org.jpg.part"
   ]
 }

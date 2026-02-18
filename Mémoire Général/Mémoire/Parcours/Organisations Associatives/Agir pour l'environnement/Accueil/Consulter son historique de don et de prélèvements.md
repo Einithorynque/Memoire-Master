@@ -2,18 +2,22 @@
 Type:
   - PARCOURS
 1. Type de fonctionnalité principal:
+  - Donner
 2. Type de fonctionnalité secondaire:
+  - Gérer son don
 Description:
 Médias:
+  - "[[espace-personel-iam.agirpourlenvironnement.org.jpg]]"
 Cas d'étude:
-  - "[[Alternatiba]]"
+  - "[[Agir pour l'environnement]]"
 Page:
-  - Accueil
+  - Espace adhérent
 Récurrence:
 Sections:
 Écrans:
 Cliques:
-Date de création:
+  - "2"
+Date de création: 2026-02-13T14:52:00
 Réponse au problème: true
-Complétion: false
+Complétion: true
 ---

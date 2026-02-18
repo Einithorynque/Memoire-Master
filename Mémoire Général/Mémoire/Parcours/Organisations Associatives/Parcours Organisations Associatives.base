@@ -3,7 +3,7 @@ views:
     name: Complétées + Répondant au problème
     filters:
       and:
-        - file.inFolder("Parcours/Organisations Associatives/France Nature Environnement/Accueil")
+        - file.inFolder("Parcours/Organisations Associatives")
         - and:
             - '!file.inFolder("Parcours/Organisations Associatives/Greenpeace/Medias")'
             - '!file.inFolder("Parcours/Organisations Associatives/Alternatiba/Medias")'
@@ -30,12 +30,12 @@ views:
       - Cliques
       - Écrans
     sort:
+      - property: 2. Type de fonctionnalité secondaire
+        direction: DESC
       - property: file.name
         direction: ASC
       - property: Récurrence
         direction: DESC
-      - property: 2. Type de fonctionnalité secondaire
-        direction: ASC
     columnSize:
       note.Cas d'étude: 150
       note.Sections: 149

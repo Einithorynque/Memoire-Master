@@ -10,7 +10,7 @@ Cas d'étude:
 Page:
   - Accueil
 Récurrence:
-  - 1/8
+  - header
 Sections: 1
 Écrans:
   - "0.2"
@@ -20,7 +20,9 @@ Date de création: 2026-01-04T18:07:00
 Réponse au problème: false
 Complétion: true
 1. Type de fonctionnalité principal:
-  - Naviguer sur le Plan du Site
+  - Naviguer en interne
+2. Type de fonctionnalité secondaire:
+  - Naviguer sur le plan du site
 ---
 
 ## Description
