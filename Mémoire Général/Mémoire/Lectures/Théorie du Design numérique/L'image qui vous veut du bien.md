@@ -3,6 +3,7 @@ Type:
   - LECTURE
 Themes:
 Sources:
+  - Zotero
 Objets:
 Auteurs·ices:
   - Stéphane Degoutin

@@ -21,15 +21,17 @@ views:
       - file.name
       - 1. Type de fonctionnalité principal
       - 2. Type de fonctionnalité secondaire
+      - Cliques
       - Récurrence
       - Cas d'étude
       - Sections
       - Page
       - Complétion
       - Réponse au problème
-      - Cliques
       - Écrans
     sort:
+      - property: 1. Type de fonctionnalité principal
+        direction: DESC
       - property: 2. Type de fonctionnalité secondaire
         direction: DESC
       - property: file.name
@@ -37,6 +39,7 @@ views:
       - property: Récurrence
         direction: DESC
     columnSize:
+      note.Récurrence: 134
       note.Cas d'étude: 150
       note.Sections: 149
       note.Page: 245

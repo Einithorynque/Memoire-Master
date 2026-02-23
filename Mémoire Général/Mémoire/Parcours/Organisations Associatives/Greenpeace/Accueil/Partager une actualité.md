@@ -1,21 +1,21 @@
 ---
 Type:
   - PARCOURS
+1. Type de fonctionnalité principal:
+  - Partager sur les RS
+2. Type de fonctionnalité secondaire:
 Description:
 Médias:
 Cas d'étude:
   - "[[Greenpeace]]"
 Page:
-  - Qui sommes nous
+  - Accueil
 Récurrence:
-  - "1"
 Sections:
 Écrans:
 Cliques:
-  - "1"
-Date de création: 2026-02-18T16:57:00
+  - "2"
+Date de création: 2026-02-18T18:11:00
 Réponse au problème: true
 Complétion: true
-1. Type de fonctionnalité principal:
-  - S'abonner à l'Infolettre
 ---

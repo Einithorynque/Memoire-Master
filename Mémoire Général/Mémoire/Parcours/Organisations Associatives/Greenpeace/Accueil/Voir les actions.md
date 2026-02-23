@@ -2,18 +2,24 @@
 Type:
   - PARCOURS
 1. Type de fonctionnalité principal:
+  - Se renseigner
 2. Type de fonctionnalité secondaire:
+  - Naviguer en interne
+  - Lire pour agir
 Description:
 Médias:
 Cas d'étude:
-  - "[[Bure Bure Bure]]"
+  - "[[Greenpeace]]"
 Page:
-  - Accueil
+  - Agir avec Greenpeace
 Récurrence:
+  - header
+  - "1"
 Sections:
 Écrans:
 Cliques:
-Date de création:
+  - "1"
+Date de création: 2026-02-18T16:51:00
 Réponse au problème: true
-Complétion: false
+Complétion: true
 ---

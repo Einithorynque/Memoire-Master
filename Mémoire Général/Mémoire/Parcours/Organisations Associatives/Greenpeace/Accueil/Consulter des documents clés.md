@@ -6,19 +6,22 @@ Médias:
 Cas d'étude:
   - "[[Greenpeace]]"
 Page:
-  - Agir
+  - Accueil
+  - Nos Campagnes
 Récurrence:
-  - "1"
+  - "2"
 Sections:
 Écrans:
+  - "0.5"
 Cliques:
-  - "3"
-Date de création: 2026-02-18T17:56:00
+  - "1"
+Date de création: 2026-02-18T17:32:00
 Réponse au problème: true
 Complétion: true
 1. Type de fonctionnalité principal:
-  - Naviguer vers l'extérieur
+  - Se renseigner
 2. Type de fonctionnalité secondaire:
-  - Naviguer sur une plateforme
-  - Télécharger une application
+  - Lire sur l'écologie
+  - Distribuer des supports de comm.
 ---
+On peut [[[Télécharger des documents]]]

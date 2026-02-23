@@ -2,18 +2,23 @@
 Type:
   - PARCOURS
 1. Type de fonctionnalité principal:
+  - Télécharger des documents
 2. Type de fonctionnalité secondaire:
+  - Imprimer des supports de comm.
+  - Distribuer des supports de comm.
 Description:
 Médias:
 Cas d'étude:
-  - "[[Bure Bure Bure]]"
+  - "[[Greenpeace]]"
 Page:
-  - Accueil
+  - Agir
 Récurrence:
+  - "1"
 Sections:
 Écrans:
 Cliques:
-Date de création:
+  - "3"
+Date de création: 2026-02-18T18:04:00
 Réponse au problème: true
-Complétion: false
+Complétion: true
 ---

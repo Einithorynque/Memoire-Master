@@ -8,15 +8,17 @@ Cas d'étude:
 Page:
   - Accueil
 Récurrence:
-Sections: 6
+Sections: 8
 Écrans:
-  - "0.5"
+  - "0.2"
 Cliques:
   - "1"
 Date de création:
 Réponse au problème: false
 Complétion: false
 1. Type de fonctionnalité principal:
-  - Lire un Article
+  - Se renseigner
+2. Type de fonctionnalité secondaire:
+  - Lire sur l'écologie
+  - Lire sur l'organisation
 ---
-Ouvrir car apparence fichier, on peut [[Parcours/Organisations Associatives/Greenpeace/Accueil/Télécharger des Documents|Télécharger des Documents]].

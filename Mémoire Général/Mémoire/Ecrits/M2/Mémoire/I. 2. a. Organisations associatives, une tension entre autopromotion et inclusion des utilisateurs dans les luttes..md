@@ -1,66 +1,47 @@
 
-Questions :
-
-- Il y a les actions proposées (se renseigner, agir autrement) et ce qu'elles disent (leur sujet: l'autopromotion de l'organisation, l'écologie etc.) -> le plan a l'air satisfaisant en faisant un petit ping pong 
-
-- Autre mot pour autopromotion : self-centered ? -> ==c'est bien autopromotion==
-
-
 ## Une proportion aux renseignements face aux autres formes d'actions
 
 ==Définir les organisation étudiées ?==
 
-Les sites d'organisations associatives étudiés invitent à une action majoritaire : se renseigner. L'action apparait être la plus offerte par leur fonctionnalités. Souvent, se sont plusieurs fonctionnalités par site qui invitent à se renseigner, formant un agrégat vers cette action, alors que les autres fonctionnalités des sites ont tendance à ne pas partager de manière redondante un même objectif. Les sites multiplient ainsi les formes éditoriales pour en sommes toujours la même action. Sur les pages d'accueils je suis souvent invité à lire différentes formes d'articles qui coexistent : actualités, communiqués de presse et documents plus éditorialisés, voir rapports. Une fois sur les pages à vocation explicatives s'alternent ensuite différents médias : textes, vidéos. <!-- impression de pouvoir en dire plus : c'est rare que différents manière d'agir soit proposé, sauf pour s'inscrire qui a souvent carte plus formulaire ?  -->
+Les sites d'organisations associatives étudiés invitent à une action majoritaire : se renseigner. L'action apparait être la plus offerte par leur fonctionnalités. Souvent, se sont plusieurs ==fonctionnalités== par site qui invitent à se renseigner, formant un agrégat vers cette action, alors que les autres fonctionnalités des sites ont tendance à ne pas partager de manière redondante un même objectif. Les sites multiplient en effet les formes pour cette même action. Les nombreux formats de type "articles" en sont un exemple, sur les pages d'accueils je suis souvent invité à lire différentes formes d'articles qui coexistent : actualités, communiqués de presse, documents plus éditorialisés, voir rapports (FNE, Greenpeace, Agir pour l'Environnement). Dans les pages qui servent à se renseigner s'alternent aussi différents médias : textes, vidéos, redirection vers des publication au format pdf.. Se renseigner occupe ainsi beaucoup d'espace sur ces sites, autant en nombre de page dans les arborescences, qu'en nombre de sections occupées sur ces pages <!-- Figure 1 -->. Or ces possibilités sont par leur multiplication autant de *demandes* qui construisent ce que devraient être l'action militante écologiste en ligne : se renseigner. 
 
-==Figure 1== Arborescences des pages d'accueil, proportion des section à inviter à se renseigner en couleur. 
+<!-- Figure 1 : Arborescences des pages d'accueil, proportion des section à inviter à se renseigner en couleur. -->
 
-<!-- Explication de l'exemple -->. ==Si dans ces exemples les pages d'accueil invitent proportionnellement plus à naviguer pour se renseigner, un autre phénomène est visible. En plus d'être une action très présente se renseigner précède souvent les liens vers d'autres formes d'actions.== <!-- supprimable -->
+Si les sites d'organisations associatives invitent à d'autres formes d'actions, leurs parcours inviteront toujours d'abord à se renseigner. Les pages qui invitent à se renseigner apparaissent souvent en avant dans les parcours de navigation. Ce phénomène est visible dans les hauts de page <!-- Figure 2 -->. Il l'est aussi dans les pages d'accueil, où la première section est pour la majorité du corpus attribuée aux articles d'actualités (Colibris, France Nature Environnement, Greenpeace). <!-- Exemple possible des campagnes de Greenpeace -->. Même sur les pages dédiées à d'autres actions, avant d'agir il faut très souvent d'abord se renseigner. Ainsi dans la majorité des pages pour s'inscrire aux organisations, les formulaires d'inscription sont au bas de pages parfois précédés par plusieurs écrans de contenu pour se renseigner avant d'agir (Alternatiba, Colibris, France Nature Environnement). 
+%%Sur le site de Greenpeace il y a aussi des campagnes. Elles excitent sous deux formes. Se sont à la fois des pététion à signer, vers lesquelles la page Nos campagnes du haut de page redirige. Mais les campagnes prennent aussi la formes de nombreux cours articles à leur propos. Or dans la page d'accueil l. On entre donc d'abord dans le parcours utilisateur des campagne sous un angle : se renseigner sur l'organisation.%%
+Symptomatique, même le site d'Agir pour l'Environnement, qui met en avant dans son accueil une campagne à laquelle il est possible de participer en ligne, met en forme cette campagne d'abord comme un objet de renseignement. Elle est présentée dans l'accueil sous la forme d'un texte de revendication et d'un bouton "Lire la suite", sans aucune mention des autres actions qu'elle rend possible, ici répondre à une enquête. Toutes les campagnes sont aussi accompagnées d'une image décorative de remplissage dite image de stock. Ce choix iconographique rappelle l'esthétique des articles « pièges à clics », et participent à l'effacement de sujets d'action et d'un caractère concret.  sont souvent effacés [[L'image qui vous veut du bien]]. 
+Puis, même sur la page de la campagne les actions possibles sont reléguées à la marge de l'écran, le texte de revendication prenant les deux autres tiers. Ces campagnes me sont d'abord présentée et c'est peut être là un problème. Ce sont des objets qui puisqu'ils sont conçus comme devant d'abord se présenter, demandent d'abord à ce que je me renseigne. La notice prend le dessus sur l'objet et bride son potentiel d'action. 
+Puisque se renseigner précède toute forme d'action, parfois les écrase dans la proportion des pages, ces autres actions sont presque découragées. Leur importance semble moindre face à celle de se documenter. Les campagnes peuvent très bien se faire sans nous, puisqu'elles sont d'abord sujet à se documenter.  ==Me parait faux==
+%%Les sites internet des organisations associatives sont utilisés comme des dispositifs éditoriaux. Ils s'alignent avec une certaine histoire du web <!-- développer -->, de la "page" internet. Par là, ils ne profitent que peu des possibilités d'interactions et de mise en commun proposées par le web. 
+==lire démocratie internet==.%%
 
-Se renseigner précède les autres formes d'actions en plus d'être une action très présente. Les pages qui invitent à se renseigner apparaissent souvent en avant dans les parcours de navigation. Ce phénomène est visible dans les hauts de page <!-- appel figure header -->, il l'est aussi dans les pages d'accueil, où en première section sont privilégiés les articles d'actualités pour plus de la moitié du corpus. Articles qui, par leur différents formats, occupent parfois plusieurs écrans comme sur les accueil de France Nature Environnement ou de Greenpeace. De plus même sur les pages dédiées à d'autres actions que se renseigner, celles-ci sont souvent précédées par des renseignements. Dans la majorité des pages pour s'inscrire aux organisations la mise en page relègue les formulaire d'inscription en bas de pages, parfois repoussés par plusieurs écrans de contenu pour se renseigner avant d'agir. Exception à ces constats les sites d'Alternatiba et d'Agir pour l'Environnement choisissent de présenter en première section de leur accueil d'autres actions. Pourtant, si Agir pour l'Environnement demande par exemple de naviguer vers une campagne récente à laquelle il sera possible de participer en ligne, même dans ce cas la mise en page de manière à encourager d'abord à se renseigner. Sur la page d'accueil la campagne est présentée dans la forme du renseignement avec un texte de présentation et un bouton "Lire la suite". En ça, elle ne se distingue pas d'un article. Une fois sur la page, les actions possibles sont reléguées à un à côté en marge à droite de l'écran, le texte de présentation prenant les deux autre tiers.
+<!-- Figure 2 : Haut de page moyen et proportion du renseignement  -->
 
-Pour agir pour l'environnement, pas de chance même les actions reprennent une forme éditorial, et lire avant d'agir sur le pages de campagne. 
+L'action de donner échappe pourtant dans tous les sites à cette dynamique où se renseigner prévaut. Nous reviendrons plus en détail sur cette action clé de voûte des sites d'organisations écologistes, mais donner agit comme une exception. L'action se place en faux des exemples cités plut tôt, elle précède celle de se renseigner : et dans l'arborescence et dans sa mise en page. Elle est ainsi l'action qui demande d'être effectuée en première dans les parcours de tous les sites, par sa forme de bouton et sa place dans le haut de page <!-- Figure 2 -->. Parfois elle est une des seules actions, hors se renseigner, clairement nommée et annoncée à un clic de la page d'accueil là où les autres sont souvent cachées derrière un lien à la taxonomie globale : "j'agis". Le parcours pour donner fut même le plus raccourcie possible chez FNE et Greenpeace, où le formulaire de don ne se trouve pas sur une autre page mais, au clic, s'ouvre dans une modale : une fenêtre qui va s'afficher au dessus de la page courante qui, elle, est grisée. Donner échappe autant dans l'arborescence à la prévalence de se renseigner que dans sa mise en page. Dans toutes les pages de dons, les formulaires précèdent toujours les renseignements quand il y en a.  Cela montre bien qu'une alternative au diptyque *se renseigner - agir autrement* est possible et employée. Demander à se renseigner avant d'agir n'est donc pas une précaution à laquelle les organisations associatives souscrivent pour toutes les actions. 
 
+Se renseigner avant d'agir encadre énormément les autres actions. Elles sont comme recouverte pas celles-ci dans certaines mises en pages, ce qui peut être vu comme une forme de découragement. L'exemple du don pourtant montre qu'une action existe sans cette forte précaution. ==Je pause l'hypothèse ou le constat ?==. Je pense que tout semble dépendre du réel sujet de l'action. Si la proportion au renseignement peut être vue comme une forme de garde fou, de contrôle sur les autres formes d'actions utilisateur (direct ou indirect), donner y échappe car dans tout les cas l'action de donner revient à transferer du potentiel d'action vers les organisations, de les conforter comme sujet.  
 
+Quand je donne, mon action est de fait sous le contrôle des organisations, les soutenir c'est les conforte dans leur rôle de sujet d'action. 
 
-L'utilisateur au second plan 
-Ainsi les sites d'organisations associatives, pourtant seule échappe à cette dynamique l'action de donner.
-Sauf exception notable,
-<!-- figure -header -->
-
-Nous reviendrons à cette action clé de voûte des sites d'organisations écologistes. Mais constatons déjà que donner agit comme une exception : l'action précède celle de se renseigner, et dans l'arborescence et dans sa mise en page. D'abord, elle est l'action qui demande d'être effectuée en première dans les parcours de tous les sites, par sa forme de bouton et sa place dans le haut de page <!-- re appel figure -header -->. Parfois elle est une des seules actions, hors se renseigner, clairement nommée et annoncée à un clic de la page d'accueil là où les autres sont souvent cachées derrière un lien à la taxonomie globale : "j'agis". Le parcours pour donner fut même le plus raccourcie possible chez FNE et Greenpeace, où le formulaire de don ne se trouve pas sur une autre page mais, au clic, s'ouvre dans une modale : une fenêtre qui va s'afficher au dessus de la page courante qui, elle, est grisée. Donner échappe autant dans l'arborescence à la prévalence de se renseigner que dans sa mise en page. Dans toutes les pages de dons, les formulaires précèdent toujours les renseignements, quand il y en a.  Cela montre bien qu'une alternative au diptyque se renseigner, interagir est possible et employée. Que demander à se renseigner avant d'agir n'est pas une précautions auxquelles les organisations associatives souscriraient toujours par raison éthique. ==Tout semble dépendre du sujet des fonctionnalités, quand on donne à nouveau on agit plutôt au second plan, laissant faire les organisations==. 
-
-- sur les pages d'action, don vs s'inscrire à l'organisation
-
-
-
+Dans le cas de se renseigner et de donner, c'est l'organisation qui agit
 
 
+<!-- souscriraient toujours par raison éthique *//  sonne faux //* -->, elle dépendrait du sujet de l'action  ==Tout semble dépendre du sujet des fonctionnalités, quand on donne à nouveau on agit plutôt au second plan, laissant faire les organisations==. 
 
-Que ce soit sur les pages d'accueil, sur lesquelles les actualités plafonnent souvent,
 
+J'ai pu regrouper les sujets vers lesquels les sites amènent à se renseigner en trois catégories : se renseigner pour agir, sur l'écologie et sur l'organisation. Entre les différentes ==fonctionnalités== visant à se renseigner, ils sont distribués de manière assez égales à travers les pages. Cependant certains sujets semblent privilégiés.
 
-Cette proportion au renseignement est d'autant plus forte que cette demande précède toujours les autres formes d'action, sauf exceptions notables sur lesquelles je reviendrai.
-
-Les sites internet des organisations associatives sont utilisés comme des dispositifs éditoriaux. Ils s'alignent avec une certaine histoire du web <!-- développer -->, de la "page" internet. Par là, ils ne profitent que peu des possibilités d'interactions et de mise en commun proposées par le web. 
-==lire démocratie internet==.
-
-Ainsi un des trois sujets principaux sur lequel se renseigner c'est se renseigner pour agir   
+## Se renseigner : quand l'auto promotion prend le dessus 
 
 
 
+Se renseigner vers les organisations est le sujet privilégié des sites d'organisations écologistes. À nouveau, ce constat peut être établit dans les parcours de navigation (Figure 3). Dans les arborescences 
 
+Sur les accueils, si les sections sont variées et mentionnent l'écologie ou des manière d'agir,
 
+les sections qui invitent à se renseigner sur l'organisation sont souvent placées en avant (Colibris, Greenpeace, FNE). ==Conclusion== Cependant une section qui prend souvent le dessus c'est celle des actualités, qui elle n'a pas comme sujet prédominent les associations.
 
-Trois sujet vers lesquels les sites amènent à se renseigner :  se renseigner pour agir, sur l'écologie et sur l'organisation.
-
-
-## L'auto promotion prend le dessus
-
-La présence de l'auto promotion dans les sites d'organisation associatives est à penser en degré. J'estime que l'autopromotion prend le dessus mais il faut relativiser ce constat. Elle le fait en étant en part presque égal (60%) avec d'autres objectifs de renseignement / action.  
-
-==J'aborde l'arborescence==
-
-Le constat est assez similaire dans les sections des pages d'accueil. Si les sujets des sections sont variés et incluent l'écologie ou des manière d'agir, les sections qui invitent à se renseigner sur l'organisation sont souvent placées en avant (Colibris, Greenpeace, FNE). ==Conclusion== Cependant une section qui prend souvent le dessus c'est celle des actualités, qui elle n'a pas comme sujet prédominent les associations.
+Figure 3 - arborescence et séparation des sujets
 
 La fonctionnalité de partage de page s'intègre à ce phénomène.
 
@@ -72,7 +53,7 @@ Le vocabulaire employé construit ce cadrage sur les organisations. Beaucoup de 
 
 Figure. Haut de page
 
-Il y a une plus grande proportion à l'auto promotion dans les hauts de pages ==Conclusion== Le bouton de don est un invariant dans tous les header
+Il y a une plus grande proportion à l'auto promotion dans les hauts de pages ==Conclusion== Le bouton de don est un invariant dans tous les header. 
 
 ==Passage important sur le don, point final du parcours de sites qui sont d'abord fait pour eux même (d'où la présence dans le header)==
 
@@ -99,6 +80,9 @@ Les pages dédiée à des campagnes de don montre bien l'institutionnalisation d
 S'inscrire aux organisations. Le formulaire est un format asymétrique. Il est descendant
 
 Les pétitions
+==Chez Greenpeace les **campagnes** sont des pétitions [[Lire sur des campagnes]]==
+Lire sur les campagnes invite autant à signer des pétition qu'à donner.
+
 
  à des campagnes ou à des évènements
 
@@ -126,6 +110,5 @@ Un fort passage des possibilités d'action vers des plateformes.
 
 La pluralité des platformes peut découragé.
 
-  
 
 Les plateformes sont utilisés comme valorisation des associations dans les pages dédiés à leur autopromotion. Est ce que les associations produisent ce genre de plateformes comme des objets de communications ==[[Sites web politiques et nouvelles formes de participation en ligne, cas de « la France en commun », « M l’avenir » et « Idées en commun »]]==, plutôt que de réels plateformes pour agir ??? Comment répondre à cette question.. il faudrait analyser les plateformes et comparer si évolution des résultats.

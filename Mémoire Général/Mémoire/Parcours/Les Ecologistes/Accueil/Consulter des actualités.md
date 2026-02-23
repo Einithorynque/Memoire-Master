@@ -31,7 +31,7 @@ Complétion: true
 
 Le site propose de consulter une liste d'articles d'actualités pouvant être composés de **texte**, **vidéos**, **citations** et **liens**. 
 
-![[Partager une actualité]]
+![[Parcours/Les Ecologistes/Partager une actualité]]
 
 
 Ils sont liés à des **thématiques** et des **personnes** de la page Communauté. 

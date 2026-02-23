@@ -6,14 +6,15 @@ Type:
 Description:
 Médias:
 Cas d'étude:
-  - "[[Bure Bure Bure]]"
+  - "[[Greenpeace]]"
 Page:
-  - Accueil
+  - Nos Campagnes
 Récurrence:
+  - "2"
 Sections:
 Écrans:
 Cliques:
-Date de création:
-Réponse au problème: true
-Complétion: false
+Date de création: 2026-02-18T17:38:00
+Réponse au problème: false
+Complétion: true
 ---
