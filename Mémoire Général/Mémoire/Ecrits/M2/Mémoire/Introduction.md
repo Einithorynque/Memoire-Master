@@ -1,9 +1,9 @@
-
+	
 Sur mon navigateur, deux onglets sont ouverts. Deux sites, et sur chacun d'eux, je vois le même haut de page : un logo, quelques liens et exactement deux boutons aiguillent ma navigation. Sous ces hauts de pages je parcours les même premières sections : une image attire mon regard et à sa droite je trouve un titre, un court paragraphe et à nouveau deux boutons. Au bout d'un de ces deux écrans je souscrirais à un contrat auprès de Total Énergie, l'une des 20 plus grandes entreprises émettrices de gaz à effet de serre de l'histoire. Mais dans l'autre section, j'aurais peut être fini par m'encarter dans le parti politique les Écologistes, à l'opposé donc, pour défendre une politique qui lutterait, elle, contre le réchauffement climatique. Dans le discours des interfaces, pourtant, ça aura été du pareil au même, tant il y a de proximité entre la mise en page de ces écrans et la manière dont ils m'auraient fait agir. Un échec dans la transmission d'idées autant pour l'écologisme politique que pour le design d'interface. 
 
 Il est nécessaire de repenser la pratique du design numérique à l'aune du réchauffement climatique. En France, Le numérique émet 4,4% des émissions de gaz à effet de serre et cette proportion serait amenée à triplée d'ici 2050. Dans ces 4,4%, les émissions de gaz à effet de serre liées à la fabrication et au fonctionnement des terminaux utilisateurs et celles liées aux centres de données (data centers) se partagent presque à part égale 96% des émissions <!--source-->. Face à ça l'impacte du design numérique, celui provoqué par la conception des sites cités plus tôt, parait en soit infime. Mais il est indirect. Les terminaux sont fabriqués pour répondre à la demande stimulée par les objets numériques. Le design numérique cadre donc cette demande. Son impact écologique est à penser avec les terminaux qu'il invite à créer. L'impact des interfaces qui généralisent l'accès aux intelligences artificielles<!--source--> ne peut par exemple pas être séparé de celui des centres de données que cette généralisation demande de construire. Ce constat rejoint le paradigme de la corne d'abondance, proposé par X<!--source-->, qui montre comment choix de design et infrastructures numériques  se stimulent l'un l'autre, encourageant des services de plus en plus couteux écologiquement. Bien qu'elles soient nécessaires et déjà abordées dans d'autres champs du design, en 2022, Gauthier Roussilhe déplorait que l'écoconception soit encore un sujet très annexe dans l'industrie du design numérique<!--source-->. Deux ans plus tard, la publication du référentiel général pour l'écoconception des services numériques (RGESN)<!--source--> par l'état Français témoigne, si pas d'une meilleure, d'une nécessaire prise en compte de ces problématiques. Les problématiques environnementales sont alors prises en compte durant toute la conception, et elles sont pensées pour "améliorer la performance environnementale" **matérielle** du numérique.
 
-La proximité entre les pages d'accueil du site de Total Energies et des Écologistes pause pourtant problème sur un autre plan. C'est un problème de discours, l'interface semble confondre grand pollueur et organisation pour la défense du climat. Or, l'écoconception telle qu'elle est présentée dans le RGESN n'a pas sujet à interroger les discours, même quand ceci découlent directement de la conception des objets numériques. Leur impacte n'est étudié, dans le cas du RGESN, que quand la consommation de ressources est directement impactée. Les stratégies de rétentions, comme le scroll infini, sont désapprouvées car elles obligent à charger des contenus de manière disproportionnés par rapport aux besoins des utilisateur·ices <!--(p. 63)-->. La critique de ces interactions se base sur le téléchargement en données qu'elles nécessitent. Cette critique occulte l'impacte que ces interactions opèrent sur notre rapport à la machine, et par là notre rapport au monde.
+La proximité entre les pages d'accueil du site de Total Energies et des Écologistes pause pourtant problème sur un autre plan. C'est un problème de discours, l'interface semble confondre grand pollueur et organisation pour la défense du climat. Or, l'écoconception telle qu'elle est présentée dans le RGESN n'a pas sujet à interroger les discours, même quand ceci découlent directement de la conception des objets numériques. Leur impacte n'est étudié, dans le cas du RGESN, que dans leur enjeux matériel : quand la consommation de ressources est directement impactée. Les stratégies de rétentions, comme le scroll infini, sont désapprouvées car elles obligent à charger des contenus de manière disproportionnés par rapport aux besoins des utilisateur·ices <!--(p. 63)-->. La critique de ces interactions se base sur le téléchargement en données qu'elles nécessitent. Cette critique occulte l'impacte que ces interactions opèrent sur notre rapport à la machine, et par là notre rapport au monde.
 
 D'autant qu'on a vu apparaitre des objets numériques spécifiquement conçus avec la volonté politique de lutter pour l'environnement. En 2019 la campagne médiatique l'Affaire du Siècle, visant à attaquer l'état Français en justice pour son inaction climatique, devient la pétition la plus signée de l'histoire française et est surtout médiatisée sur les réseaux sociaux <!--source-->. Les pétitions sont d'ailleurs de objets d'actions écologiste en lignes récurrents et populaire <!--source ? Un peu mes observations, pétition pour la loi Duplond récemment ?-->. ==Dominique Cardon écrivait sur l'arrivé de parti spécifiquement numérique == => est ce qu'on parle de l'impact de ses actions propres numériques
 
@@ -11,18 +11,41 @@ D'autant qu'on a vu apparaitre des objets numériques spécifiquement conçus av
 Le numérique peut aussi réduire l'action, dans le cas du [[Slacktivisme]]. 
 [[From slacktivism to activism]]
 
+Depuis les mobilisations climats, les luttes des organisations écologistes face au dérèglement climatique sont de plus en plus visibles. En internet : campagnes, nouveaux médias et présences en ligne des organisations nous invitent quotidiennement à penser et agir pour l'écologie. Mais nous y invitent elles vraiment ? La proximité formelle des pages d'accueil des sites de Total Energies et des Écologistes me frappe et me fait douter quand au message que portent ces interfaces dont le but premier devrait être de lutter face au dérèglement climatique. Ainsi je tenterais de répondre ici à la question de recherche suivante : quels discours (écologiste) prennent forme dans les présences en lignes des organisations écologistes ?
 
-
-Puisque la design des objets numérique a en lui cette capacité à faire agir, ou non. Une analyse de leur design peut permettre de questionner comment leur pouvoir impact le militantisme . Et c'est ce que l'on voit dans mon exemple
-
-Mais qu'en est il des sites internet ?
 
 Mon mémoire part de l'hypothèse que plus des personnes militeront pour l'écologie, plus elles feront reculer le réchauffement climatique. 
 
 Mon mémoire part aussi du postulat que les sites ont un pouvoir sur ce militantisme et qu'ils peuvent donc encourager des personnes à agir de manière militante pour l'écologie. 
 
-
 Mon mémoire part de l'hypothèse que le site de Total est dans sa forme générique, et ce tend pas à apparaitre écologiste. Les deus sites dérive plutôt vers une même forme de conformité. 
 
-Je répondrais dans ce mémoire à la question de recherche suivante :
+
+
+## État de l'art
+
+### Quelle place est donnée à l'écologisme dans les champs de recherches du design numérique ?
+
+Le principal champ de recherche de recherche qui interroge le design numérique au prisme, notamment, de son impact environnemental est nommé Sustainable Human Computer Interaction : "interaction homme machine [soutenable](https://youtu.be/h6ziZ4JPWEM?t=910)". C'est un champ annexe très actifs de l'interaction homme machine (IHM) depuis son émergence retracée à l'impulsion de deux publications fondatrices <!--sources-->. Dans la première en 2007, Blevis<!-- sources--> définit ce qu'il appelle alors Sustainable Interaction Design, le design d'interaction soutenable. Un paradigme dans lequel les choix de conception devraient être pensés en fonction de leur soutenabilité : préserver les conditions nécessaires aux vies futures. À l'instar du développement durable cette soutenabilité s'articule entre trois dimensions : environnementale, économique et sociale. 
+
+Mankoff et al.<!--sources--> proposent deux approches pour étudier ou pratiquer le design sous le prisme de la soutenabilité : étudier la soutenabilité du design (in design) et la penser à travers le design (through design). En plus de cet article, je me base pour définir ces deux notions sur les études rétrospectives depar DiSalvo et al.<!--sources--> en 2010 et Besanna et al.<!--sources--> en 2024.
+1. Soutenabilité du design  : concevoir en réduisant au maximum l’impact écologique des technologies conçues, aussi bien lors de leur création qu’après leur mise en service. Sous un angle matériel donc. 
+- La soutenabilité à travers le design consiste à utiliser le design interaction pour encourager des comportements soutenables. En pratique les recherchent tendent à employer le design pour encourager certaines actions ou pour sensibiliser. Dans leur rétrospective de 2024, Besanna et al. expliquent que l'IHM soutenable c'est surtout approprié cette notion pour changer les comportement à échelle l'individuelle : celle du mode de vie, de la prise de décision quotidienne. L'étude rejoint ici le constat déjà établi en 2010 par DiSalvo et al., les études étaient cadrés vers des consommateurs,
+
+« par le biais du changement de comportement, visant à influencer l'état d'esprit et les décisions des utilisateur·ices afin de encourager des modes de vie et des prises de décision soutenables ». 
+
+ la durabilité est principalement recherchée par le biais d'un changement de comportement, visant à influencer l'état d'esprit et les décisions des utilisateurs afin de favoriser des modes de vie et des prises de décision durables.
+
+
+
+Ce socle théorique reste majoritairement employé. Dans leur synthèse en 2024 Besanna et al. montrait que la dimension environnementale était par contre bien plus explorée par la recherche. Deux critères font que ma recherche se distingue
+- j'étudie des sites webs, là ou d'habitude objet du quotidien (électroménagés)
+- je veux étudier l'aspect through design sous un angle d'écologie politique, ce qui n'existe pas, il y a surtout de l'écologie du petit genste. 
+
+J'emploie ici soutenable pour traduire l'anglais sustainable et non durable, utilisé ici car usuel dans l'expression du développement éponyme. Soutenable me parait plus évocateur face à un durable un peu trop passe partout <!-- sources Krieg-Planque p.10-->. La soutenabilité est pour moi la condition essentielle qui fondent la remise en question des rapport humain machine portée par le champ de la sustainable HCI. C'est en tendant à devenir soutenables pour nos environnement, puisque leurs impactes ne sont plus tolérés, que les technologies peuvent être interrogées sous un nouveau prisme. De même c'est une relation soutenable entre personnes et machines, saine et en cohérence avec nos sociétés, que portent les SHCI. En revanche que les technologies puissent durer n'est pas essentiel, leur pertinence est même souvent remise en question. 
+
+
+
+
+Si en France un design numérique plus écologique entre  sous la bannière de l'éco-conception, ça cache un peu la porté du ce qu'englobe les SHCI. C'est dans son interprétation dans l'industrie, fonctionner pluss écolo, sans vraiment reconfigurer nos pratiques.  
 

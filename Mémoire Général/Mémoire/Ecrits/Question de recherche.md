@@ -1,10 +1,19 @@
 
 ## Question de Recherche 
 
-Quelle place est donnée à l'écologie politique dans le fonctionnement des présences en ligne qui la défendent ?
 
+
+Comment l'écologisme politique prend-il forme dans les présences en lignes des organisations qui le défendent ? 
+
+Quels discours (écologiste) prennent forme dans les présences en lignes des organisations écologistes ?
+
+Quels discours (écologiste) prennent forme dans les interfaces des présences en lignes des organisations écologistes ?
 ## Historique
 ### Janvier 2026
+
+Quelle place est donnée à l'écologie politique dans le fonctionnement des présences en ligne qui la défendent ?
+
+---
 
 Comment fonctionne l'écologisme politique dans les sites internet qui le défendent ?
 

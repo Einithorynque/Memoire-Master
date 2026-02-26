@@ -22,73 +22,17 @@
             }
           },
           {
-            "id": "f22a477eefb8fa26",
+            "id": "886c079f3451c599",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Méthodes/Ma Méthodologie/Hypothèse.md",
+                "file": "Lectures/Retours/Sustainable HCI, IHM Durable/Mapping the Landscape of Sustainable HCI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hypothèse"
-            }
-          },
-          {
-            "id": "e2d3fbb99ebd194f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objets/Littérature Grise/RGESN - Référentiel général d'écoconception de services numériques.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RGESN - Référentiel général d'écoconception de services numériques"
-            }
-          },
-          {
-            "id": "581621ed16de5298",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Retours/Le baromètre du numérique - édition 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Le baromètre du numérique - édition 2025"
-            }
-          },
-          {
-            "id": "a8dc01c39fd9c66a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Retours/Écologie en résistance, les ONG ou la domestication de l'écologie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Écologie en résistance, les ONG ou la domestication de l'écologie"
-            }
-          },
-          {
-            "id": "f8cbdc0a89e864de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objets/Cas d'Études/Préselection/L'affaire du Siècle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "L'affaire du Siècle"
+              "title": "Mapping the Landscape of Sustainable HCI"
             }
           },
           {
@@ -104,9 +48,50 @@
               "icon": "lucide-file",
               "title": "Question de recherche"
             }
+          },
+          {
+            "id": "f22a477eefb8fa26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Méthodes/Ma Méthodologie/Hypothèse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hypothèse"
+            }
+          },
+          {
+            "id": "a8dc01c39fd9c66a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notions/Human Computer Interaction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Human Computer Interaction"
+            }
+          },
+          {
+            "id": "c5cca80e1977172c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecrits/M1/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 239.5
   },
   "right": {
     "id": "76a3ce8d89bea0cc",
@@ -281,17 +266,25 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6322be6f9ca1cf0f",
+  "active": "4609676d446b6e2b",
   "lastOpenFiles": [
+    "Lectures/Retours/Sustainable HCI, IHM Durable/Mapping the Landscape of Sustainable HCI.md",
     "Ecrits/M2/Mémoire/Introduction.md",
+    "Méthodes/Ma Méthodologie/Hypothèse.md",
+    "Ecrits/M1/Introduction.md",
+    "Notions/Sustainable HCI.md",
+    "Notions/Sustainability Through Design.md",
+    "Notions/Sustainability In Design.md",
+    "Ecrits/Question de recherche.md",
+    "Notions/Human Computer Interaction.md",
+    "Objets/Littérature Grise/Écologie en résistance, les ONG ou la domestication de l'écologie.md",
+    "Notions/ONG.md",
+    "Lectures/Retours/From slacktivism to activism.md",
     "Objets/Cas d'Études/Préselection/L'affaire du Siècle.md",
     "Objets/Littérature Grise/RGESN - Référentiel général d'écoconception de services numériques.md",
-    "Méthodes/Ma Méthodologie/Hypothèse.md",
-    "Lectures/Retours/Écologie en résistance, les ONG ou la domestication de l'écologie.md",
     "Lectures/Retours/Le baromètre du numérique - édition 2025.md",
     "Lectures/Récapitulatifs lectures.md",
     "Lectures/Retours/La question écologique dans le champ du design numérique.md",
-    "Lectures/Retours/From slacktivism to activism.md",
     "Ecrits/Plan détaillé.md",
     "Parcours/Organisations Associatives/Parcours Organisations Associatives.base",
     "Lectures/Récapitulatifs à lire.base",
@@ -303,18 +296,10 @@
     "Lectures/A lire/Militer chez les verts.md",
     "Lectures/Retours/La forme politique d'internet.md",
     "Notions/Militantisme.md",
-    "Lectures/A lire/La Démocratie Internet, Promesses et limites.md",
     "Parcours/Organisations Autonomes et Indépendantes/LVEL – La voie est libre/Images/formulaire-www.lvel.fr.jpg",
     "Parcours/Organisations Autonomes et Indépendantes/LVEL – La voie est libre/Images/accueil-premieres-sections-www.lvel.fr.jpg.part",
     "Parcours/Organisations Autonomes et Indépendantes/LVEL – La voie est libre/Images/accueil-premieres-sections-www.lvel.fr.jpg",
-    "Parcours/Organisations Autonomes et Indépendantes/Bure Bure Bure/Accueil/Voir l'état de l'action.md",
-    "Parcours/Organisations Autonomes et Indépendantes/Bure Bure Bure/Accueil/Lire des articles.md",
-    "Parcours/Organisations Autonomes et Indépendantes/Bure Bure Bure/Accueil/Rechercher les articles par catégories.md",
-    "Parcours/Organisations Autonomes et Indépendantes/Bure Bure Bure/Accueil/Rechercher les articles par étiquettes.md",
-    "Parcours/Organisations Autonomes et Indépendantes/Bure Bure Bure/Accueil/Voir l'agenda des activités.md",
     "Parcours/Organisations Autonomes et Indépendantes/Bure Bure Bure/Medias/etiquettes-bureburebure.info.jpg",
-    "Templates/Template Parcours.md",
-    "Templates/Template Notions.md",
     "État de l'art.base",
     "Parcours/Organisations Autonomes et Indépendantes/Bure Bure Bure/Accueil",
     "Parcours/Organisations Associatives/Alternatiba/Medias/recherche-alternatiba.eu.mp4",
