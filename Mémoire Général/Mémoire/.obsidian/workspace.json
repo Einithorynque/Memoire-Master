@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecrits/M2/Mémoire/Introduction.md",
+                "file": "Ecrits/M2/Mémoire/old/I. 2. La place de l'écologie politique dans le fonctionnement des sites internet qui la défendent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "I. 2. La place de l'écologie politique dans le fonctionnement des sites internet qui la défendent"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Retours/Sustainable HCI, IHM Durable/Mapping the Landscape of Sustainable HCI.md",
+                "file": "Ecrits/M2/Mémoire/I. 2. a. Organisations associatives, une tension entre autopromotion et inclusion des utilisateurs dans les luttes..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mapping the Landscape of Sustainable HCI"
+              "title": "I. 2. a. Organisations associatives, une tension entre autopromotion et inclusion des utilisateurs dans les luttes."
             }
           },
           {
@@ -105,7 +105,8 @@
               "title": "Evaluating Sustainable Interaction Design of Digital  Services The Case of YouTube"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -280,10 +281,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4609676d446b6e2b",
+  "active": "886c079f3451c599",
   "lastOpenFiles": [
-    "Lectures/Retours/Sustainable HCI, IHM Durable/Mapping the Landscape of Sustainable HCI.md",
+    "Ecrits/M2/Mémoire/old/Se renseigner, entre auto-promotion et survivance des luttes.md",
     "Ecrits/M2/Mémoire/Introduction.md",
+    "Ecrits/M2/Mémoire/I. 2. a. Organisations associatives, une tension entre autopromotion et inclusion des utilisateurs dans les luttes..md",
+    "Lectures/Retours/Sustainable HCI, IHM Durable/Mapping the Landscape of Sustainable HCI.md",
+    "Ecrits/M2/Mémoire/old/I. 1. Méthode.md",
+    "Ecrits/M2/Mémoire/old/I. 2. La place de l'écologie politique dans le fonctionnement des sites internet qui la défendent.md",
+    "Ecrits/M2/Mémoire/old",
     "Ecrits/Question de recherche.md",
     "Ecrits/M1/Introduction.md",
     "Lectures/Retours/Sustainable HCI, IHM Durable/Evaluating Sustainable Interaction Design of Digital  Services The Case of YouTube.md",
@@ -306,10 +312,6 @@
     "Lectures/A lire/Le pétitionnement en ligne.md",
     "Lectures/A lire/Militer pour la planète, sociologie des écologistes.md",
     "Lectures/A lire/Présentations de soi des ONG sur Internet, créer une histoire « sans frontière ».md",
-    "Notions/Sensibiliser.md",
-    "Lectures/A lire/« Dire la vérité du changement climatique, même si ça fait mal » La sensibilisation à la cause chez les militants écologistes.md",
-    "Lectures/A lire/Militer chez les verts.md",
-    "Lectures/Retours/La forme politique d'internet.md",
     "Parcours/Organisations Autonomes et Indépendantes/LVEL – La voie est libre/Images/formulaire-www.lvel.fr.jpg",
     "Parcours/Organisations Autonomes et Indépendantes/LVEL – La voie est libre/Images/accueil-premieres-sections-www.lvel.fr.jpg.part",
     "Parcours/Organisations Autonomes et Indépendantes/LVEL – La voie est libre/Images/accueil-premieres-sections-www.lvel.fr.jpg",
@@ -326,7 +328,6 @@
     "Parcours/Organisations Associatives/Alternatiba/Medias/don-2025-alternatiba.eu.jpg",
     "Parcours/Organisations Associatives/Agir pour l'environnement/Accueil/publication-www.agirpourlenvironnement.org.jpg.part",
     "Parcours/Organisations Associatives/Agir pour l'environnement/Des cantines bio j'en veux",
-    "Parcours/Organisations Associatives/Agir pour l'environnement/Medias/inscrire-défis-form.jotform.com.jpg.part",
-    "Parcours/Organisations Associatives/Agir pour l'environnement/Medias/petition-budget-haies.agirpourlenvironnement.org.jpg.part"
+    "Parcours/Organisations Associatives/Agir pour l'environnement/Medias/inscrire-défis-form.jotform.com.jpg.part"
   ]
 }
