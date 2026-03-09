@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "         ",
+  "search": "Sites situé",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 9.41787941787942,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1598235365433144,
-  "close": false
+  "scale": 1.213659980625793,
+  "close": true
 }

@@ -13,6 +13,7 @@ Pays:
   - France
 Créateur·ices:
 Technologies:
+  - Next.js
 Page:
 Avis:
 Description:

@@ -23,6 +23,7 @@ Pays:
   - France
 Créateur·ices:
 Technologies:
+  - "[[Wordpress]]"
 Page:
 Avis:
 Description:

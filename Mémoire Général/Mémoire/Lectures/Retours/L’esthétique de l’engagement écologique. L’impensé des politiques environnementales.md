@@ -61,6 +61,10 @@ L'autrice identifies par son études 13 [[Esthétique Écologistes|Esthétiques 
 
 L'[[Esthétique de l'usure]] est la plus mise en avant par sa place dans l'hypothèse.
 
+« Un milieu de vie où il existe la diversité matérielle, formelle, temporelle, chromatique et plastique; des accumulations et des répétitions; des traces d’usage, de soi et celles des autres; des indices d’assemblage qui rendent l’artefact manipulable et transformable; de l’imperfection invitant à agir; une ambiance progressive et dynamique; de l’information disséminée dans l’espace (code langagier, chromatique, structurel); la présence de la matière organique et vivante; une capacité à accueillir plusieurs personnes; des choses et des situations qui incitent à toucher; une variété cinétique du corps (micro/ample, lent/ rapide, seul et à plusieurs); des lieux du faire et non uniquement de contemplation sont favorables à l’engagement écologique. » (Hamarat, 2019, p. 465)
+
+
+
 ### Lien entre engagement et esthétique (de l'usure)
 
 > [!NOTE] L'engagemennt est lié à la possibilité d'une esthétique de l'usure
@@ -69,6 +73,10 @@ L'[[Esthétique de l'usure]] est la plus mise en avant par sa place dans l'hypot
 > [!TIP] Pourquoi cette nécessité ? 
 > « Ces qualités permettent aux artefacts et activités de se situer entre nature et culture, et d’instaurer une forme de durabilité avec les individus et leur milieu de vie. » (Hamarat, 2019, p. 421)
 
+
+« l’engagement dépend de ces propriétés et ne peut s’accomplir dans n’importe quel milieu de vie qui entrave leur émergence. » (Hamarat, 2019, p. 469)
+
+« Ces propriétés esthétiques ont intrinsèquement la capacité d’agir sur les individus pour créer des actions. Elles invitent à se rapprocher des autres et des choses, transformer, toucher, prendre son temps, reconnaître le passé et se projeter dans le futur, se limiter, s’exprimer, partager, inventer et être créatif, mouvoir et engager activement son corps, fabriquer et habiter l’artificiel par l’organique. » (Hamarat, 2019, p. 473)
 ## Esthétiques absentes des politiques écologistes
 
 Dans [[Chronique sur un concept]].

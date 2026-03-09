@@ -9,7 +9,6 @@ Sources:
 Themes:
 Écologisme:
   - "[[Organisations Associatives]]"
-  - "[[Organisations Mixtes et Polyvalentes]]"
 Pays:
   - France
   - Europe

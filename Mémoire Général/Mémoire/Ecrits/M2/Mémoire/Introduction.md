@@ -13,13 +13,43 @@ Le numérique peut aussi réduire l'action, dans le cas du [[Slacktivisme]].
 
 Depuis les mobilisations climats, les luttes des organisations écologistes face au dérèglement climatique sont de plus en plus visibles. Sur internet : campagnes, nouveaux médias et présences en ligne des organisations nous invitent quotidiennement à penser et agir pour l'écologie. Mais nous y invitent elles vraiment ? La proximité formelle des pages d'accueil des sites de Total Energies et des Écologistes me frappe et me fait douter quand au message que portent ces interfaces dont le but premier devrait être de lutter face au dérèglement climatique. Ainsi ce mémoire vise à répondre à la question de recherche : quels discours (écologiste) prennent forme dans les présences en lignes des organisations écologistes ?
 
+---
+La proximité entre les sites des Écologistes et de TotalEnergies
 
-1. Plus il y aura de militant·es en lutte pour l'écologie, plus elles seront à même d'agir face au dérèglement climatique 
-2. Les sites internet portent un discours, qui peuvent encourager des personnes à agir de manière militante pour l'écologie. 
+témoigne d'un phénomène les dépassant : . Par là, ils se rapprocheraient de ce qui fait institution sur internet, une forme de communication dominée et sites vitrines d'entreprises.
+
+. C'est ce qui les rapprocherait de TotalEnergies, ce qui est normal. Par là j'entend aussi que Total ne fait pas du greenwashing par la forme. Celà car je constate que c'est une forme assez générique de site internet. Mais ce n'est pas normal pour une orga. Elles perdraient par là leur potentiel d'engagement écologiste.    
+
+représenterait leur organisation comme étant établies.
+
+Je ne fais pas r
+
+Institution, qui est institué, établi de manière durable.
+
+
+Nos sociétés sont aussi organisées en institutions : organismes établis pour répondre à quelque besoin déterminé à son échelle <!--https://www.cnrtl.fr/definition/institution-->. Quand je parle de la tendance des sites webs à s'instutionnaliser, je ne fais pas référence à ça.
+
+
+
+1. Plus il y aura de militant·es en lutte pour l'écologie, plus elles seront à même d'agir face au dérèglement climatique
+
+2. Les sites internet portent un discours, qui peuvent encourager des personnes à agir de manière militante pour l'écologie.
+
 3. Le site de Total Energies ne tend pas à apparaitre écologiste.
-4. La forme très proche que prennent les sites des Écologistes et de Total est générique
-5. Les deux sites ont une forme industrielle. vers une même forme de conformité. 
 
+4. La forme très proche que prennent les sites des Écologistes et de Total est générique
+
+5. Les deux sites ont une forme industrielle. vers une même forme de conformité.
+
+6. Si dans les discours les sites ont un discours écologistes, celui ci ne suit pas dans sa forme : dans ses fonctionnalités et son discours.
+
+---
+
+D'autant qu'on a vu apparaitre des objets numériques spécifiquement conçus avec la volonté politique de lutter pour l'environnement. En 2019 la campagne médiatique l'Affaire du Siècle, visant à attaquer l'état Français en justice pour son inaction climatique, devient la pétition la plus signée de l'histoire française et est surtout médiatisée sur les réseaux sociaux <!--source-->. Les pétitions sont d'ailleurs de objets d'actions écologiste en lignes récurrents et populaire <!--source ? Un peu mes observations, pétition pour la loi Duplond récemment ?-->. ==Dominique Cardon écrivait sur l'arrivé de parti spécifiquement numérique == => est ce qu'on parle de l'impact de ses actions propres numériques
+
+Le numérique peut aussi réduire l'action, dans le cas du [[Slacktivisme]].
+
+[[From slacktivism to activism]]
 
 
 ## État de l'art
@@ -38,12 +68,8 @@ Mankoff et al.<!--sources--> proposent deux approches pour étudier ou pratiquer
 
 En France sous le terme d'écoconception cette distinction n'existe pas. Or, les pratiques décrites dans les référentiels d'écoconception semblent se concentrer uniquement sur la soutenabilité du design <!-- source RGESN + designer ethique -->. Dans le cas du RGESN, l'impact du design numérique n'est étudié que dans ses enjeux matériels : quand la consommation de ressources est directement impactée. Les stratégies de rétentions, comme le scroll infini, sont désapprouvées car elles obligent à charger des contenus de manière disproportionnés par rapport aux besoins des utilisateur·ices <!--(p. 63)-->. La critique de ces interactions se base sur le téléchargement en données qu'elles nécessitent, pas sur le fait qu'elles nous invitent à consommer toujours plus. Cette critique occulte l'impacte qu'elles opèrent sur notre rapport à la machine et par là notre rapport au monde. Qui lui, par rapport à un scroll infini a des limites. L'approche de la soutenabilité à travers le design me semble ainsi trop peu abordée. Elle est effacée, d'abord comme angle de critique, mais encore plus comme angle de recommandation de formes de design qui encourageraient à des actions plus écologiques, non pas que ces ressources n'existent pas <!--https://inspirotheque.limitesnumeriques.fr/inspirotheque?levier=concevoir-des-produits-qui-montrent-leurs-impacts-->.  
 
-Malheureusement dans des ressources qui font le pont entre la recherche et l'industrie. Révélant une sorte de tension dans ce que peut être l'écologie dans un design qui est industriel.  (à l'instar des débats sur les sites moches)
-
-
-Si en France un design numérique plus écologique entre  sous la bannière de l'éco-conception, ça cache un peu la porté du ce qu'englobe les SHCI. C'est dans son interprétation dans l'industrie, fonctionner pluss écolo, sans vraiment reconfigurer nos pratiques.  
-
-Ma recherche est celle d'une soutenabilité à travers le design des présences en lignes des organisations écologistes. 
+~~Malheureusement dans des ressources qui font le pont entre la recherche et l'industrie. Révélant une sorte de tension dans ce que peut être l'écologie dans un design qui est industriel.  (à l'instar des débats sur les sites moches)~~
+~~Si en France un design numérique plus écologique entre  sous la bannière de l'éco-conception, ça cache un peu la porté du ce qu'englobe les SHCI. C'est dans son interprétation dans l'industrie, fonctionner pluss écolo, sans vraiment reconfigurer nos pratiques.~~  
 
 
 Ainsi, beaucoup des objets des sustainable HCI pourraient être qualifier de domotique en France. Là où les sites internet semblent être un impensé des sustainable HCI, surtout sous l'angle de la Soutenabilité par le design
@@ -56,7 +82,7 @@ Deux critères font que ma recherche se distingue
 - je veux étudier l'aspect through design sous un angle d'écologie politique, ce qui n'existe pas, il y a surtout de l'écologie du petit genste. 
 
 
-
+Ma recherche est celle d'une soutenabilité à travers le design des présences en lignes des organisations écologistes. 
 
 
 

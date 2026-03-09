@@ -24,6 +24,10 @@ Elle prend forme par **la capacité des corps et des matériaux à se transforme
 
 Elle se manifeste à la fois dans les traces des **actions passées**, que dans les traces qui préparent **les actions à venir**.
 
+### Lien avec les autres esthétiques 
+
+« Les résultats montrent que sous diverses formes et à différents degrés, les propriétés sensibles attribuées à l’esthétique de l’usure ont été relevées au sein des formes d’engagement écologique sur lesquelles notre enquête a été menée. L’engagement est lié à la possibilité d’une esthétique de l’usure. C’est-à-dire, il dépend des capacités du milieu de vie à se transformer et à afficher perceptiblement les traces du temps, des usages du soi et des autres avec une plasticité progressive et plurielle authentique aux contextes et situations. » (Hamarat, 2019, p. 421)
+
 ### Lien avec l'engagement 
 
 > [!Tip] Par la trace d'actions, détache du quotidien et engage

@@ -27,7 +27,7 @@ Avis:
 Description:
 Date de création:
 aliases:
-Sélectionné: true
+Sélectionné: false
 ---
 
 > [!QUote] [[Écologie Politique]]

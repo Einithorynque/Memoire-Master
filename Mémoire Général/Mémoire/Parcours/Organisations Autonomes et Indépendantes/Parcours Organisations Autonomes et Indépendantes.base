@@ -3,7 +3,7 @@ views:
     name: Complétées + Répondant au problème
     filters:
       and:
-        - file.inFolder("Parcours/Organisations Associatives")
+        - file.inFolder("Parcours/Organisations Autonomes et Indépendantes")
         - and:
             - '!file.inFolder("Parcours/Organisations Associatives/Greenpeace/Medias")'
             - '!file.inFolder("Parcours/Organisations Associatives/Alternatiba/Medias")'
