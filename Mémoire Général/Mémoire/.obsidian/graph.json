@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "Sites situé",
+  "search": "Dilé",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -47,5 +47,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.5197536624058902,
-  "close": true
+  "close": false
 }

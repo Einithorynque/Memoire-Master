@@ -8,267 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4609676d446b6e2b",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Objets/Cas d'Études.base",
-                "viewName": "Sélection"
-              },
-              "icon": "lucide-table",
-              "title": "Cas d'Études"
-            }
-          },
-          {
-            "id": "f68ee52775f841d5",
+            "id": "92bb7bd90d174766",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecrits/M2/Chronique Radio/Chronique sur un concept.md",
+                "file": "Suivis/Suivi 19.03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chronique sur un concept"
+              "title": "Suivi 19.03"
             }
           },
           {
-            "id": "886c079f3451c599",
+            "id": "c1f02cc08ed4ccb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecrits/M2/Mémoire/I. 1. Se renseigner, entre auto-promotion et survivance des luttes.md",
+                "file": "Notions/Esthétique de l'affichage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I. 1. Se renseigner, entre auto-promotion et survivance des luttes"
-            }
-          },
-          {
-            "id": "6322be6f9ca1cf0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ecrits/Question de recherche.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Question de recherche"
-            }
-          },
-          {
-            "id": "f22a477eefb8fa26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Méthodes/Ma Méthodologie/Hypothèse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hypothèse"
-            }
-          },
-          {
-            "id": "a8dc01c39fd9c66a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ecrits/M1/Compte Rendu de Stage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Compte Rendu de Stage"
-            }
-          },
-          {
-            "id": "c5cca80e1977172c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ecrits/M1/Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction"
-            }
-          },
-          {
-            "id": "7d72c3fc92e64189",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Retours/Sustainable HCI, IHM Durable/Evaluating Sustainable Interaction Design of Digital  Services The Case of YouTube.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Evaluating Sustainable Interaction Design of Digital  Services The Case of YouTube"
-            }
-          },
-          {
-            "id": "6bef44a5ed9ec755",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ecrits/M2/Mémoire/old/I. 2. La place de l'écologie politique dans le fonctionnement des sites internet qui la défendent.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "I. 2. La place de l'écologie politique dans le fonctionnement des sites internet qui la défendent"
-            }
-          },
-          {
-            "id": "1179eaa1024d7ff4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notions/Mécanismes de l'Affordance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mécanismes de l'Affordance"
-            }
-          },
-          {
-            "id": "e4f22388a5988ef0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Méthodes/Ma Méthodologie/Ma Méthode.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ma Méthode"
-            }
-          },
-          {
-            "id": "7ecf92aaba1af44f",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Lectures/Récapitulatifs à lire.base",
-                "viewName": "Textes"
-              },
-              "icon": "lucide-table",
-              "title": "Récapitulatifs à lire"
-            }
-          },
-          {
-            "id": "aaf146a243b10bb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notions/Esthétique de l'usure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Esthétique de l'usure"
-            }
-          },
-          {
-            "id": "ee243306629314dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Retours/L’esthétique de l’engagement écologique. L’impensé des politiques environnementales.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "L’esthétique de l’engagement écologique. L’impensé des politiques environnementales"
-            }
-          },
-          {
-            "id": "fa4aff7f90d241c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ecrits/M2/Chronique Radio/Chronique sur un concept.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chronique sur un concept"
-            }
-          },
-          {
-            "id": "a3abb6243b0e3230",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Retours/Sustainable HCI, IHM Durable/Mapping the Landscape of Sustainable HCI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mapping the Landscape of Sustainable HCI"
-            }
-          },
-          {
-            "id": "22929e9d777b15b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Retours/Sustainable HCI, IHM Durable/Have We Taken On Too Much, Sustainable HCI Landscape.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Have We Taken On Too Much, Sustainable HCI Landscape"
-            }
-          },
-          {
-            "id": "4eeb9edfe097dab0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Méthodes/Feature Analysis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Feature Analysis"
-            }
-          },
-          {
-            "id": "dd4d800a0de80e4c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "title": "Esthétique de l'affichage"
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -443,53 +211,52 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4e64904323567e41",
+  "active": "c1f02cc08ed4ccb2",
   "lastOpenFiles": [
+    "Parcours/Organisations Associatives/Parcours Organisations Associatives.base",
+    "Notions/Esthétique de l'affichage.md",
+    "Suivis/Suivi 19.03.md",
+    "Suivis/Suivi 16.03.md",
+    "Projet de Fin d'Etude/Objets/XPUB/img/pad.mp4",
+    "Projet de Fin d'Etude/Objets/XPUB/img",
+    "Projet de Fin d'Etude/Objets/XPUB",
+    "Projet de Fin d'Etude/Objets",
+    "Projet de Fin d'Etude",
+    "Suivis/Suivi 12.03.md",
+    "Lectures/Retours/La mouvance écologiste contemporaine à l’épreuve d’internet, analyses comparative du déploiement de discours et de stratégies de communication d’organisations écologistes.md",
+    "Notions/Écologie Politique.md",
+    "Méthodes/Feature Analysis.md",
+    "Lectures/Retours/Sustainable HCI, IHM Durable/Have We Taken On Too Much, Sustainable HCI Landscape.md",
+    "Lectures/Retours/Sustainable HCI, IHM Durable/Mapping the Landscape of Sustainable HCI.md",
+    "Ecrits/M2/Chronique Radio/Chronique sur un concept.md",
+    "Lectures/Retours/L’esthétique de l’engagement écologique. L’impensé des politiques environnementales.md",
+    "Notions/Esthétique de l'usure.md",
+    "Lectures/Récapitulatifs à lire.base",
+    "Méthodes/Ma Méthodologie/Ma Méthode.md",
+    "Notions/Mécanismes de l'Affordance.md",
+    "Ecrits/M2/Mémoire/old/I. 2. La place de l'écologie politique dans le fonctionnement des sites internet qui la défendent.md",
+    "Lectures/Retours/Sustainable HCI, IHM Durable/Evaluating Sustainable Interaction Design of Digital  Services The Case of YouTube.md",
+    "Ecrits/M1/Introduction.md",
+    "Ecrits/M1/Compte Rendu de Stage.md",
+    "Méthodes/Ma Méthodologie/Hypothèse.md",
+    "Ecrits/Question de recherche.md",
+    "Ecrits/M2/Mémoire/I. 1. Se renseigner, entre auto-promotion et survivance des luttes.md",
+    "Objets/Cas d'Études.base",
+    "Ecrits/M2/Exercice concepts.md",
+    "Lectures/Retours/Mobilisations écologistes.md",
+    "Lectures/Retours/Dictionnaire d'écologie politique.md",
+    "Lectures/Retours/Du low-tech numérique aux numériques situés.md",
     "Ecrits/M2/Mémoire/img/devenir-bénévole2-fne.asso.fr.jpg",
     "Ecrits/M2/Mémoire/img/devenir-bénévole-fne.asso.fr.jpg.part",
     "Ecrits/M2/Mémoire/img/devenir-bénévole-fne.asso.fr.jpg",
     "Ecrits/M2/Mémoire/img/agir-alternatiba.eu.jpg.part",
     "Ecrits/M2/Mémoire/img/agir-alternatiba.eu.jpg",
     "Ecrits/M2/Mémoire/img/artilces-accueil&contenu-gris.png",
-    "Parcours/Organisations Associatives/Agir pour l'environnement/Medias/article-www.agirpourlenvironnement.org.jpg.part",
     "Parcours/Organisations Associatives/Agir pour l'environnement/Medias/article-www.agirpourlenvironnement.org.jpg",
-    "Parcours/Organisations Associatives/Agir pour l'environnement/Medias/s1-www.agirpourlenvironnement.org.jpg.part",
     "Parcours/Organisations Associatives/Agir pour l'environnement/Medias/s1-www.agirpourlenvironnement.org.jpg",
-    "Parcours/Organisations Associatives/Greenpeace/Medias/article-www.greenpeace.fr.jpg.part",
     "Parcours/Organisations Associatives/Greenpeace/Medias/article-www.greenpeace.fr.jpg",
-    "Parcours/Organisations Associatives/Greenpeace/Medias/article-accueil-www.greenpeace.fr.jpg.part",
     "Parcours/Organisations Associatives/Greenpeace/Medias/article-accueil-www.greenpeace.fr.jpg",
     "Ecrits/M2/Mémoire/img/renseigner-gris.jpg",
-    "Parcours/Les Ecologistes/Medias/renseigner-lesecologistes.fr.jpg.part",
-    "Parcours/Les Ecologistes/Medias/renseigner-lesecologistes.fr.jpg",
-    "Parcours/Organisations Autonomes et Indépendantes/Bure Bure Bure/Medias/infobure-bureburebure.info.jpg.part",
-    "Parcours/Organisations Autonomes et Indépendantes/Bure Bure Bure/Medias/infobure-bureburebure.info.jpg",
-    "Parcours/Organisations Associatives/Colibris/Medias/inscription-www.colibris-lemouvement.org.jpg.part",
-    "Parcours/Organisations Mixtes et Polyvalentes/contenu-articlelessoulevementsdelaterre.org.jpg.part",
-    "Suivis/Suivi 05.03.md",
-    "I. 1. Textes, formulaires et téléchargement, les organisations écologistes au prisme de leurs fonctionnalités.md",
-    "Ecrits/M2/Chronique Radio/Chronique sur un concept.md",
-    "Ecrits/Question de recherche.md",
-    "Objets/Cas d'Études/Préselection/L'affaire du Siècle.md",
-    "Objets/Cas d'Études/Préselection/Greenpeace.md",
-    "Objets/Cas d'Études/Préselection/Les Amis de la Terre France.md",
-    "Ecrits/M2/Mémoire/Introduction.md",
-    "Ecrits/M2/Mémoire/old/I. 2. La place de l'écologie politique dans le fonctionnement des sites internet qui la défendent.md",
-    "Ecrits/M2/Mémoire/I. 2. a. Organisations associatives, une tension entre autopromotion et inclusion des utilisateurs dans les luttes..md",
-    "Ecrits/M2/Mémoire/I. 1. Se renseigner, entre auto-promotion et survivance des luttes.md",
-    "Ecrits/M2/Mémoire/I. 1. Méthode.md",
-    "Lectures/Retours/L’esthétique de l’engagement écologique. L’impensé des politiques environnementales.md",
-    "Notions/Esthétique de l'usure.md",
-    "Méthodes/Feature Analysis.md",
-    "Lectures/Retours/Sustainable HCI, IHM Durable/Mapping the Landscape of Sustainable HCI.md",
-    "Lectures/Retours/Meaningful Interaction/Escaping unsustainable digital interactions- Toward “more meaningful” and “moderate” online experiences.md",
-    "Ecrits/M1/Compte Rendu de Stage.md",
-    "Ecrits/M1/Compte Rendu Margaux.md",
-    "Lectures/Retours/The interface as discourse, The production of norms through web design.md",
-    "Ecrits/M2/Chronique Radio/Chronique sur un objet de mon corpus.md",
-    "Lectures/Auteurs·ices/Mel Stanfill.md",
-    "Ecrits/M2/Chronique Radio/Gauthier Roussilhe entre industrie et recherche, penser l'écologie en design..md",
-    "Notions/Sustainable HCI.md",
-    "Lectures/Retours/Sustainable HCI, IHM Durable/Have We Taken On Too Much, Sustainable HCI Landscape.md"
+    "Parcours/Les Ecologistes/Medias/renseigner-lesecologistes.fr.jpg"
   ]
 }
