@@ -25,14 +25,12 @@
             "id": "4a3955374b64ffc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Lectures/Retours/Sites web politiques et nouvelles formes de participation en ligne, cas de « la France en commun », « M l’avenir » et « Idées en commun ».md",
-                "mode": "source",
-                "source": false
+                "file": "Ecrits/M2/Mémoire/img/industrie-layout-type.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Sites web politiques et nouvelles formes de participation en ligne, cas de « la France en commun », « M l’avenir » et « Idées en commun »"
+              "icon": "lucide-image",
+              "title": "industrie-layout-type"
             }
           },
           {
@@ -333,10 +331,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4a3955374b64ffc4",
+  "active": "9f8c9a9f687a5e41",
   "lastOpenFiles": [
-    "Lectures/Récapitulatifs retours.base",
     "Lectures/Retours/Sites web politiques et nouvelles formes de participation en ligne, cas de « la France en commun », « M l’avenir » et « Idées en commun ».md",
+    "Lectures/Récapitulatifs retours.base",
     "Lectures/Retours/Rich user experience, UX and desktopization of war.md",
     "Lectures/Retours/Retours d'enquête, les designers et l'ecoconception.md",
     "Lectures/Retours/Mobilisations écologistes.md",
@@ -378,7 +376,6 @@
     "Parcours/Les Ecologistes/Medias/actualites-exemple-liens-lesecologistes.jpg",
     "Parcours/Les Ecologistes/Medias/actualites-exemple-video-pdf-lesecologistes.jpg",
     "Parcours/Les Ecologistes/Medias/actualites-liste-lesecologistes.jpg",
-    "Parcours/Les Ecologistes/Medias/carte-contact-region-locaux-carte.lesecologistes.mp4",
     "Parcours/Les Ecologistes/Medias/carte-hover-carte.lesecologistes.jpg",
     "Parcours/Les Ecologistes/Medias/carte-mouvement-lesecologistes.jpg"
   ]
