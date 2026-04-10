@@ -37,4 +37,4 @@ Complétion: true
 > Lire sur les campagnes invite autant à signer des pétition qu'à donner.
 
 
-Les campagnes sont aussi liées à la fonctionnalité de [[Signer des pétitions]], mais celle ci est cachée si on ne découvre pas les campagnes à partir du lien Agir ou Nos Campagnes. Si on découvre les campagnes par la section éponyme sur l'accueil, on n'a d'abord que des information. 
+Les campagnes sont aussi liées à la fonctionnalité de [[Parcours/Organisations Associatives/Greenpeace/Accueil/Signer des pétitions]], mais celle ci est cachée si on ne découvre pas les campagnes à partir du lien Agir ou Nos Campagnes. Si on découvre les campagnes par la section éponyme sur l'accueil, on n'a d'abord que des information. 

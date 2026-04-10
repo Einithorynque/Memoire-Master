@@ -6,7 +6,7 @@ Type:
 Description:
 Médias:
 Cas d'étude:
-  - "[[Écolo! (web)|Écolo!]]"
+  - "[[Bure Bure Bure]]"
 Page:
   - Accueil
 Récurrence:
@@ -16,4 +16,6 @@ Cliques:
 Date de création:
 Réponse au problème: true
 Complétion: false
+Sources:
+  - https://colibris-wiki.org/?PagePrincipale
 ---

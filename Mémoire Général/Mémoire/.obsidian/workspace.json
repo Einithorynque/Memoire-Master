@@ -8,31 +8,153 @@
         "type": "tabs",
         "children": [
           {
-            "id": "92bb7bd90d174766",
+            "id": "48b1ef49794cb9d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Suivis/Suivi 19.03.md",
+                "file": "Suivis/Suivi 02.04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Suivi 19.03"
+              "title": "Suivi 02.04"
             }
           },
           {
-            "id": "c1f02cc08ed4ccb2",
+            "id": "4a3955374b64ffc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notions/Esthétique de l'affichage.md",
+                "file": "Lectures/Retours/Sites web politiques et nouvelles formes de participation en ligne, cas de « la France en commun », « M l’avenir » et « Idées en commun ».md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Esthétique de l'affichage"
+              "title": "Sites web politiques et nouvelles formes de participation en ligne, cas de « la France en commun », « M l’avenir » et « Idées en commun »"
+            }
+          },
+          {
+            "id": "3ee075b41e86d092",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Parcours/Plateformes/Parcours Plateformes.base",
+                "viewName": "Complétées + Répondant au problème"
+              },
+              "icon": "lucide-table",
+              "title": "Parcours Plateformes"
+            }
+          },
+          {
+            "id": "b358e3323d75b22c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Retours/Sites web politiques et nouvelles formes de participation en ligne, cas de « la France en commun », « M l’avenir » et « Idées en commun ».md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sites web politiques et nouvelles formes de participation en ligne, cas de « la France en commun », « M l’avenir » et « Idées en commun »"
+            }
+          },
+          {
+            "id": "6ef478b538ca3607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parcours/Les Ecologistes/Accueil/Télécharger l'application Ecolo!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Télécharger l'application Ecolo!"
+            }
+          },
+          {
+            "id": "508d427c58280ba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objets/Littérature Grise/Écologie en résistance, les ONG ou la domestication de l'écologie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Écologie en résistance, les ONG ou la domestication de l'écologie"
+            }
+          },
+          {
+            "id": "b0063b830a85f8e5",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Lectures/Récapitulatifs à lire.base",
+                "viewName": "Textes"
+              },
+              "icon": "lucide-table",
+              "title": "Récapitulatifs à lire"
+            }
+          },
+          {
+            "id": "b10ef83f5f493e9c",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Parcours/Organisations Associatives/Parcours Organisations Associatives.base",
+                "viewName": "Complétées + Répondant au problème"
+              },
+              "icon": "lucide-table",
+              "title": "Parcours Organisations Associatives"
+            }
+          },
+          {
+            "id": "4baa5a4a5f8f8b71",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Parcours/Organisations Autonomes et Indépendantes/Parcours Organisations Autonomes et Indépendantes.base",
+                "viewName": "Complétées + Répondant au problème"
+              },
+              "icon": "lucide-table",
+              "title": "Parcours Organisations Autonomes et Indépendantes"
+            }
+          },
+          {
+            "id": "7de69c0cde9498af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Retours/The interface as discourse, The production of norms through web design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The interface as discourse, The production of norms through web design"
+            }
+          },
+          {
+            "id": "2076610442191086",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecrits/M2/Chronique Radio/Chronique sur un objet de mon corpus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chronique sur un objet de mon corpus"
             }
           }
         ],
@@ -93,7 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 325.5
   },
   "right": {
     "id": "76a3ce8d89bea0cc",
@@ -211,52 +333,53 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c1f02cc08ed4ccb2",
+  "active": "4a3955374b64ffc4",
   "lastOpenFiles": [
-    "Parcours/Organisations Associatives/Parcours Organisations Associatives.base",
-    "Notions/Esthétique de l'affichage.md",
-    "Suivis/Suivi 19.03.md",
-    "Suivis/Suivi 16.03.md",
-    "Projet de Fin d'Etude/Objets/XPUB/img/pad.mp4",
-    "Projet de Fin d'Etude/Objets/XPUB/img",
-    "Projet de Fin d'Etude/Objets/XPUB",
-    "Projet de Fin d'Etude/Objets",
-    "Projet de Fin d'Etude",
-    "Suivis/Suivi 12.03.md",
-    "Lectures/Retours/La mouvance écologiste contemporaine à l’épreuve d’internet, analyses comparative du déploiement de discours et de stratégies de communication d’organisations écologistes.md",
-    "Notions/Écologie Politique.md",
-    "Méthodes/Feature Analysis.md",
-    "Lectures/Retours/Sustainable HCI, IHM Durable/Have We Taken On Too Much, Sustainable HCI Landscape.md",
-    "Lectures/Retours/Sustainable HCI, IHM Durable/Mapping the Landscape of Sustainable HCI.md",
-    "Ecrits/M2/Chronique Radio/Chronique sur un concept.md",
-    "Lectures/Retours/L’esthétique de l’engagement écologique. L’impensé des politiques environnementales.md",
-    "Notions/Esthétique de l'usure.md",
-    "Lectures/Récapitulatifs à lire.base",
-    "Méthodes/Ma Méthodologie/Ma Méthode.md",
-    "Notions/Mécanismes de l'Affordance.md",
-    "Ecrits/M2/Mémoire/old/I. 2. La place de l'écologie politique dans le fonctionnement des sites internet qui la défendent.md",
-    "Lectures/Retours/Sustainable HCI, IHM Durable/Evaluating Sustainable Interaction Design of Digital  Services The Case of YouTube.md",
-    "Ecrits/M1/Introduction.md",
-    "Ecrits/M1/Compte Rendu de Stage.md",
-    "Méthodes/Ma Méthodologie/Hypothèse.md",
-    "Ecrits/Question de recherche.md",
-    "Ecrits/M2/Mémoire/I. 1. Se renseigner, entre auto-promotion et survivance des luttes.md",
-    "Objets/Cas d'Études.base",
-    "Ecrits/M2/Exercice concepts.md",
+    "Lectures/Récapitulatifs retours.base",
+    "Lectures/Retours/Sites web politiques et nouvelles formes de participation en ligne, cas de « la France en commun », « M l’avenir » et « Idées en commun ».md",
+    "Lectures/Retours/Rich user experience, UX and desktopization of war.md",
+    "Lectures/Retours/Retours d'enquête, les designers et l'ecoconception.md",
     "Lectures/Retours/Mobilisations écologistes.md",
-    "Lectures/Retours/Dictionnaire d'écologie politique.md",
+    "Lectures/Retours/Liquider l'utilisateur.md",
+    "Lectures/Retours/Les écologistes et la protection de la nature et de  l'environnement dans les années 1970.md",
+    "Lectures/Retours/Le choix des formes peut-il être un levier pour l’engagement écologique - Ethics by design 2020.md",
+    "Lectures/Retours/Le baromètre du numérique - édition 2025.md",
+    "Lectures/Retours/La question écologique dans le champ du design numérique.md",
+    "Lectures/Retours/La mouvance écologiste contemporaine à l’épreuve d’internet, analyses comparative du déploiement de discours et de stratégies de communication d’organisations écologistes.md",
+    "Lectures/Retours/La forme politique d'internet.md",
+    "Lectures/Retours/L’esthétique de l’engagement écologique. L’impensé des politiques environnementales.md",
+    "Lectures/Retours/L'écologie politique en France.md",
+    "Lectures/Retours/How Artifacts Afford.md",
+    "Lectures/Retours/From slacktivism to activism.md",
+    "Lectures/Retours/Feature Analysis, A Method for Analyzing the Role of Ideology in App Design.md",
+    "Lectures/Retours/Évaluation de l'impact environnemental du numérique en France..md",
+    "Lectures/Retours/En finir avec la confusion entre écologie et environnementalisme.md",
     "Lectures/Retours/Du low-tech numérique aux numériques situés.md",
-    "Ecrits/M2/Mémoire/img/devenir-bénévole2-fne.asso.fr.jpg",
-    "Ecrits/M2/Mémoire/img/devenir-bénévole-fne.asso.fr.jpg.part",
-    "Ecrits/M2/Mémoire/img/devenir-bénévole-fne.asso.fr.jpg",
-    "Ecrits/M2/Mémoire/img/agir-alternatiba.eu.jpg.part",
-    "Ecrits/M2/Mémoire/img/agir-alternatiba.eu.jpg",
-    "Ecrits/M2/Mémoire/img/artilces-accueil&contenu-gris.png",
-    "Parcours/Organisations Associatives/Agir pour l'environnement/Medias/article-www.agirpourlenvironnement.org.jpg",
-    "Parcours/Organisations Associatives/Agir pour l'environnement/Medias/s1-www.agirpourlenvironnement.org.jpg",
-    "Parcours/Organisations Associatives/Greenpeace/Medias/article-www.greenpeace.fr.jpg",
-    "Parcours/Organisations Associatives/Greenpeace/Medias/article-accueil-www.greenpeace.fr.jpg",
-    "Ecrits/M2/Mémoire/img/renseigner-gris.jpg",
-    "Parcours/Les Ecologistes/Medias/renseigner-lesecologistes.fr.jpg"
+    "Lectures/Retours/Dictionnaire d'écologie politique.md",
+    "Lectures/Retours/Design et Humanités Numériques.md",
+    "Lectures/Retours/concepts du design d'interaction, les affordances.md",
+    "Lectures/Retours/Chapitre 12. La sociabilité peut-elle s’exhiber dans l’espace public numérique.md",
+    "Lectures/Retours/Capture Numérique.md",
+    "Lectures/Retours/« Partis plateforme » versus « partis en réseau ».md",
+    "Parcours/Organisations Associatives/Parcours Organisations Associatives.base",
+    "Parcours/Organisations Autonomes et Indépendantes/Parcours Organisations Autonomes et Indépendantes.base",
+    "Lectures/Récapitulatifs à lire.base",
+    "Parcours/Plateformes/Parcours Plateformes.base",
+    "Parcours/Les Ecologistes/Parcours Les Ecologistes.base",
+    "Parcours/Plateformes/Écolo!/Google Play",
+    "Parcours/Plateformes/Écolo!/Apple Store",
+    "Parcours/Plateformes/Écolo!",
+    "Parcours/Plateformes",
+    "Parcours/Les Ecologistes/Medias/renseigner-lesecologistes.fr.jpg",
+    "Parcours/Les Ecologistes/Medias/accueil-carte-lesecologistes.jpg",
+    "Parcours/Les Ecologistes/Medias/accueil-lesecologistes.jpg",
+    "Parcours/Les Ecologistes/Medias/accueil-rs-lesecologistes.jpg",
+    "Parcours/Les Ecologistes/Medias/actualites-accueil-lesecologistes.jpg",
+    "Parcours/Les Ecologistes/Medias/actualites-exemple-liens-lesecologistes.jpg",
+    "Parcours/Les Ecologistes/Medias/actualites-exemple-video-pdf-lesecologistes.jpg",
+    "Parcours/Les Ecologistes/Medias/actualites-liste-lesecologistes.jpg",
+    "Parcours/Les Ecologistes/Medias/carte-contact-region-locaux-carte.lesecologistes.mp4",
+    "Parcours/Les Ecologistes/Medias/carte-hover-carte.lesecologistes.jpg",
+    "Parcours/Les Ecologistes/Medias/carte-mouvement-lesecologistes.jpg"
   ]
 }

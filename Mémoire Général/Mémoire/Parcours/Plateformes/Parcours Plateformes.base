@@ -1,0 +1,85 @@
+views:
+  - type: table
+    name: Complétées + Répondant au problème
+    filters:
+      and:
+        - file.inFolder("Parcours/Plateformes")
+        - and:
+            - '!file.inFolder("Parcours/Plateformes/Écolo!/Medias")'
+            - file.path != "Parcours/Organisations Associatives/Parcours Organisations Associatives.base"
+        - and:
+            - Complétion == true
+            - note["Réponse au problème"] == true
+    groupBy:
+      property: 1. Type de fonctionnalité principal
+      direction: ASC
+    order:
+      - file.name
+      - 1. Type de fonctionnalité principal
+      - 2. Type de fonctionnalité secondaire
+      - Cliques
+      - Récurrence
+      - Cas d'étude
+      - Sections
+      - Page
+      - Complétion
+      - Réponse au problème
+      - Écrans
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: 1. Type de fonctionnalité principal
+        direction: DESC
+      - property: 2. Type de fonctionnalité secondaire
+        direction: DESC
+      - property: Récurrence
+        direction: DESC
+    columnSize:
+      note.Récurrence: 134
+      note.Cas d'étude: 150
+      note.Sections: 149
+      note.Page: 245
+      note.Complétion: 33
+      note.Réponse au problème: 2
+      note.Écrans: -144
+  - type: table
+    name: Complétées
+    filters:
+      and:
+        - file.inFolder("Parcours/Organisations Associatives/France Nature Environnement/Accueil")
+        - and:
+            - '!file.inFolder("Parcours/Organisations Associatives/Greenpeace/Medias")'
+            - '!file.inFolder("Parcours/Organisations Associatives/Alternatiba/Medias")'
+            - '!file.inFolder("Parcours/Organisations Associatives/France Nature Environnement/Medias")'
+            - "!file.inFolder(\"Parcours/Organisations Associatives/Agir pour l'environnement/Medias\")"
+            - '!file.inFolder("Parcours/Organisations Associatives/Colibris/Medias")'
+            - file.path != "Parcours/Organisations Associatives/Parcours Organisations Associatives.base"
+        - and:
+            - Complétion == true
+    groupBy:
+      property: 1. Type de fonctionnalité principal
+      direction: ASC
+    order:
+      - file.name
+      - Réponse au problème
+      - 1. Type de fonctionnalité principal
+      - 2. Type de fonctionnalité secondaire
+      - Récurrence
+      - Cas d'étude
+      - Sections
+      - Page
+      - Complétion
+      - Cliques
+      - Écrans
+    sort:
+      - property: Récurrence
+        direction: DESC
+      - property: 2. Type de fonctionnalité secondaire
+        direction: ASC
+    columnSize:
+      note.Cas d'étude: 150
+      note.Sections: 149
+      note.Page: 245
+      note.Complétion: 33
+      note.Réponse au problème: 2
+      note.Écrans: -144
