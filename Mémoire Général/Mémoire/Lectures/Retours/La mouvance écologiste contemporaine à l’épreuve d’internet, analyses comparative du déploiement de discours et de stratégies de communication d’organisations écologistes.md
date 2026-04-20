@@ -124,7 +124,7 @@ Le luttes écologistes s'amplifient (Sainte-Soline), l'apparition de lutte dans 
 Organisations collectives mobilisées parfois de manière éphémère. (cf. [[Lectures/Retours/Mobilisations écologistes|Mobilisations écologistes]])
 
 > [!INFO] Il n'y a pas un mouvement écologiste mais des écologismes éparpillés
-> « Dans y répondre entièrement, nous avons vu que l’écologie est un terme largement polysémique, d’autant plus dans sa conception contemporaine. Nous en concluons désormais qu’il n’existe pas un mouvement écologiste, mais plutôt des écologismes éparpillés qui luttent singulièrement à porter des visions de l’écologie. Oscillant entre écologisme radicalement global et environnementalisme modéré, des formes d’organisations collectives sembleraient se mobiliser, parfois de manière éphémère, faisant écho à la théorie de la connective action (Bennet & Segerberg, 2012). » (Dile-Toustou, 2023, p. 269)
+> « Sans y répondre entièrement, nous avons vu que l’écologie est un terme largement polysémique, d’autant plus dans sa conception contemporaine. Nous en concluons désormais qu’il n’existe pas un mouvement écologiste, mais plutôt des écologismes éparpillés qui luttent singulièrement à porter des visions de l’écologie. Oscillant entre écologisme radicalement global et environnementalisme modéré, des formes d’organisations collectives sembleraient se mobiliser, parfois de manière éphémère, faisant écho à la théorie de la connective action (Bennet & Segerberg, 2012). » (Dile-Toustou, 2023, p. 269)
 
 ### Analyse textométrique 
 
