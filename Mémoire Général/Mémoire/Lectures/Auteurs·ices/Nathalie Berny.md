@@ -1,0 +1,1 @@
+Professeure de sociologie politique à Sciences Po Rennes et chercheure à Arène

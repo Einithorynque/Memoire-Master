@@ -13,85 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Suivis/Suivi 02.04.md",
+                "file": "To do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Suivi 02.04"
+              "title": "To do"
             }
           },
           {
-            "id": "f9a757b9d85295d6",
+            "id": "d603b82d880bd1cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notions/Écologie Politique.md",
+                "file": "Lectures/Retours/Défendre la cause de l'environnement, une approche organisationnelle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Écologie Politique"
+              "title": "Défendre la cause de l'environnement, une approche organisationnelle"
             }
           },
           {
-            "id": "91a357838507e8ca",
+            "id": "e87bcd1baea7ede5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Auteurs·ices/Bruno Villalba.md",
+                "file": "Notions/Mécanismes de l'Affordance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bruno Villalba"
-            }
-          },
-          {
-            "id": "82350905880f2d68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Retours/L'écologie politique en France.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "L'écologie politique en France"
-            }
-          },
-          {
-            "id": "03a423fb1f44d6a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objets/Littérature Grise/Écologie en résistance, les ONG ou la domestication de l'écologie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Écologie en résistance, les ONG ou la domestication de l'écologie"
-            }
-          },
-          {
-            "id": "157b13d04016d12a",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Parcours/Plateformes/Parcours Plateformes.base",
-                "viewName": "Complétées + Répondant au problème"
-              },
-              "icon": "lucide-table",
-              "title": "Parcours Plateformes"
+              "title": "Mécanismes de l'Affordance"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "right": {
     "id": "76a3ce8d89bea0cc",
@@ -266,11 +225,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4e64904323567e41",
+  "active": "48b1ef49794cb9d4",
   "lastOpenFiles": [
+    "Notions/Mécanismes de l'Affordance.md",
+    "Lectures/Retours/Défendre la cause de l'environnement, une approche organisationnelle.md",
+    "Lectures/Auteurs·ices/Nathalie Berny.md",
+    "To do.md",
+    "Suivis/Suivi 02.04.md",
+    "Notions/Organisations Écologistes.md",
+    "Notions/Organisations.md",
+    "Ecrits/M2/Mémoire/img/frise-autonomie&plateforme.jpg",
+    "Parcours/Plateformes/Parcours Plateformes.base",
     "Ecrits/M2/Mémoire/img/carte-sites-gris.jpg",
     "Ecrits/M2/Mémoire/img/carte-plateforme.fr.jpg",
-    "Ecrits/M2/Mémoire/img/frise-autonomie&plateforme.jpg",
     "Ecrits/M2/Mémoire/img/brouillon/page-agir-gris.jpg",
     "Ecrits/M2/Mémoire/img/brouillon",
     "Lectures/Retours/Sites web politiques et nouvelles formes de participation en ligne, cas de « la France en commun », « M l’avenir » et « Idées en commun ».md",
@@ -293,26 +260,18 @@
     "Parcours/Organisations Associatives/Parcours Organisations Associatives.base",
     "Lectures/Récapitulatifs à lire.base",
     "Parcours/Les Ecologistes/Accueil/Télécharger l'application Ecolo!.md",
-    "Parcours/Plateformes/Parcours Plateformes.base",
     "Ecrits/M2/Mémoire/img/industrie-layout-type.jpg",
     "Objets/Catégories Objets/Écologisme/Mouvements Écologistes.md",
     "Lectures/Récapitulatifs retours.base",
     "Lectures/Retours/Rich user experience, UX and desktopization of war.md",
     "Lectures/Retours/Retours d'enquête, les designers et l'ecoconception.md",
     "Lectures/Retours/Liquider l'utilisateur.md",
-    "Lectures/Retours/Les écologistes et la protection de la nature et de  l'environnement dans les années 1970.md",
-    "Lectures/Retours/Le choix des formes peut-il être un levier pour l’engagement écologique - Ethics by design 2020.md",
-    "Lectures/Retours/Le baromètre du numérique - édition 2025.md",
-    "Lectures/Retours/La question écologique dans le champ du design numérique.md",
-    "Lectures/Retours/La forme politique d'internet.md",
-    "Lectures/Retours/L’esthétique de l’engagement écologique. L’impensé des politiques environnementales.md",
     "Parcours/Les Ecologistes/Parcours Les Ecologistes.base",
     "Parcours/Plateformes/Écolo!/Google Play",
     "Parcours/Plateformes/Écolo!/Apple Store",
     "Parcours/Les Ecologistes/Medias/renseigner-lesecologistes.fr.jpg",
     "Parcours/Les Ecologistes/Medias/accueil-carte-lesecologistes.jpg",
     "Parcours/Les Ecologistes/Medias/accueil-lesecologistes.jpg",
-    "Parcours/Les Ecologistes/Medias/accueil-rs-lesecologistes.jpg",
-    "Parcours/Les Ecologistes/Medias/actualites-accueil-lesecologistes.jpg"
+    "Parcours/Les Ecologistes/Medias/accueil-rs-lesecologistes.jpg"
   ]
 }

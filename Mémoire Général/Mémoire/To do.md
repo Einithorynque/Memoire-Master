@@ -1,0 +1,11 @@
+- [ ] Ecrire conclusion
+- [ ] Développer mes idées 
+	- [x] Correction du message sur le manque d'autrice, parle de l'esthétique impersonnelle et voir à quel point ça sera important dans la sous-partie suivante
+- [ ] Ecrire annonce de plan
+	- [ ] Correction du message dans le début du chapitre 1
+- [ ] Relire la partie méthodologie
+	- [ ] Voir à intégrer Hamarat ?
+- [ ] Ou inclure les parties sur l'institutionalisant.. ? dans la méthodo ? 
+- [x] Ecrire sur les organisations 
+- [ ] Lié toutes les images aux textes (paragraphe 195)
+	- [ ] créer des images.. ou les mettre en noir et blanc avec du grain
