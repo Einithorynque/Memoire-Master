@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48b1ef49794cb9d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To do.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "To do"
-            }
-          },
-          {
             "id": "d603b82d880bd1cc",
             "type": "leaf",
             "state": {
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "Défendre la cause de l'environnement, une approche organisationnelle"
+            }
+          },
+          {
+            "id": "fc2b884f782395f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Soutenance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Soutenance"
             }
           },
           {
@@ -48,8 +48,23 @@
               "icon": "lucide-file",
               "title": "Mécanismes de l'Affordance"
             }
+          },
+          {
+            "id": "1caeb9dcbc8098dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To do"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "right": {
     "id": "76a3ce8d89bea0cc",
@@ -225,12 +239,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "48b1ef49794cb9d4",
+  "active": "1caeb9dcbc8098dd",
   "lastOpenFiles": [
-    "Notions/Mécanismes de l'Affordance.md",
-    "Lectures/Retours/Défendre la cause de l'environnement, une approche organisationnelle.md",
-    "Lectures/Auteurs·ices/Nathalie Berny.md",
+    "Soutenance.md",
     "To do.md",
+    "Lectures/Retours/Défendre la cause de l'environnement, une approche organisationnelle.md",
+    "Notions/Mécanismes de l'Affordance.md",
+    "Lectures/Auteurs·ices/Nathalie Berny.md",
     "Suivis/Suivi 02.04.md",
     "Notions/Organisations Écologistes.md",
     "Notions/Organisations.md",
@@ -265,7 +280,6 @@
     "Lectures/Récapitulatifs retours.base",
     "Lectures/Retours/Rich user experience, UX and desktopization of war.md",
     "Lectures/Retours/Retours d'enquête, les designers et l'ecoconception.md",
-    "Lectures/Retours/Liquider l'utilisateur.md",
     "Parcours/Les Ecologistes/Parcours Les Ecologistes.base",
     "Parcours/Plateformes/Écolo!/Google Play",
     "Parcours/Plateformes/Écolo!/Apple Store",
