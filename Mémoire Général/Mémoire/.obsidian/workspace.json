@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soutenance.md",
+                "file": "Notions/Esthétique de la limite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soutenance"
+              "title": "Esthétique de la limite"
             }
           },
           {
@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "To do"
             }
+          },
+          {
+            "id": "03c0d025f955a521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Auteurs·ices/Guillaume Carbou.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guillaume Carbou"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,9 +253,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1caeb9dcbc8098dd",
+  "active": "fc2b884f782395f1",
   "lastOpenFiles": [
     "Soutenance.md",
+    "Notions/Esthétique de la limite.md",
+    "Lectures/Auteurs·ices/Guillaume Carbou.md",
     "To do.md",
     "Lectures/Retours/Défendre la cause de l'environnement, une approche organisationnelle.md",
     "Notions/Mécanismes de l'Affordance.md",
@@ -278,8 +294,6 @@
     "Ecrits/M2/Mémoire/img/industrie-layout-type.jpg",
     "Objets/Catégories Objets/Écologisme/Mouvements Écologistes.md",
     "Lectures/Récapitulatifs retours.base",
-    "Lectures/Retours/Rich user experience, UX and desktopization of war.md",
-    "Lectures/Retours/Retours d'enquête, les designers et l'ecoconception.md",
     "Parcours/Les Ecologistes/Parcours Les Ecologistes.base",
     "Parcours/Plateformes/Écolo!/Google Play",
     "Parcours/Plateformes/Écolo!/Apple Store",

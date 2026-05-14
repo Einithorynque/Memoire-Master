@@ -12,3 +12,5 @@ On peut prévoir des slides pour les questions qu'on imagine. Ou des indices de 
 
 
 Un accroche, imprimer des éléments pour pointer des choses. Exposer des wireframe, des prototypes. Plus on a ça mieux c'est. Faire vivre une soutenance différemment. Un autre ordi avec une maquette qui défile. Une vidéo qui défile. 
+
+Bien utiliser les 20 minutes pour bien comprendre l'articulation mémoire projet. Ne pas rentrer dans le détail à fond. Penser des supports qui accompagnes la présentation, affiche, flyer etc. Ca s'anticipe un petit peu. (sources). Guider là où on va nous amener : questions de modération par exemple. 
